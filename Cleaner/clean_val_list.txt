@@ -1,0 +1,359 @@
+LJSpeech-1.1/wavs/01_d501021.wav|yanetareneete 'agalegeloteneme batamalakata bakeleloce bazonocenaa ba'adise 'ababaa batalayaayu botaawoce ya'agalegelote maa'ekalocene lamaaqwaaqwaame mataaqadune 'aberaaretawaale|01
+LJSpeech-1.1/wavs/01_d501022.wav|baziheme 'anasetanyaa masenowocene bamaasefaafaate 'agaritune batadagaagaami kamiyaathaqaate dereqenaa yamegebe 'ehele 'etherate lamaaqaalale 'enedamicaale thaqumawaale|01
+LJSpeech-1.1/wavs/01_d501023.wav|yehe 'enedaayehone baheyewataacawe masewaa'etenate yaaseganyutene yateyopheyaawinate kebere 'anegebane laqedesete hagaraacene 'anedenatenaa lu'alaawinate salaamenaa beletsegenaa baheberate 'enequme|01
+LJSpeech-1.1/wavs/01_d501024.wav|yamajamariyaawe nathebe bataqaawaami hayeloce safare bagaaraa 'aqwaame laaye bagaaraa lamaaqome yaayanawe tsenaate 'anasetanyaa mahonu nawe|01
+LJSpeech-1.1/wavs/01_d501025.wav|'aqeme bamifaqedawe masarate 'aseqademo mazagaajate selamifalegu yamiyaatharaathere 'ayehoneme setele ya'ameerikaa demetse zeenaa zagaabi galetsaalace|01
+LJSpeech-1.1/wavs/01_d501026.wav|kala qasetanyocu makaakale 'abezaanyaawocu tsahayu zaaree tagalatha hayelaselaasee maarune 'alamaacene 'abaataacene ya'aferikaa 'abaate ya'alame 'abaate bamaalate nabare hazanaacawene yamigaletsu|01
+LJSpeech-1.1/wavs/01_d501027.wav|kazihe gaare lasabe'awi 'agalegelote masalafwame wetheetaamaa mahonwame 'adenaaqotene 'aterefolaataale|01
+LJSpeech-1.1/wavs/01_d501028.wav|yakomishenu wesaaneenaa yabeeta kehenatu taqaawemo|01
+LJSpeech-1.1/wavs/01_d501029.wav|yeheneneme baademanenaa sheraarone bamawerare 'ewene 'aregwaale|01
+LJSpeech-1.1/wavs/01_d501030.wav|gaazeethanyocene malayaayataacawe bezuwocene 'asaazenwale|01
+LJSpeech-1.1/wavs/01_d501031.wav|baalafawe sanyo 'elate dagemo bateeleevezhene leelaa shelemaate sishalame tamalekateku|01
+LJSpeech-1.1/wavs/01_d501032.wav|'athaqaalaaye wachiwe 'aseraa semenete shi dolaare 'enedahona lamaawaqe tacelwale|01
+LJSpeech-1.1/wavs/01_d501033.wav|leelocu bamulu theenanyoce naacawe|01
+LJSpeech-1.1/wavs/01_d501034.wav|malasenaa saayaase 'erese ba'erese lamagalabaabathe 'eyamokaru nawe|01
+LJSpeech-1.1/wavs/01_d501035.wav|ya'ayare hayelaacene 'aweropelaanoceme gedaajaacawene batagabiwe fatsemawe basalaame tamalesawaale sile yamanegesete qaale 'aqabaaye tsefate beete magelachaa 'asetaaweqwaale|01
+LJSpeech-1.1/wavs/01_d501036.wav|kamwacocu gaare yanabaru hulate taathaaqiwoce basalaame 'ejaacawene masethataacaweneme yapolise magelachaawe 'akelo galetswale|01
+LJSpeech-1.1/wavs/01_d501037.wav|cegerocune dagemo maasewagade nabara baacawe|01
+LJSpeech-1.1/wavs/01_d501038.wav|'agaafaariwocaacawe baa'adaanume 'aqwaamaacawe lanaresu haretonaa mubuto kasathute degaafe 'ayelayeme|01
+LJSpeech-1.1/wavs/02_d502021.wav|yeheenee malase naqaa 'ala|02
+LJSpeech-1.1/wavs/02_d502022.wav|bazihe kelele labarekaataa zeegwaceme yaseraa 'edele yefatheraale yamilu sinoru batalaye lasomaaliyaaweyaane 'edelu safi 'enedahona tathaqeswale|02
+LJSpeech-1.1/wavs/02_d502023.wav|deferate baayehone benye sehetate nawe|02
+LJSpeech-1.1/wavs/02_d502024.wav|bahagaraacene yaqerebe zamane taarike wesethe 'araate 'adise me'eraafe kafaace hunatoce matheqase yecaalaale|02
+LJSpeech-1.1/wavs/02_d502025.wav|yabiraawe neduseteri gene yataakese qenasaa bidaragelateme meneme 'ayenate yawaagaa lawethe ladanebanyocu 'alaadaragame|02
+LJSpeech-1.1/wavs/02_d502026.wav|hewahate he'adeege taadeshaalahu kamaalatunaa qawesu kamafatharu bafite polise bafetehe miniseteere sere 'eneda nabare sitaawaqe fetehe miniseterume yahewahate sawe 'enedaalenabaru yetaawesaale|02
+LJSpeech-1.1/wavs/02_d502027.wav|'ahune lamene demetsaacawe thafaa hulatu 'agaroce bajamarute thorenate yabalatha yasagaawe ya'ameerikaa manegesete nawe|02
+LJSpeech-1.1/wavs/02_d502028.wav|huseene 'ayedide ba'alitehade laaye 'aqwaame wasadu sememenateme 'adaragu|02
+LJSpeech-1.1/wavs/02_d502029.wav|bazihe 'enedatasemaamu lamaane tesathe lamaane sibaale lazihemaa kaasaa 'ala 'ayedale 'anedee yakoso shaache leje yamile hasaabe tasamaa|02
+LJSpeech-1.1/wavs/02_d502030.wav|ronaaledo manaagare yafalagawe gene hemamu mulu lamulu lamadaane gizee yamifalege gene yamidene lamaalate nabare|02
+LJSpeech-1.1/wavs/02_d502031.wav|ba'asetayaayatu tesemaamaalahe tabelo sithayaqe 'asalethaanye hagwase yehe 'ayenate 'agaathaami bamalaawe 'alame laaye sikasate tasetawelwale bamaalate maleswale|02
+LJSpeech-1.1/wavs/02_d502032.wav|'aneelekaa kashi maayekele gaare batadagaagaami taganaanyeto yaabaakanaacawe kwaasoce yamiyaaseqochu naacawe|02
+LJSpeech-1.1/wavs/02_d502033.wav|bajaremane yamiganyu wathaatoceme labeheeraawi budene 'edele selamaayesathaacawe zeegenataacawene 'eyalawathu yeganyaalu|02
+LJSpeech-1.1/wavs/02_d502034.wav|'ato 'alamaayahu zagaya batsara musenaa komishene kese laaye makaatataacawene kagaazeethoce laaye kamaanebabaacawe weche yaferede beete matheriyaa 'enedaaledarasaacewe manaagaraacaweme tathaqumwale|02
+LJSpeech-1.1/wavs/02_d502035.wav|kateyopheyaa gaare beneqalaaqale bezu yamilawathe nagare yalame|02
+LJSpeech-1.1/wavs/02_d502036.wav|ya'anegelo teyopheyaane maahebare 'eereteraa saraawitwane 'enedetaasewathaa thayaqa|02
+LJSpeech-1.1/wavs/02_d502037.wav|'enee raasee yate botaa honyee seraayeene 'enedamesaraa 'alaaweqeme maalataacawene kabibisi bamitalaalafawe fokase 'one 'aferikaa perogeraame laaye 'asedamethwale|02
+LJSpeech-1.1/wavs/02_d502038.wav|yahagare 'asetadaadare miniseteru leyu radaate bamahone kaagalagalu baxwaalaa bateeheraanenaa bateele'avive yajaremane 'eemebaasiwoce wesethe tamadebawe 'agalegelawaale|02
+LJSpeech-1.1/wavs/03_d503021.wav|ba'ato malase yatatharaawe yehe yathorejeeneeraaloce sebesabaa 'ahuneme 'enedaqathala nawe tabelwale|03
+LJSpeech-1.1/wavs/03_d503022.wav|baalidogelee yateyopheyaa thore taqothaatherotaale yatabaalawe ya'ayeropelaane maarafiyaa yamiganyebate katamaa nawe|03
+LJSpeech-1.1/wavs/03_d503023.wav|shaa'ebiyaa 'akashafekwaacawe yamilaacawe semenetu yadarege yazamacaa zuroce manaa honawe yaqarute bawayaanee tawaagiwoce masewaa'etenate 'enedahona yenagaraale|03
+LJSpeech-1.1/wavs/03_d503024.wav|ba'eereteraa bakule batamasaasaaye maleku yatawasanu 'alaamaawoce manadafaacawene 'emune nawe|03
+LJSpeech-1.1/wavs/03_d503025.wav|ya'alebashere manegesete kazihe baxwaalaa ya'eereteraa lu'alaawinate yamitsaararenaa yabaala selethaanaatune sebe'enaa kaminakaa tagebaare maqothabe 'enedaminorebate galetsawaale|03
+LJSpeech-1.1/wavs/03_d503026.wav|yehe sawe weha lemaate 'akaabaabi bamiganyawe manoriyaa beetu yataashagabate sihone 'eresume yadarasabate 'ayetaawaqe|03
+LJSpeech-1.1/wavs/03_d503027.wav|'enyaame wasefaate yehonaale 'eyaalene baxwaalaa baxwaalaa nawe yehe yawathaalate|03
+LJSpeech-1.1/wavs/03_d503028.wav|kaqulebi wada harare tawasedawe mataasaraacawe kamataawaqu basetaqare yehe zeenaa 'eseka tathanaakarabate gizee derase meneme 'ayenate lawethe 'alamanorune wesethe 'awaaqiwocu galetsawaale|03
+LJSpeech-1.1/wavs/03_d503029.wav|bamahonume leeloce keleloceme kazihe bamamaare zeegwacaacawene ka'adaganyaa 'etsoce lamakalaakale bayabakulaacawe hegenaa danebe liyaazagaaju 'enedamigabaa magefaatenaa magafaafaate tagabi yemaselaale|03
+LJSpeech-1.1/wavs/03_d503030.wav|selazihe 'asalethaanyu raasaacawene becaa 'eyaadaamathu kafelaagwataacawe 'alenaqaanaqe belawaale bamaalate 'areseenaale kacaamepiyanese lige kawathaa baxwaalaa ya'enegelize yaseporete gaazeethanyoce 'eyatsaafu nawe|03
+LJSpeech-1.1/wavs/03_d503031.wav|'ahuneme bayakelelu 'eyatazawaawaru perojaketune 'eyagamagamu naacawe|03
+LJSpeech-1.1/wavs/03_d503032.wav|maberaate hayele bawesaaneewe tathaqaami saayehone 'enedamaayeqare kazeenaa menechocaacene lamaradaate celanaale|03
+LJSpeech-1.1/wavs/03_d503033.wav|ba'aweropaa maderake laaye bathelo maalafe waanechaawe laaye larube fetsaamee maalafune 'aragaagethwale|03
+LJSpeech-1.1/wavs/03_d503034.wav|balaayenyaawe bare heedene senethayeqe meneme 'anaaweqeme hidu kazihe belawenaale|03
+LJSpeech-1.1/wavs/03_d503035.wav|baalafawe qedaamee pereezedaanete saayaase bataganyubate yatamaarakawene 'aberaari 'eereteraa lahezebwa bamaasaayate hezebe lamaasedasate mukaraa maaderagwaane yatalayaayu yazeenaa menechoce 'asaaweqawaale|03
+LJSpeech-1.1/wavs/03_d503036.wav|shamegaaye budenu 'enedamisabasabe yaasetaawaqute yawaqetu ya'aferikaa 'anedenate derejete liqamanebarenaa yaburekinaafaaso pereezedaanete yahonute beleeze kaamepaa 'oree naacawe|03
+LJSpeech-1.1/wavs/03_d503037.wav|faanaa dimokeraasi yatasanyawenaa ya'efoyetaa gaazeethaanaa matseheete 'asaataami derejete bayefaa tazageto saraatanyoce mabatanaacawe taawaqa|03
+LJSpeech-1.1/wavs/03_d503038.wav|lagenezaabee yaahele 'anede heeketaare mato meetere bamato meetere wayeneme 'anede yakwaase machaawacaa meedaa yaahelaale|03
+LJSpeech-1.1/wavs/04_d504021.wav|bagubaa'eewe laaye yanabarute yanagaamaa pereezidaanete 'ato kefelee mulaate gene tsedequ qareto bawagu bakonananye nawe yaalute|04
+LJSpeech-1.1/wavs/04_d504022.wav|yakeeneyaawe pereezedaanete kateyopheyaa baalaselethaanaate gaare bakeeneyaanaa bateyopheyaa denebare moyaalee 'akaabaabi batanasaawe gechete 'eneda makaru dipelomaatike menechoce thaqumawaale|04
+LJSpeech-1.1/wavs/04_d504023.wav|nagare gene 'anede qane raasune bacaala hidatenaa maleke likanaawane yamicele yamaayeqare deregite nawe|04
+LJSpeech-1.1/wavs/04_d504024.wav|teyopheyaa ba'alame qaye maseqale fite lafite bageletse ladahenenatwa yamiyaasagu 'eereteraaweyaanene lamaabaarare tagadaalace|04
+LJSpeech-1.1/wavs/04_d504025.wav|le'uku ka'anede ware baxwaalaa 'adise 'abaanaa 'asemaraa yegabaale tabelo yethabaqaale|04
+LJSpeech-1.1/wavs/04_d504026.wav|yamwace beetasaboce maredowe 'eseka 'ahune yatadabaqabene 'aqeme yalaacaweme mene yaadaregaalu kamile neqate yamanacha 'enedahoname bamaamaarare yenaagaraalu|04
+LJSpeech-1.1/wavs/04_d504027.wav|'ahune gizeewe 'ayedalame yaalaalanye sawe yalame nabare|04
+LJSpeech-1.1/wavs/04_d504028.wav|kaziheme leelaa hosepitaalu 'amesete paresanete yatagwadaa sihone magalegayaa masaariyaawocu bamulu katheqeme wechi mahonaacawene yaderejetu halaafi kanoreweeye labibisi galethawaale|04
+LJSpeech-1.1/wavs/04_d504029.wav|tekurate lisathawe 'enedamigabaa 'eyagalatsene 'asefalaagiwe male'ekete baqathetaa yamimalakataacawene hulu bamawayaayate tachamaari male'ekete lamaasetalaalafe 'enedamenecele tasefaa 'enaadagaalane|04
+LJSpeech-1.1/wavs/04_d504030.wav|'alabalaziyaa gene kamariwocu 'eyaraaqa nawe|04
+LJSpeech-1.1/wavs/04_d504031.wav|kelabaacene yatamasaratawe ba'anede shi zathanye mato zathanaa nabare|04
+LJSpeech-1.1/wavs/04_d504032.wav|'esekaahune yaasemazagabawe wetheeteme yamiyaabarataataa nawe|04
+LJSpeech-1.1/wavs/04_d504033.wav|yaberaazile shaamepiyonaa leke 'eneda bafitu yateyopheyaa shaamepiyonaa wededere 'ayenate manegade nawe yamikatalawe|04
+LJSpeech-1.1/wavs/04_d504034.wav|bagele temeherete taqwaamaate yami yaasetameru yayunivareseti mameheraane manegesete damawaze kamikafelaacawe seraa wechi baleelaa yatemeherete taqwaamaate 'enedaayaasetameru yamiyaagede 'adise danebe 'azagaajetwale|04
+LJSpeech-1.1/wavs/04_d504035.wav|yaqarwatene maneteyaa lejoce batekaazee tamalakatacaacawe 'enasuneme 'enedameteqabere ka'ayenwa laaye kaminababawe tasefaa maqurathe maradaate yecaalaale|04
+LJSpeech-1.1/wavs/04_d504036.wav|leelaawe yagemegamaawe 'eresa gudaaye hono yaqarabawe 'asaraare zalale yamibaalawe nawe|04
+LJSpeech-1.1/wavs/04_d504037.wav|'enediyaaweme kaleelaawe 'aletamaarame kamibaalawe yaheberatasabe kefele baanasa mathane 'eraasune kategelu 'areqo nawe yamiganyawe|04
+LJSpeech-1.1/wavs/04_d504038.wav|baaleta lamada huneetaame labezuwocu yanadaaje boteewoce tasanaakelo bayagaraazhunaa bayabeetu makolekoleme waanaawe manese'eeye 'awe mahonu basefaate 'eyatanagara nawe|04
+LJSpeech-1.1/wavs/05_d505021.wav|teyopheyaa wadabune banatsaa yametethaqamebate huneetaa yemacaacaale tabaala|05
+LJSpeech-1.1/wavs/05_d505022.wav|badoketare taayee waledasamaayaate laaye yamisamaawe wesaanee badaanyaawe 'ala maganyate taraazama|05
+LJSpeech-1.1/wavs/05_d505023.wav|badeenevare koloraado 'ameerikaa baqerebu batakaaheedawe baneduseteri 'edegate bamathaqu yasemenete 'agaroce sebesabaa laaye yatawasanaweme kazihe weche 'alenabarame|05
+LJSpeech-1.1/wavs/05_d505024.wav|yaanene yamasala theyaaqee 'aneseto bamaashofenaa bamaathaathaale maalafe kabaade nawe|05
+LJSpeech-1.1/wavs/05_d505025.wav|'enazihe kabezuwocu yatsome darajaawoce theqitocu sihonu bachawaataanaa yaalaqume nagare leelitune mulu bamaameshatenaa ramadaane bamamethaatu yamenechanaqenaa yamikabedane mahone yalabateme|05
+LJSpeech-1.1/wavs/05_d505026.wav|pereezedaanete saayaase 'afawareqi manegesetaacawe he'apaanenaa 'onagene yeradaale bamile laqarabalaacawe theyaaqee he'apaaneme hona 'onagene manegesetaacawe 'enedamaayeradaa galetsawaale|05
+LJSpeech-1.1/wavs/05_d505027.wav|beeta keresetiyaanitume hagaritume 'anede taalaaqe sawe 'athu|05
+LJSpeech-1.1/wavs/05_d505028.wav|kaziheme leelaa baaletaragaagatha meneche baqaraba zeenaa kafaranesaaye gaagele yatabaalu heelikonyatarocenaa leeloceme tawaagi 'aweronyalaanoce jibuti magebaataacawe taaweqwaale|05
+LJSpeech-1.1/wavs/05_d505029.wav|la'alaahe magazaate maalate 'enedihu baqane 'amesetee kafitu madafaate maalate 'ayedalamelahe gegaatocunaa te'ezaazaatu mene gizeeme taazaazhe hono maganyate maalate nawe 'eneji|05
+LJSpeech-1.1/wavs/05_d505030.wav|laaziyowoce 'eyaayalu bamamethaate yaciliwe saalaase kwaase yezo sigabaa bamathalafu yatasathawene peenaaleti raasu bamaaseqothare laaziyo sosete la'anede mameraate jamara|05
+LJSpeech-1.1/wavs/05_d505031.wav|laaziyonaa milaanese 'enedeete tazanagu yehee ya'enyaa hasaabe nawe|05
+LJSpeech-1.1/wavs/05_d505032.wav|kaziheme batachamaari wathaate tachawaacocene bamaasabaasabe lawadafitu lithanaakarubate yamicelubatene manegade 'amacaacetwale|05
+LJSpeech-1.1/wavs/05_d505033.wav|yehene gudaaye 'asemaleketo batagamagamubate waqete kasaraatanyocu theyaaqee qarebolaacawe simalesu ganezabu 'enedisathanye 'enee theyaaqee 'alaaqarabekume belawaale|05
+LJSpeech-1.1/wavs/05_d505034.wav|denebaraacene 'asabe derase nawe 'enyaa ya'anedenate daqamazaamurete nane|05
+LJSpeech-1.1/wavs/05_d505035.wav|yamedere baabure derejete manegadanyocene yamaagwaagwaaze 'agalegelote kaalafawe hulate saamenete jamero maqwaarathu taawaqa|05
+LJSpeech-1.1/wavs/05_d505036.wav|miniseterwa yabiro wene yamadehanite serechete halaafi maanagaagaraacawene thaqeso gelasabu hakime 'alamahonunenaa yahekemenaa 'eweqate 'enedaleelaweme 'aseradetwacawaale bamaalate 'aseferwale|05
+LJSpeech-1.1/wavs/05_d505037.wav|sudaanenaa teyopheyaa badenebare gudaayoce zuriyaa tanagaagaru|05
+LJSpeech-1.1/wavs/05_d505038.wav|'esume raasu cegere 'alabate|05
+LJSpeech-1.1/wavs/06_d506021.wav|kamagaarajaa jarebaa wanejale tafatsemwale yamile nagare yalame|06
+LJSpeech-1.1/wavs/06_d506022.wav|leelocu dagemo ba'alame 'aqafe heberatasabe zanede yatalaya malekenaa taqabaayenatene lamaagenyate yatanagara 'enedahona yenaagaraalu|06
+LJSpeech-1.1/wavs/06_d506023.wav|hezebume 'enedalamadawe 'enedaaye nagaagare wada tagebaaraawi wesaaneewe 'enedaa yaazanabele manegadune 'atharenebate|06
+LJSpeech-1.1/wavs/06_d506024.wav|kaziyaa 'eseka zaaree derase 'ato 'aberehame yaalubatene tegelenaa 'eyakafalu yaaluteneme masewaa'etenate 'aweqaalahu 'adaneqaalahume|06
+LJSpeech-1.1/wavs/06_d506025.wav|yehe ba'enedihe 'enedaala 'adise 'abaa wesethe yachawe waagaa nero yeganye 'eneji baleeloce meretoce laaye yawaagaa lawethe 'aletaayame|06
+LJSpeech-1.1/wavs/06_d506026.wav|tafanaaqaayoce wada yakelelaacehu gebu tabaalu|06
+LJSpeech-1.1/wavs/06_d506027.wav|jebume wathaatwane takataatelo yebalaataale maalate nawe yesemaataale|06
+LJSpeech-1.1/wavs/06_d506028.wav|ba'ahunume waqete hulatume waganoce 'alefo 'alefo ba'akaabaabiwe yatakuse lewewethe 'eyaadaragu mahonu taaweqwaale|06
+LJSpeech-1.1/wavs/06_d506029.wav|yazihe baanede taarike 'enedami yaaseradaa we kahona bazamanaacawe 'acaa yaaletaganya laacawe yaroke baanede tabelawaale|06
+LJSpeech-1.1/wavs/06_d506030.wav|kelabocu gene batachaawatubate waqete kateeleevezhene bayachawaataawe sedesete mato shi bere gabi yaaganyaalu|06
+LJSpeech-1.1/wavs/06_d506031.wav|felaaminegwa baalafawe qedaamee yaasetanaaga dawe bariyo maaraakaanyaa seteediyome wesethe 'ateleetiko mineeyerone nabare|06
+LJSpeech-1.1/wavs/06_d506032.wav|baseponesare kataganya gabi nawe 'eneji|06
+LJSpeech-1.1/wavs/06_d506033.wav|banetarenaashenaale gethemiyaa bunaanaa kanamaa 'asaamenawe si yaashanefu giyoregise bavitaalo tashanafa|06
+LJSpeech-1.1/wavs/06_d506034.wav|wesethaawi 'anedenatu disipelinu yaseraa zegeju natu wadami falegawe darajaa maderase macaale 'alabate|06
+LJSpeech-1.1/wavs/06_d506035.wav|maaneme zeegaa maaneme dame yenurawe leke 'esu 'enedaalawe wasaanyu 'amalakaakatu nawe|06
+LJSpeech-1.1/wavs/06_d506036.wav|ya'eereteraa maa'ekalaawi baanede bonede bamashathe konomiwene lamaaragaagaate yamiyaasecelawene gabi lamaa sabaasebe 'eneqeseqaasee majamarune baqerebu yazagabawe royetare yatasanyawe yazeenaa 'awetaare nawe|06
+LJSpeech-1.1/wavs/06_d506037.wav|ba'afaare kamiyaasefalegawe 'ehele 'arebaa sedesete kamato becaa nawe yaqarabawe|06
+LJSpeech-1.1/wavs/06_d506038.wav|'anede teyopheyaawi perofeesare dagemo ragaa belane senaase bawe thorenatune yaasekatalawe hulatume mariwoce yatakatalute yapolatikaa masemare nawe yelaalu|06
+LJSpeech-1.1/wavs/07_d507021.wav|re'esa 'aneqatsu bamaqathaleme natsaa gaazeethoce yaraqaqa maasefaraariyaanaa wakabaame yekaaheedebaacawaale|07
+LJSpeech-1.1/wavs/07_d507022.wav|'anede 'anasetanyaa gudaaye lamaasefatsame bathaame rajeme qatharo yamisathe bamahonu baala gudaayocenaa gudaayocaacawene yamikataatalulaacawe thabaqaawoce simaararu qoyetawaale|07
+LJSpeech-1.1/wavs/07_d507023.wav|'ezihu liyaadaqeqaacawe yamifalegaacawene sawoce kaalehona baqare lathayaqa hulu paaseporeteme vizaame yesathaale|07
+LJSpeech-1.1/wavs/07_d507024.wav|dero kahezebe yamisabasabawe gebere nabare|07
+LJSpeech-1.1/wavs/07_d507025.wav|yawaladawene leje lamaasetamaare tasenotaale|07
+LJSpeech-1.1/wavs/07_d507026.wav|bazihe 'amate macharashaa hamelee ware wayeneme bamiqathelawe 'amate yamajamariyaa waraate 'enadoketaretaayee yamacharashaa wesaanee yaaganyaalu tabelo tagametwale|07
+LJSpeech-1.1/wavs/07_d507027.wav|'amazaanyu 'erese baraasu sicharaarase joro daabaa lebase belo maayate yabelehe mariwoce 'asetasaasabe lihone 'ayeceleme|07
+LJSpeech-1.1/wavs/07_d507028.wav|lathaqelaye minesetere malase zeenaawi yaasetalaalafutene dabedaabee mulu qaale kazihe qathelo 'enaaqarebaalane|07
+LJSpeech-1.1/wavs/07_d507029.wav|maahelaaweme hona gaabecaaweme semeetwane yamikora kuraate fetherate baatehoneme 'enedihu 'eyaadanaagara wada chaakaa yezwate gabaa|07
+LJSpeech-1.1/wavs/07_d507030.wav|zaareenaa naga bahagaroce yawesethe wededere basaamenetu 'agaamaashe laaye dagemo ba'aweropaa caamepiyanese lige 'enedihu bagugute yamithabaqu chawaataawoce yedaragaalu|07
+LJSpeech-1.1/wavs/07_d507031.wav|'asalethaanyu ba'eregetheme beheeraawi budenune kayaazu wadihe kelabu 'eyatashanafa nawe|07
+LJSpeech-1.1/wavs/07_d507032.wav|yamimadabawe ganezabe tamwaleto kaalaqa baxwaalaa yamikatalawene cegere kagemete wesethe bamaasegabaate yatalayaayu gabi maaseganyaa zadeewocene maqayasu 'asefalaagi nawe|07
+LJSpeech-1.1/wavs/07_d507033.wav|ya'alame yamegebe perogeraame becaawene wada salaasaa shitone 'ehele maredaatu tagaletswale|07
+LJSpeech-1.1/wavs/07_d507034.wav|zagabaawe kazihe batachamaari bataadaagi 'agaroce yaalawene yadehenate mathane batamalakata fenechocene yefaa 'aderegwaale|07
+LJSpeech-1.1/wavs/07_d507035.wav|yehenene batekekele yamiyaawequte 'enasu becaa naacawe|07
+LJSpeech-1.1/wavs/07_d507036.wav|shaa'ebiyaa 'enazihene 'akaabaabiwoce lamaagenyate felegwa 'alamaagenyatunaa maathaatu derebe shenefate weredate 'agenyetotaale lamaalate yecaalaale|07
+LJSpeech-1.1/wavs/07_d507037.wav|yehee baalafute gizeeyaate becaa saayehone 'ahuneme 'eyaqathala yaalanaa yamitaaye gudaaye nawe|07
+LJSpeech-1.1/wavs/07_d507038.wav|qariwocu 'asefatsaamiwe 'akaale bahege katasathawe selethaane saaye zale yamiyaakanaawenaacawe tagebaaroce yehonaalu|07
+LJSpeech-1.1/wavs/08_d508021.wav|'ato 'abaata kisho yaala makasase mabetaacawe magafafune yafeedeeraalu kafetanyaa ferede beete 'asetaawaqa|08
+LJSpeech-1.1/wavs/08_d508022.wav|balejenate zamanaacawe gizee yamute leje honaweme baaganyute belechaa wada 'eedaneberaa 'enegelize bamalaake yamajamariyaawe tamaari nabaru|08
+LJSpeech-1.1/wavs/08_d508023.wav|baziheme la'agaraacawenaa la'aferikaa mene yaahele yechanaqu 'eneda nabare lamaganezabe ceyaalahu|08
+LJSpeech-1.1/wavs/08_d508024.wav|thore silaakebate bagebetsoce guyaa yedabaqaale|08
+LJSpeech-1.1/wavs/08_d508025.wav|ya'asemaraawe 'amebaasaadare la'eereteraawe reedeyo yasathute qaale yadipelomaasiyaawi tale'eko'acawene lamafatsame 'eneji batekekeleme ya'adise 'ababaawe 'amebaasaadare yasathute magelachaa ka'ewenate reqo 'ayedalame|08
+LJSpeech-1.1/wavs/08_d508026.wav|'agaree yamathaahu 'alemasalanyeme 'apaaretaayedene 'asetaawasanye|08
+LJSpeech-1.1/wavs/08_d508027.wav|saraawitu yehe saaye baqaawe 'alaqocu lawedeqatu tathayaaqi naacawe bamabaale mataamasaacawe kafetanyaa wetheratene bathoru wesethe yaasafana mahonume tamaleketwale|08
+LJSpeech-1.1/wavs/08_d508028.wav|'amelaake male'aketene sifathere yamale'akete 'alaqaa hono yatafatharawe 'ahune saathenaa'eele yamenelawe kayesi nabare|08
+LJSpeech-1.1/wavs/08_d508029.wav|thanekaaraa we yunaayetede 'eyatanaqaanaqa nawe|08
+LJSpeech-1.1/wavs/08_d508030.wav|lidese dagemo wedegeete semize pole robinesanenaa seteefane maakefile yatabaalu wathaatocene yezwale|08
+LJSpeech-1.1/wavs/08_d508031.wav|budenu bamaatheqaate laaye yatamarakoza futebole nawe yamichaawatawe|08
+LJSpeech-1.1/wavs/08_d508032.wav|la'anetanahe yathayaqawene 'amwaletane wada kelabu benemalese weba tachawaacoce makaakale leyunate yefatharebenaale|08
+LJSpeech-1.1/wavs/08_d508033.wav|jebuti yehene lamene 'enedafatsamace yajebuti yaweche gudaaye minisetare sinaagaru lahagaraacene salaamenaa maragaagaate 'eremejaacene fetehawi nawe belawaale|08
+LJSpeech-1.1/wavs/08_d508034.wav|baziheme teyopheyaane yatashaalace hagare lamaaderage bamidaragawe therate yabakulune 'asetawaatse'o yaadaregaale beyee 'amenaalahu|08
+LJSpeech-1.1/wavs/08_d508035.wav|yahadiyaa lemaate maahebare tafaraa makee meketelu dasetaa daanyee zathanyenaa sedesete 'amate tabayenobaacawaale sile ye'awe yazeenaa zagabaa chamero galetswale|08
+LJSpeech-1.1/wavs/08_d508036.wav|mene gizeeme yariporetare 'enaa ya'eemesisi maahebarasabe 'abaalaate laperojaketocu sekeetaamaanate kahayeleenaa ka'agaarocu gwane naacawe|08
+LJSpeech-1.1/wavs/08_d508037.wav|'eseka 'anede shi zathanye mato selesaa sedesete derese bateyopheyaa yanabarawe manegesetaawi sere'ate yasiso sere'ate bamabaale yamitaaweqe 'enedanabare yetaawasaale|08
+LJSpeech-1.1/wavs/08_d508038.wav|'eneda tamaariwe 'aqwaame temeherete lamaasejamare yadahenenate waasetenaa tasatheto huluneme tamaari yaasaatafa 'athaqaalaaye weyeyete madarage 'alabate|08
+LJSpeech-1.1/wavs/09_d509021.wav|'onage lahulate takafelo masemaamaate yamaayecelebate darajaa laaye maderasune ya'amaraare 'abaalaatu galatsu|09
+LJSpeech-1.1/wavs/09_d509022.wav|banazihe thamaamoce kefu 'asaabiwoce mekeneyaate yamenaanee heyewate yamigafubate 'alame 'eseka mahone daresaalace|09
+LJSpeech-1.1/wavs/09_d509023.wav|'eneda ganaa teyopheyaawi lamahone madaraadare yamarathume 'alu|09
+LJSpeech-1.1/wavs/09_d509024.wav|koloneele manegesetu yehenene gelate la'abeyotu biyaawelute silu 'enee 'eseka maaweqawe baqi mekeneyaate nabaraacawe|09
+LJSpeech-1.1/wavs/09_d509025.wav|la'enaaneta nagarekwaacehu 'eneji 'egeziyo balu 'eyaala hezebu siyaaselaqese melaase yamiyaawathaa baahetaawi 'ala 'alaalekume|09
+LJSpeech-1.1/wavs/09_d509026.wav|nagarocene batheleqate mamaremarenaa maaseradaate yazawatere seraawaa yahonawe hayaale be'eranyaanaa basaale gathaami feremaayee 'alamu ya'anedite seete leje 'enaate nabarace|09
+LJSpeech-1.1/wavs/09_d509027.wav|'eneda bafitu ba'agaru laaye baayetawaarenatume qaretwale|09
+LJSpeech-1.1/wavs/09_d509028.wav|dagemome baalwanenaa lejewaane ka'ajabe mahale yametefalege seete baalwane betaaganye dase belwate lejewaaneme betaaganye 'agalaabethaa semaa badasetaa taalaqesaalace|09
+LJSpeech-1.1/wavs/09_d509029.wav|'enaresu kaleelu waagaa yalanyeme|09
+LJSpeech-1.1/wavs/09_d509030.wav|zaaree kaleeyesetare gaaraa katachaawata baxwaalaa saamenete kacalesi yamiyaadaregawe yabudenu darajaa yamiyaamalakete yehonaale|09
+LJSpeech-1.1/wavs/09_d509031.wav|kelabu zanedero 'ajamaamaru theru nawe|09
+LJSpeech-1.1/wavs/09_d509032.wav|lazihe wesaanee kakaafe thabaqe yaala 'eremejaanaa qethaate yewasanebenaale yamile ferecaa 'ala|09
+LJSpeech-1.1/wavs/09_d509033.wav|kaziyaame ba'anedaanede 'aweropelaanoce laaye yatawasanu beleshetoce takasetawaale yamile zagabaa 'enedaqaraba maaneejemanetu 'aseraa semenetune teekenishiyaanoce liyaasanaabetwacawe 'enedabaqu tazagebwale|09
+LJSpeech-1.1/wavs/09_d509034.wav|genenyunataacene dagemo wada moqa huneetaa tamaleswale belawaale 'anede kafetanyaa yajebuti baalaselethaane larine|09
+LJSpeech-1.1/wavs/09_d509035.wav|yakelelu yaseraa qwaaneqwaa 'oromenyaa 'enedihoneme tawasenwale|09
+LJSpeech-1.1/wavs/09_d509036.wav|yamane ka'eereteraa gaaraa badaseetoce gechete selaalaate yathalaataacene thalaate wadaajaacene nawe bamile beneyezaate hayaale tehonanaalace bamile tasefaa nawe|09
+LJSpeech-1.1/wavs/09_d509037.wav|merechaawe batathanaaqaqa basalaasaa qanaate wesethe 'adisu yakatamaawe mekere beete seraawene yejameraale|09
+LJSpeech-1.1/wavs/09_d509038.wav|'enazihe sawoce charesawe jele 'adaragune|09
+LJSpeech-1.1/wavs/10_d510021.wav|denebare yamaakaalalu wesaanee bagalaletanyaa yadenebare komishene 'amaakaanyenate bamiqathelawe ware kaheege 'enedamigalatse 'amaleketwale|10
+LJSpeech-1.1/wavs/10_d510022.wav|bazihe wegiyaa yateyopheyaa tawaagi jeetoce 'enedihume yawegiyaa heelikopetaroce masaatafaacaweneme magelachaawe 'amaleketwale|10
+LJSpeech-1.1/wavs/10_d510023.wav|bazihe bahanetinegetane yaselethaaneewoce sanetharazhe masarate teyopheyaacene yayatenyaawe selethaanee kebabe 'abaale 'enedahonace maawaqu baalekafaa|10
+LJSpeech-1.1/wavs/10_d510024.wav|kalaaye selatagalatsawe 'adisu 'ayenate yabeheere cheqonaa kesetateme genezaabee yaalaacawe 'ayemaselume|10
+LJSpeech-1.1/wavs/10_d510025.wav|'enedihe yaala nagare 'ayewathaanyeme|10
+LJSpeech-1.1/wavs/10_d510026.wav|hulatu hayeloce baqerebe reqate wesethe 'enedamiganyume lamaaseradaate yamokaracewe bashaa'ebiyaa wataadaroce meshege wesethe bamahone yateyopheyaa wataadaroce 'eneqeseqaasee yetaayaale bamaalate nawe|10
+LJSpeech-1.1/wavs/10_d510027.wav|ba'alame laaye yaalu yaya'agaru marajaawoce kaalwacawe yamarajaa menechoce wesethe 'anedu yapereese wetheete nawe|10
+LJSpeech-1.1/wavs/10_d510028.wav|ba'eereteraanaa bategeraaye gudaaye yaqarabalaacawenaa yasathute malese qathelo qarebwale|10
+LJSpeech-1.1/wavs/10_d510029.wav|bamuyaawe labezu gizee sarecaalahu|10
+LJSpeech-1.1/wavs/10_d510030.wav|bazihe laaye wi'ahe tadaraabi 'atheqi hono bamachaawate laaye bamahonu 'eyatamaarara nawe|10
+LJSpeech-1.1/wavs/10_d510031.wav|ya'adise 'ababaa setaadiyome tamalekaace qeeraa yamile qetsele seme 'awethetolehale|10
+LJSpeech-1.1/wavs/10_d510032.wav|ka'aqeme balaaye yahona cegere baayenore noro lamaasalethane feqaadanyaa nabarekunye|10
+LJSpeech-1.1/wavs/10_d510033.wav|bamene 'enedataasaru yamiyaaqute yamazegabe beete saraatanyoce naacawe|10
+LJSpeech-1.1/wavs/10_d510034.wav|telaanete thabaqocee mathetawe senenagaagare 'enegelizanyaa selaasegabaane 'enee bamesamaawe qwaaneqwaa kaalehona 'atenaagarume 'alabaziyaame tewathaalaacehu belawe thabaqoceene 'asefaraaruwaacawe|10
+LJSpeech-1.1/wavs/10_d510035.wav|baleelaa bakule sereqotenaa masale wanejalocene mekeneyaate 'aderegwa barekaataa yamaqalee katamaa nawaariwoce bamataafase laaye mahonaacawe taaweqwaale|10
+LJSpeech-1.1/wavs/10_d510037.wav|'aweropelaanu 'eqaachaanye sihone babararaawe laaye sedesete ya'ayare manegade saraatanyocene 'asaafero nabare|10
+LJSpeech-1.1/wavs/10_d510038.wav|kaziyaa weche yamenelawe 'ayenoraneme|10
+LJSpeech-1.1/wavs/11_d511021.wav|yasomaaliyaa manegesete hagaritune ya'ashabaariwoce manaa'ariyaa 'eyaadaragaate nawe tabaala|11
+LJSpeech-1.1/wavs/11_d511022.wav|lamaane 'abeete maalate 'enedamicaaleme geraa gabetonaale bamaalate nagaadeewocu besotaacawene galetsawaale|11
+LJSpeech-1.1/wavs/11_d511023.wav|gudaayune baqerebe lamenekataatalawe sawoce meneme 'asedanegaache yezate yalaweme|11
+LJSpeech-1.1/wavs/11_d511024.wav|yehe simineto baahere daare laayeme yamishathawe baselesaa 'amesete bere nawe|11
+LJSpeech-1.1/wavs/11_d511025.wav|salaame la'enaaneta yehune 'edemetanyocee 'enee 'ashemuranyaawe la'enaaneta salaamenaa theenaawene 'emanyaalahu|11
+LJSpeech-1.1/wavs/11_d511026.wav|teyopheyaa salaame falaagi bamamesale 'eyaadaragace yaalacewene dabaa lamaamekanenaa sosetanyaawene zure wararaa lamadamesase zegeju nane silume tadamethawaale|11
+LJSpeech-1.1/wavs/11_d511027.wav|yehene modaaliti lamaasefatsame halaafinate yatathaalabaacawe ya'alejariyaawe pereezidaanetenaa 'adisu ya'a'ade waanaa tsahafi naacawe|11
+LJSpeech-1.1/wavs/11_d511028.wav|wareqenaa bere bunaanaa 'ahele gaamogwafaa 'ala bamile shefaane dabedaabeeme 'eyatsaafa yadebeqe maahebare 'aqwaaqwaama|11
+LJSpeech-1.1/wavs/11_d511029.wav|seyume nawe yatsaafawe belo tsehufune 'ayecee ya'eresu 'alamahonune senagerawe 'enee yamaaweqawe nagare yalame nawe yaalanye|11
+LJSpeech-1.1/wavs/11_d511030.wav|budenu ba'enegelize kaalute kelaboce ba'akaale beqaatu bakule yatawaathaalatenaa disepelinene mareho yaadaraga 'eneda nabare yenagaraale|11
+LJSpeech-1.1/wavs/11_d511031.wav|'ahune baalabate huneetaa kaqathala cheraashunu wedederu 'enedaayethafaa yaasagaale|11
+LJSpeech-1.1/wavs/11_d511032.wav|budenu baadaragaacawe sosete chawaataawoce wesethe hulatune 'acaa siwathaa ba'anedu tashanefwale|11
+LJSpeech-1.1/wavs/11_d511033.wav|ya'eedese bashetaanaa yashaa'ebiyaa wararaa tsara lemaate naacawe|11
+LJSpeech-1.1/wavs/11_d511034.wav|'eneda dipelomaatu kahona yashaa'ebiyaa baalaselethaanaate yateyopheyaa thore 'asabene lamayaaze qorethwale belawe 'eraasaacawene 'asaamenawaale|11
+LJSpeech-1.1/wavs/11_d511035.wav|wada tewelede manedaraacawe yamikadutene maadane qareto lasemenetanyaawe zure yasaawaa selethanaa tamalemaaye lamaagenyate macagaru tazagebwale|11
+LJSpeech-1.1/wavs/11_d511036.wav|yaderejetaacene hege 'asekabaari hayele 'odite komishene banasu laaye feredune siyaasaarefe deroweneme 'eyaawaqu kudeetaa yaadaragu bamahonaacawe liqabalu 'alefalagume|11
+LJSpeech-1.1/wavs/11_d511037.wav|selazihe gudaaye 'anede baalaselethaane sinaagaru manegesete bawesethe qeraanee wesethe nawe bamaalate 'agaathaamiwenenaa 'edelune lamathaqame falegawe nabare belawaale|11
+LJSpeech-1.1/wavs/11_d511038.wav|'alaziyaa kagubaa'eewocaacawe kasebesabaawocaacawenaa kadisekuraacawe lahezebenaa la'agare yatarafa nagare 'alaayaneme|11
+LJSpeech-1.1/wavs/12_d512021.wav|yadenebare maakaalale hidatune ba'afaathaanye gebune 'enedimataa 'alame 'aqafu hebaratasabune 'asefalaagiwene 'egazaa 'enediyaadarege theri yeqarebaale|12
+LJSpeech-1.1/wavs/12_d512022.wav|batachamaarime yabaaneke qerenechaafoce baleelabaacawe 'akaabaabiwoce yabere lawethu yamitagaberu sosete mato yamidaresu gizeeyaawi yamalawaawachaa thaabiyaawoce mazagaajataacawene 'ato dubaala 'aseradetawaale|12
+LJSpeech-1.1/wavs/12_d512023.wav|yehe dagemo ya'anede 'emenate takataayenataacawene 'eneji yahezebu mathariyaa hono liyaagalagele yamicele seyaamee 'enedaalehona geletse nawe|12
+LJSpeech-1.1/wavs/12_d512024.wav|majamariyaa nagare yehenene hega manegesete maqabale maalate yawayaaneene yapolatikaa perogeraame maqabale maalate yehonaale|12
+LJSpeech-1.1/wavs/12_d512025.wav|ya'onage taathaaqiwoce bakeeneyaa wataadaroce takababu|12
+LJSpeech-1.1/wavs/12_d512026.wav|batachamaari gaazeethanyaa taameraate zumaa ya'aseraa sedesete shi bere waase bamaathaatu lakafetanyaa 'eserenaa seqaaye madaaragu yetaawasaale|12
+LJSpeech-1.1/wavs/12_d512027.wav|balemanaa gizeeyaacenene maathefaate yalabeneme yamile waree yamiyaaraagebu 'enedaalu yaasetaawaqawe tapodehe yaheberatu yategele sanade yaalagabaacawe naacawe belwacawaale|12
+LJSpeech-1.1/wavs/12_d512028.wav|thurataawe 'enedikabarelate yamaayefalege maaneme yalame|12
+LJSpeech-1.1/wavs/12_d512029.wav|maatheqaatune yajamaracewe teyopheyaa naate|12
+LJSpeech-1.1/wavs/12_d512030.wav|gene yehe hulu weshate nawe|12
+LJSpeech-1.1/wavs/12_d512031.wav|bazege setaadiyome chawaataawoce yamikanaawanute budenune lamaqethaate hona tabelo bafeedeereeshenu 'aliyaame bakonefeedeereeshenu wesaaneewe sisathe nawe|12
+LJSpeech-1.1/wavs/12_d512032.wav|yamenaa qarebawe hasaabe bateyopheyaa futebole feedeereeshene zanede taqabaayenate yaaganyaale belane 'enegametaalane|12
+LJSpeech-1.1/wavs/12_d512033.wav|qeduse giyoregise bazanedero wededere laaye thanekaaraa tafokaakaari lamahone yabaanekocune 'anetanahe falaqanenaa yateyopheyaa bunaa teewoderose baqalane 'asekobelelwale|12
+LJSpeech-1.1/wavs/12_d512034.wav|ba'eseraa'eele raaqe raanene rusiyaa ruwaanedaa maalaazheyaa libiyaa laa'ose sepeene soriyaa wazate gaazeethanyoce 'eneda lebe yamaneqasaaqasu 'edele 'enedaleelaacawe derejetu zagebwale|12
+LJSpeech-1.1/wavs/12_d512035.wav|bawaqetu yathalaate saraawite yachaanu yamiganyubaacawene kasalaasaa balaaye yathalaate makinaawocene 'agaayetawaale|12
+LJSpeech-1.1/wavs/12_d512036.wav|yehenene batamalakata kaweche gudaaye miniseteere maaberaariyaa lamaagenyate yaadaragawe therate 'aletasaakaame|12
+LJSpeech-1.1/wavs/12_d512037.wav|gene 'enasu 'afanegethawe baayewathu leyunatu mathebabe yecele nabare|12
+LJSpeech-1.1/wavs/12_d512038.wav|batalaye kahadeege baalaselethaanoce gaare 'aberawe sisarunaa siyaaseeru bezu 'amate qoyetawaale|12
+LJSpeech-1.1/wavs/13_d513021.wav|'ahuneme bihone baalafute 'aserete 'amataate 'enedaadaragacewe hulu basomaaliyaa salaame 'enedisafene tesaraalace belawaale|13
+LJSpeech-1.1/wavs/13_d513022.wav|la'agaraacene polatikaa ya'enejaraa leje honanaale yamilu waganoce berate maanesaataacawene 'eyanagarune nawe|13
+LJSpeech-1.1/wavs/13_d513023.wav|basosetanyaawe darajaa dagemo 'amebaagananune sere'ate basemu yamitharaa bamahonume 'abezaanyaawe teyopheyaawi yaakaberawaale|13
+LJSpeech-1.1/wavs/13_d513024.wav|zaaree barekaataa cegeroce kafitaacene tadaqenawaale|13
+LJSpeech-1.1/wavs/13_d513025.wav|baqaa 'eneda faradabenye 'enee 'efalegaalahu yelaale zabanyaawe ya'ahunune baalaselethaane wayeneme gumetu tagaadaalaaye|13
+LJSpeech-1.1/wavs/13_d513026.wav|yasheehe 'alaamudine habete basanetharazhu laaye yatamalakatawe becaa 'enedaalehonanaa yehe zerezere bataganya marajaa laaye becaa tamasereto yatathanaakara mahonune lamaradaate tacelwale|13
+LJSpeech-1.1/wavs/13_d513027.wav|shaacheme gazhime kazihe katafaqadawe botaa baqare kaleelaa zanede setegazaa yataganyahe sawe bakabetehe teqathaalahe|13
+LJSpeech-1.1/wavs/13_d513028.wav|manegesete yamalasaacawe yabeeta kehenate henetsaawoce ka'abaa phaawelose 'eje 'enedamaayewathu tagalatsa|13
+LJSpeech-1.1/wavs/13_d513029.wav|wetheetu yathamamabatene livarepule yaqademowe zenaawene lamaasemalase 'enedamitharu yenaagaraalu|13
+LJSpeech-1.1/wavs/13_d513030.wav|teekenishaanu 'asetone vilaane baganezabe magudaate 'ayaashaame|13
+LJSpeech-1.1/wavs/13_d513031.wav|'ezihe laaye guri miyo qari hulate chawaataa 'ala we|13
+LJSpeech-1.1/wavs/13_d513032.wav|ka'ahune wadiyaa tamalekaacune wada meedaa lamamalase meneme 'ayenate mafetehee liyaabajulate 'ayecelume|13
+LJSpeech-1.1/wavs/13_d513033.wav|babezaate gene bayamanegadu daare bayabaranedaawe laayeme lamaadare bamakalekalaacawe maaye habe habe yatabaala yakatamaawe qoshaashaa maatharaaqamiyaa botaa yamiyaaderu mahonune galethawaale|13
+LJSpeech-1.1/wavs/13_d513034.wav|yamanegesete gaazeethanyaawe he'adeegene bazaranyenate kasasa|13
+LJSpeech-1.1/wavs/13_d513035.wav|ricaarede bushere weyeyetu ganebi 'eneda nabara bigaletsume zerezere gudaayocene kamaaseradaate taqothebawaale|13
+LJSpeech-1.1/wavs/13_d513036.wav|pereezedaanete kaamepaaworee ka'esaacawe gaare wada teyopheyaa naa 'eereteraa 'enedimathu tamaathenawaacawe nabare|13
+LJSpeech-1.1/wavs/13_d513037.wav|yatsathetaawe mekere beete maasaasabiyaa laaka|13
+LJSpeech-1.1/wavs/13_d513038.wav|'amesetanyaawe gebetsaawi sihonu daageme lamamarathe 'enedamaayefalegu taaweqwaale|13
+LJSpeech-1.1/wavs/14_d514021.wav|lidarage lataasabawe lawethe thenaatenaa zegejetune 'eyatagabaadada nawe belawaale|14
+LJSpeech-1.1/wavs/14_d514022.wav|danebee manegule ba'awazaagaabiwaa yabaadema manedare 'akaabaabi 'araate mato meetere yaahele la'eereteraa wada tawasanawe gezaate gabaa belaa yameteganye naate|14
+LJSpeech-1.1/wavs/14_d514023.wav|selaziheme yabeete seraawene saayesaraa yatemeherete gizee yadarasabate tamaari maselwale|14
+LJSpeech-1.1/wavs/14_d514024.wav|sela thorenatu manaagare ba'enasu selamiyaamere gudaayune la'enasu matawe bafaqadeku|14
+LJSpeech-1.1/wavs/14_d514025.wav|yateyopheyaa hulate tawaagi jatoce ba'aseraa hulate bonebe ya'asabene 'ayare thaabiyaa mametaataacawe taragaagatha|14
+LJSpeech-1.1/wavs/14_d514026.wav|yabaahere bare binorane yethaqemanaale|14
+LJSpeech-1.1/wavs/14_d514027.wav|bazihu sebesabaa laaye yakeeneyaanaa yaruwaanedaa miniseteroce yaaletaganyu sihone yahulatume manegesetaate tawakaayoce gene basebesabaawe laaye maganyataacawe taaweqwaale|14
+LJSpeech-1.1/wavs/14_d514028.wav|yehene 'eneda 'asefalaaginatu ba'akaabaabiwe muyaawenaa beqaatu yaleelaacawe sawoce wayeme bamifalagawe mathane bamaayeganyubate waqete yaweche zeegwace yamisaatafebate 'edele yenoraale|14
+LJSpeech-1.1/wavs/14_d514029.wav|ka'adise 'abaa wada jemaa bamiwasedawe manegade hamesaa 'amesete kilo meetere bameteganyawe bataji katamaa 'akaabaabi bezu sawoce motawaale tabelwale|14
+LJSpeech-1.1/wavs/14_d514030.wav|gene bathaame theru yehonaale yamile hasaabe 'alenabaranyeme|14
+LJSpeech-1.1/wavs/14_d514031.wav|hulaaceneme kasehetatocaacene 'enedenemaare yaadareganaale|14
+LJSpeech-1.1/wavs/14_d514032.wav|bunaa gabayaa 'adaganyaa yamilawe zeemaacawe batalaye mataawaqiyaacawe honwale|14
+LJSpeech-1.1/wavs/14_d514033.wav|lacegeru bagwa melaashe maagenyate yamicaalawe kakaafe zanede nawe|14
+LJSpeech-1.1/wavs/14_d514034.wav|bazihe ragade 'aye 'eeme 'eefe 'eqedu yamisathawe bedere baderejetu te'ezaaze 'esekaaletafatsama derase yanatsaa gabayaawene marehe maaraamade 'ayeceleme|14
+LJSpeech-1.1/wavs/14_d514035.wav|'amebaasaadare baadere bahulate 'agaroce yaalu yanegede sawoce yabalatha lamaseraate 'enedicelu 'agaathaamiwoce mathaqame 'enedamicelume 'asemerawebataale|14
+LJSpeech-1.1/wavs/14_d514036.wav|bahege maderake yatadaragawe tegele fetehe taganyabateme 'aletaganyabateme wachi yamidaragebate nawe|14
+LJSpeech-1.1/wavs/14_d514037.wav|kashaa'ebiyaa 'amelethawe yamane yagabu teyopheyaaweyaane wada hagaraacawe gabu|14
+LJSpeech-1.1/wavs/14_d514038.wav|baqadaadaa yamigabaa netsuhe 'ayare taaganyaalacenaa|14
+LJSpeech-1.1/wavs/15_d515021.wav|lakonomiwe 'edegate machamare maasaayaa bageberenaawe zarefe gabayaa 'athaa 'eneji merete chamerwale|15
+LJSpeech-1.1/wavs/15_d515022.wav|'aretisete selashihe bapolatikaa wesethe tasaatefo yaalaacawe gelasaboce bahalaafinate maqamathe 'enedaleelabaacaweme thaqumwale|15
+LJSpeech-1.1/wavs/15_d515023.wav|batalaye badabube bakule baalaabaatoce kafetanyaa hukate 'eyafatharu nabare|15
+LJSpeech-1.1/wavs/15_d515024.wav|bazihe genebaare yaraase 'anasaashenatu basudaane saraawite 'eje 'enedahona lamaaneme geletse nawe|15
+LJSpeech-1.1/wavs/15_d515025.wav|yateyopheyaa manegesete dabube 'aferikaa koroneele manegesetune 'asaalefaa 'enedetesathaate thayaqa|15
+LJSpeech-1.1/wavs/15_d515026.wav|bamekere beetu wanebare 'anasetanyaa quthere yaalaacawe taqaawaamiwoce yapolatikaa paaretiwoce bagemegamaawe tasaataafi 'ala mahonaacawe qereetaa 'enedaasaadarabaacawe kapaaretiwocu 'abaalaate lamaawaqe tacelwale|15
+LJSpeech-1.1/wavs/15_d515027.wav|baziheme magebaate 'ateceleme sibaale yariporetare gaazeethaa waanaa 'azagaaje yaalameneme theyaaqee tafateshawe ligabu macaalaacawe thaqumwale|15
+LJSpeech-1.1/wavs/15_d515028.wav|kaziyaa batanyaacebate thabeseqaa ka'alegaa gaare 'athaabeqaa bamayaaze 'anegatwane babilaa maqurathe tejameraalace|15
+LJSpeech-1.1/wavs/15_d515029.wav|yehenene yateyopheyaa wataadaroce 'eremejaa yasumaalee laanede tathari 'ewenate silu 'enedaaragaagathute yabibisi reedeyo yaharegeesaa wezagaabi baasaalafawe yaseleke zeenaa laaye galetswale|15
+LJSpeech-1.1/wavs/15_d515030.wav|kakwaase xwaalaa sirothu yamisetawaalute bafiteme 'ahuneme hayaa hulate tachaawaacoce naacawe|15
+LJSpeech-1.1/wavs/15_d515031.wav|'eneda tamalakatenawe 'asalethaanye tasefaayee 'eseka 'erafete kamaqamachaawe 'aletanasaame nabare|15
+LJSpeech-1.1/wavs/15_d515032.wav|bazihe samone nawe kakwaase gaare yatayaayaaza lememede maseraate yajamarenawe|15
+LJSpeech-1.1/wavs/15_d515033.wav|kazihe bafite yehene 'ayenate 'edele 'agenyetawe katagwaazute makaakale 'anedaanedocu batemeheretaacawe bamagefaate yamajamariyaa digeriyaacawene 'agenyetawaale|15
+LJSpeech-1.1/wavs/15_d515034.wav|teyopheyaawiyaane jagenoce mahonaacene lenaasaayaacawe yegabaanaale|15
+LJSpeech-1.1/wavs/15_d515035.wav|mafetehee yamidaragelate kahona yashaa'ebiyaa 'ejoce waye masabesabe 'aliyaame maqorathe 'alabaacawe|15
+LJSpeech-1.1/wavs/15_d515036.wav|yategeraaye hezebe derejete 'eya gwadaanaa 'eyaaqosala 'eneji 'alaadaanaweme|15
+LJSpeech-1.1/wavs/15_d515037.wav|putelaanede yameteganyawe gaalaakaayee 'eseki daresu derase yateyopheyaa makalaakayaa hayele 'enedaajabaacawe taaweqwaale|15
+LJSpeech-1.1/wavs/15_d515038.wav|yehune 'eneji yehe 'abaabaale 'eneda sehetate 'enedaale taqothara tanetsabaa reqwaale|15
+LJSpeech-1.1/wavs/16_d516021.wav|ya'ayenaseweraane yaberaale gaazeethaanaa yagulehe hetemate majamare zaaree bahiletane hoteele yefaa 'enedamihone yateyo niwese yaberaale gaazeethaa waanaa 'azagaaje galatsu|16
+LJSpeech-1.1/wavs/16_d516022.wav|mekere beetu kazihe qadame yaqarabalatene ya'oditare riporete masarate 'aderegwa mene 'eremejaa wasada bamaalate la'afa gubaa'eewe theyaaqee qarebwale|16
+LJSpeech-1.1/wavs/16_d516023.wav|wada 'asemaraa kagasagasene katoweneme 'alame 'aqafe maa'eqabe yethaalebaacawe yamile wesaanee yesathebenaale|16
+LJSpeech-1.1/wavs/16_d516024.wav|kelaasetare bomebe bategeraaye nawaariwoce laaye 'enedatawarawara yasamaahute 'ezihe 'ameerikaa yamitaatamu gaazeethocenaa raadiyowoce basafiwe sizagebu nawe|16
+LJSpeech-1.1/wavs/16_d516025.wav|jeeneeraalu 'ayaayezaweme batenaanetu 'ayare theqaate ba'eereporete 'akaabaabi yamiganye 'anede gezufe yathore masaariyaa magaazane magaayatuneme 'aberaaretawaale|16
+LJSpeech-1.1/wavs/16_d516026.wav|yateraanesu gebe thabaaqi katamalekaace 'adenaaqotene tacerotaale|16
+LJSpeech-1.1/wavs/16_d516027.wav|'enanyihene bamalaawe yateyopheyaa hezebe seme samaa'ete yahonutene 'arebanyaa tagaadelo'acawene lamaasaanase yataaqada seeraa nawe bamile qereetaawene galethwale|16
+LJSpeech-1.1/wavs/16_d516028.wav|yasi'ee seekuritu halaafi yatazaabaa zeenaa talaalefwale 'alu|16
+LJSpeech-1.1/wavs/16_d516029.wav|'anedeeme gene taqabaayenate liyaaganye 'alecaalame|16
+LJSpeech-1.1/wavs/16_d516030.wav|'ewenataaweneme ba'alaahe seme 'aragaagethelenye|16
+LJSpeech-1.1/wavs/16_d516031.wav|babeheeraawi ligu kakatamaa wada katamaa mazawaawaru tachamaari wachi yaasekatelebenaale|16
+LJSpeech-1.1/wavs/16_d516032.wav|yahulegizee yayehe yemwalaalene theyaaqee doketare makonenenaa yabudene mariwe naazereete banabarute gizee 'aletaayame|16
+LJSpeech-1.1/wavs/16_d516033.wav|viyori la'ateleetiko basepeene ligaanaa bamaahebarasabu waanechaa lisete wesethe tamazegebwale|16
+LJSpeech-1.1/wavs/16_d516034.wav|'enediyaa weme bezuwoce 'eereteraaweyaane shaa'ebiyaa bateyopheyaa laaye lakafatawe wararaame 'eyatatharaatharu mamethaataacawene samonune ka'asemaraa yamiwathu wareewoce yaaseradaalu|16
+LJSpeech-1.1/wavs/16_d516035.wav|gene zeegwacaacenene 'enedisathune benethayeqeme lisathune 'alecaalume bamaalate lavi'o'eewaa zagaabi galetsawaale|16
+LJSpeech-1.1/wavs/16_d516036.wav|yamasekarame 'anedune theqaate qademawe kaawagazute 'agaroce 'anedwa yanabaracewe sudaane bazagabaawe yaalamakaatatuwaame theyaaqee yamiyaasenasaa lihone 'enedamicele 'enazihu 'asetayaayate sachiwoce thaqumawaale|16
+LJSpeech-1.1/wavs/16_d516037.wav|'araate kilonaa 'amesete kilo faakulitiwocene qaanyetawe sheqebe bamawethaate basedesete kilo yunivareseti 'alefawe kawathu baxwaalaa zorawe yemalasaalu|16
+LJSpeech-1.1/wavs/16_d516038.wav|nagare gene ya'eereteraane wararaa maqathaleme hona yamareetaacawe gemaashe wada 'eereteraa makaalalenaa yahezebaacawe lahulate makafale yamiwaathelaacawe 'ayehoneme|16
+LJSpeech-1.1/wavs/17_d517021.wav|thorenatu 'enedaganaa liqasaqase yecelaale|17
+LJSpeech-1.1/wavs/17_d517022.wav|bamahonume yateyopheyaa manegesete robe yateyopheyaa gezaate hunaa 'enedeteqathele 'eremejaawocene mawesade 'enedaalabatenaa yadenebare komishenume yaasaalafawene wesaanee badegaami 'enediyaatheenawe thayeqawaale|17
+LJSpeech-1.1/wavs/17_d517023.wav|'enyihe waganocaacene dagemo 'aferesawe yamigazu honu|17
+LJSpeech-1.1/wavs/17_d517024.wav|zaafoce teleleqe denegaayoce wayeme waneze kaala yateyopheyaa denebare nawe yebaalaale silu samecaacawaalahu|17
+LJSpeech-1.1/wavs/17_d517025.wav|teyopheyaa lu'alaawinatwane lamaasekabare mabetume hayelume 'alaate|17
+LJSpeech-1.1/wavs/17_d517026.wav|basamonu yadenebare wezegebe zuriyaa yatathanaakarawe zagabaa qathelo qarebwale|17
+LJSpeech-1.1/wavs/17_d517027.wav|gebetse ba'abaaye weha laaye yakotaa theyaaqee 'aqarabace|17
+LJSpeech-1.1/wavs/17_d517028.wav|yateyopheyaa baalaselethaanoce yazaale 'amebasaa katamaa kefunyaa ba'eereteraawiyaane kabaade masaariwoce madabedabwane 'amalakatu|17
+LJSpeech-1.1/wavs/17_d517029.wav|gajaraawe tayezo mesekeroce qarebawe yaferede hidatune maakanaawane sicelu faayelune zagetawe 'enedimalase tadaregwaale|17
+LJSpeech-1.1/wavs/17_d517030.wav|meneme yamitsatsetanye nagare yalame|17
+LJSpeech-1.1/wavs/17_d517031.wav|bazihe mekeneyaate wasaanye yahonutene tachaawaacocene 'eyaathaane nawe|17
+LJSpeech-1.1/wavs/17_d517032.wav|chawaataawe ba'agwaaginatu bithaqaseme yarabaa 'eneqeseqaasee saayetaayebate lifatsame celwale|17
+LJSpeech-1.1/wavs/17_d517033.wav|nagare gene ceelesi la'aweropaa supare kaape kacaamepiyanese lige 'ashanaafi kariyaale maaderide gaare baalabate chawaataa mekeneyaate wada leelaa qane tazawaawerwale|17
+LJSpeech-1.1/wavs/17_d517034.wav|teyopheyaa thorenatune badele lamawathaate wasaanyunaa becanyaawe gizeewaa 'ahune nawe|17
+LJSpeech-1.1/wavs/17_d517035.wav|beheeraawi yamerechaa borede batadagaagaami maasethaneqaqiyaa biyaasetalaalefeme lisaakaa 'alamacaalunenaa 'enedaweme ba'akaabaabiwe kamerechaa gaare batayaayaaza kafetanyaa cegere 'enedaayekasate segaatune nawe yagalatsawe|17
+LJSpeech-1.1/wavs/17_d517036.wav|lazihe dagemo manegesete ba'amacaacalate yabedere 'agalegelote mathaqame yegabaawaale|17
+LJSpeech-1.1/wavs/17_d517037.wav|batachamaari manegesetaatenaa yasabe'awi mabete tamwagaace derejetoce yasudaane manegesete ya'asaraacawene 'oromowoce 'enedifataa chaanaa 'enediyaadarege thayeqwaale|17
+LJSpeech-1.1/wavs/17_d517038.wav|'enediyaaweme deregitu teyopheyaa ba'eereteraa laaye mulu wararaa lamaaderage 'eneda mekeneyaate yametethaqamebate nawe silu konenawaale|17
+LJSpeech-1.1/wavs/18_d518021.wav|ba'eregethe ba'anedaanede mehuraane theru hasaaboce tasanezerawaale belawaale|18
+LJSpeech-1.1/wavs/18_d518022.wav|ba'ahunu waqete 'abeyaata kereseteyaanaatu yatazagubate mekeneyaate mene 'enedahona 'enedinagaraacawe 'anedaanede 'alame 'aqafe yawanegeele 'agalegelote derejetoce manegesetene 'eyathayaqu mahonume taaweqwaale|18
+LJSpeech-1.1/wavs/18_d518023.wav|yaalaasalaasale nawe gudaaye ba'amebaagananocenaa bathegaabanyoce those bamiqathaathalawe 'esaate yaminadedawe yazihe zamane yahagaraacene chequne mahonune nawe|18
+LJSpeech-1.1/wavs/18_d518024.wav|zaaree 'ameerikaa taqotheto ya'aferikaa manegesetaate ba'asetaaraaqinate tasayemawe gizeeyaawi yatakuse maaqome sememenate laaye maderase mafetehee 'ayehone me|18
+LJSpeech-1.1/wavs/18_d518025.wav|natsaa 'amalakaakatocene lamaaraamade ganaa jamaariwoce honane beneganyeme bazamanaawiwe 'alame yaalane hulu yaneforemeeshenene 'asefalaaginate 'athaqaaqamene bamigabaa 'enaaweqaalane|18
+LJSpeech-1.1/wavs/18_d518026.wav|kate'opheyaa nahasee 'aseraa hulate qane 'anede shi zathanye mato zathanaa 'anede wathaa|18
+LJSpeech-1.1/wavs/18_d518027.wav|ya'erafetaacaweneme gizee yahazanuneme senasere'ate lamaawaje yabeeta manegesetu madefe hayaa 'amesete gizee demetsune 'asamaa|18
+LJSpeech-1.1/wavs/18_d518028.wav|beeta 'eseraa'eelocene 'athaqaalaala mawesade 'eseraa'eele 'eyaathanaace nawe|18
+LJSpeech-1.1/wavs/18_d518029.wav|bahajenaa 'umeraa muselimoce hayemaanotaawi gedeetaacawene lamafatsame bazihe cegere 'abasaa wesethe gabetawaale|18
+LJSpeech-1.1/wavs/18_d518030.wav|bahagaraacene gene yarabaa meedaa 'enekwaane yalaneme|18
+LJSpeech-1.1/wavs/18_d518031.wav|ba'athaqaalaaye ba'eneenaa bawaanaawe tsahafiwe makaakale 'ala magebaabaate sikasate bamahalaacene thaaleqaa yamigabaa wagane baala manoru cegeru libaabaase celwale|18
+LJSpeech-1.1/wavs/18_d518032.wav|'enaa baxwaalaa nawe seraa 'eyatafathara late yamathaawe|18
+LJSpeech-1.1/wavs/18_d518033.wav|derejetu bamilaane lanedananaa niweyoreke katamoce tsefate beetoce sinorute kazihe leelaa yathaaleyaane 'egere kwaase ligene yeqothaatharaale|18
+LJSpeech-1.1/wavs/18_d518034.wav|laqesaacawenaa geregeru sibarede laqane wathaane yehe nawe 'ewenataawe 'eneji zageyate belane yawathaa nawe basebesabaawe maqathane falegane 'ayedalame|18
+LJSpeech-1.1/wavs/18_d518035.wav|'eereteraa neberatocu yateyopheyaa 'ala mahonaacawene 'aragaagethaa lasaa'udi kakaasaa kefeyaa gaare 'enedamete malese galethaalace|18
+LJSpeech-1.1/wavs/18_d518036.wav|qadame sile miniseterocenaa jeeneeraaloce 'amesete mato meetere kaaree botaa banatsaa mawesadaacawe yetaawaqaale|18
+LJSpeech-1.1/wavs/18_d518037.wav|'ayaayezome bameseraaqe mameheraane maasalethanyaa koleeje sabaate ya'oromeyaa tamaariwoce katemeherete gabataacawe mabaararaacaweneme 'awegezawaale|18
+LJSpeech-1.1/wavs/18_d518038.wav|'eneda 'ofiseelaawiwe magelachaa kahona libiyaanaa 'eereteraa bakonominaa babaahele gudaayoce laaye kagaaraa sememenate laaye daresawaale|18
+LJSpeech-1.1/wavs/19_d519021.wav|ya'akaabaabi thebaqaa budenocenaa tamade diditine bamaqaawamaacawenaa manegeseteme diditine cale bamaalatu saabiyaa sawoce bawabaa siyaalequ teleqe wanejale nawe bamaalate waqesawaale|19
+LJSpeech-1.1/wavs/19_d519022.wav|qeduse matsehafe dehocene manaaqenaa mazanegaate 'enedamaayegabaane yamiyaasethanaqeqane 'enedihe sile nawe|19
+LJSpeech-1.1/wavs/19_d519023.wav|masekobocene bamaasalafe becaa saayeyaase teyopheyaane lamaanebarekake yecelaalu|19
+LJSpeech-1.1/wavs/19_d519024.wav|saweyeewe balejenatu sudaane basedatanyenate yanora nawe|19
+LJSpeech-1.1/wavs/19_d519025.wav|feyale kamaderaswa qethale mabathaswa|19
+LJSpeech-1.1/wavs/19_d519026.wav|bazihe 'asetaakawe sedatanyaawe 'emebi yaalawene mawaacho bagede 'enediyaawaathaa lamaaderage bawaanaanate yatawathana saayehone 'enedaaleqarame gemetaacawene yamiyaasaarefu waganoce 'alu|19
+LJSpeech-1.1/wavs/19_d519027.wav|pereezedaanetu bazihu negegeraacawe teyopheyaa yajebuti yaheyewate masemare becaa saatehone yawadabu samaaniyaa kamato becanyaa tathaqaami mahonwaneme chamerawe 'aseradetawaale|19
+LJSpeech-1.1/wavs/19_d519028.wav|kaahune yatashaala yaneseha gizee 'edele yalaacaweme yaalute 'enyihe 'abaate matsehafe qedusaawi taarike bamatheqase nawe yatanatanute|19
+LJSpeech-1.1/wavs/19_d519029.wav|lazeegwacaacawe yatadalaadala nuro fatherawe katalayaayu hagaroce yamathu sedatanyocene yaasetanaagedaalu bamaalate baleyu 'ayene 'enemalakataacawe yehonaale|19
+LJSpeech-1.1/wavs/19_d519030.wav|basemenetanyaawe daqiqaa laaye 'anede yagereemiyo tachaawaace kapeenaaliti wechi tamateto qethaate taganyeto qethaatume tamato bageraawe qwaami berate tamaleswale|19
+LJSpeech-1.1/wavs/19_d519031.wav|bamalaawe hagaritu yatazaragaa perojakete 'ala|19
+LJSpeech-1.1/wavs/19_d519032.wav|leelaawe yameedaa gudaaye nawe|19
+LJSpeech-1.1/wavs/19_d519033.wav|hamaane babaregare laayeme 'enedihu faawele bamaseraatu bahulate bichaa kameedaa tawagedwale|19
+LJSpeech-1.1/wavs/19_d519034.wav|thabaqocaacawe yagizee qatharowene bathebeqe taqaawamu batalaye 'ato bitawe balaaye ba'elehe katanaagarute wesethe 'anekwaare 'anekwaarune kazihe bataace 'aqerebanawaale|19
+LJSpeech-1.1/wavs/19_d519035.wav|kelinetane bateyo 'eereteraa gudaaye bagele 'enedigabu tathayaqa|19
+LJSpeech-1.1/wavs/19_d519036.wav|hulaaceneme 'enedatamanya nawe mulu bamulu madamesase 'enekwaane baayedaresebateme saraawitu bathaame kabaade gudaatenaa 'asaafaari shenefate daresobataale|19
+LJSpeech-1.1/wavs/19_d519037.wav|qadame sile yathaqasekwaacawe hemamu yatsanaa baacawe wada 'araate mato yamithagu tamaariwoce kaleeloce talayetawe yamitanyubate seferaa tazagaajetolaacawaale|19
+LJSpeech-1.1/wavs/19_d519038.wav|kabeetasabaacene makaakale ba'ereshaa tagebaare laaye yaaletasamaaraacewe 'enaataacene becaa nabarace|19
+LJSpeech-1.1/wavs/20_d520021.wav|badenegate ya'aneteraakese baaketeeriyaa ba'akaabaabiwe selamarachatu polikese ka'anede ka'aletaawaqa sawe yaseleke theri yedaresawaale|20
+LJSpeech-1.1/wavs/20_d520022.wav|kadenebare gechetu maagesete zarefa bezu thele felefe polatikaawi hesaabeewoce 'eyatasetanaagadu naacawe|20
+LJSpeech-1.1/wavs/20_d520023.wav|selahoname ya'ahunu degaafe bayaqanu 'eyatasharashara bamaheede bathorenatu laaye 'alutaawi wetheete 'enedaayenorawe 'efaraalahu|20
+LJSpeech-1.1/wavs/20_d520024.wav|yamilute ba'acheru daraja deereesaa kalejenate 'eseka 'eweqate baqaanye taakatanye saayelu lateyopheyaa silafu heyewataacawe yaalafa 'arebanyaa naacawe yamile 'ayenate nawe|20
+LJSpeech-1.1/wavs/20_d520025.wav|gubaa'eewe ba'eereteraanaa bateyopheyaa gudaaye tawayaayeto ya'eereteraa manegesete wararaane taqaawemwale|20
+LJSpeech-1.1/wavs/20_d520026.wav|kaziyaame lanagaadeewoce 'anede tharemuse biraa yamiyaaqarebubate waagaa hulate bere kahayaa saanetime gadamaa mahonune yenaagaraalu|20
+LJSpeech-1.1/wavs/20_d520027.wav|ya'akaabaabiwe kafetanyaa baalaabaate maalaakeshaa wari 'enedaa taawaqute ya'aweropelaane maarafiyaawe kabaade 'aweropelaane maasaarafe yecelaale tabelwale|20
+LJSpeech-1.1/wavs/20_d520028.wav|baleelaa bakule hulatu 'eereteraanaa teyopheyaa yagazwacawe 'aweronyalaanoce ka'anedu waanaa katamaa wada leelaawe yamaberare 'aqeme 'enedaalaacawe bazihu zagabaa taragaagethwale|20
+LJSpeech-1.1/wavs/20_d520029.wav|haji mahamade walee male'ekete 'asetalaalafu|20
+LJSpeech-1.1/wavs/20_d520030.wav|laziheme yemaselaale baanasute nathebe laaye bezume werafaa 'alebazaabaacaweme|20
+LJSpeech-1.1/wavs/20_d520031.wav|baqedaamee yatadaragute gethemiyaawoce latamalekaacu quthere zeqetanyaa mahone mekeneyaate honwale|20
+LJSpeech-1.1/wavs/20_d520032.wav|kaziyaame yakelelu komishene jaanemeedaa biro selasathane wadaziyaawe heedene|20
+LJSpeech-1.1/wavs/20_d520033.wav|nagare gene tachaawaacune yamifalegawe kelabu 'eneji 'asalethaanye guleete 'alenabarame|20
+LJSpeech-1.1/wavs/20_d520034.wav|bategeraaye hezebe seme yataqwaaqwaamawe 'eefarete 'adise yateeleevizhene thaabiyaa likafete mahonune lagaazeethaawaa zeenaa deese keba netareneete yadarasawe zagabaa 'amalakata|20
+LJSpeech-1.1/wavs/20_d520035.wav|kaziheme leelaa yateeleevizhenwa gaazeethanyaa 'enegedaazare nagaa 'egerwane 'operaasiyune yahonace sihone 'ahune ka'operaasiyonu baxwaalaa badahenaa huneetaa teganyaalace sile thaqumwale|20
+LJSpeech-1.1/wavs/20_d520036.wav|zataayeme zagaabi 'enedazagabawe telequ yamegebe maamalaalase tagebaare wada dinaane yatadaragawe kahamesaa qanaate bafite nabare|20
+LJSpeech-1.1/wavs/20_d520037.wav|wada katamaa bamimathu 'enegedoce laaye denegaatheene yefatheraale bamile cegeru baalabate taafeno 'enediyaaze tadaregwaale|20
+LJSpeech-1.1/wavs/20_d520038.wav|zaareeme yehe tsehufe 'eseka tatsaafabate derase ka'anede shi zathanye mato 'arebaa 'amata meherate jamero bazihu katamaa bamanore laaye yeganyaalu|20
