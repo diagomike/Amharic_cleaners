@@ -1,0 +1,359 @@
+LJSpeech-1.1/wavs/01_d501021.wav|jˈəʔinɨtərɨnet ʔˈaɡəlɨɡɨlotɨnɨm bˈətəmələkətə bˈəkɨlɨlotʃ bˈəzonotʃɨna bˈəʔadis ʔˈaβəβa bˈətələjaju bˈotawotʃ jˈəʔaɡəlɨɡɨlot mˈaʔɨkəlotʃɨn lˈəmak`wak`wam mˈətak`ədun ʔˈaβɨrarɨtəwal |01
+LJSpeech-1.1/wavs/01_d501022.wav|bˈəzihɨm ʔˈanəsɨtəɲa mˈəsɨnowotʃɨn bˈəmasɨfafat ʔˈaɡəritun bˈətədəɡaɡami kˈəmijat`ək`at dˈɨrɨk`ɨna jˈəmɨɡɨb ʔˈɨhɨl ʔˈɨt`ɨrət lˈəmak`aləl ʔˈɨnɨdəmitʃal t`ˈək`uməwal |01
+LJSpeech-1.1/wavs/01_d501023.wav|jˈɨx ʔˈɨnɨdajɨhon bˈəhɨjɨwətatʃəw mˈəsɨwaʔɨtɨnət jˈasɨɡəɲutɨn jˈəʔitɨjop`ɨjawinət kˈɨβɨr ʔˈanɨɡɨβən lˈək`ɨdɨsɨt hˈaɡəratʃɨn ʔˈanɨdɨnətɨna lˈuʔalawinət sˈəlamɨna bˈɨlɨtsɨɡɨna bˈəhɨβɨrət ʔˈɨnɨk`um |01
+LJSpeech-1.1/wavs/01_d501024.wav|jˈəmədʒəmərijaw nˈət`ɨb bˈətək`awami hˈajɨlotʃ sˈəfər bˈəɡara ʔˈak`wam lˈaj bˈəɡara lˈəmak`om jˈajənəw tsˈɨnat ʔˈanəsɨtəɲa mˈəhonu nˈəw |01
+LJSpeech-1.1/wavs/01_d501025.wav|ʔˈak`ɨm bˈəmifək`ɨdəw mˈəsərət ʔˈasɨk`ədɨmo mˈəzəɡadʒət sˈɨləmifəlɨɡu jˈəmijat`ərat`ɨr ʔˈajɨhonɨm sˈɨtɨl jˈəʔamerika dˈɨmɨts zˈena zˈəɡaβi ɡˈəlɨtsalətʃ |01
+LJSpeech-1.1/wavs/01_d501026.wav|kˈələ k`ˈəsɨtəɲotʃu mˈəkakəl ʔˈaβɨzaɲawotʃu tsˈəhaju zˈare tˈəɡələt`ə hˈajɨləsɨlase mˈarun ʔˈaləmatʃɨn ʔˈaβatatʃɨn jˈəʔafɨrika ʔˈaβat jˈəʔaləm ʔˈaβat bˈəmalət nˈəβər hˈazənatʃəwɨn jˈəmiɡəlɨtsu |01
+LJSpeech-1.1/wavs/01_d501027.wav|kˈəziç ɡˈar lˈəsəβɨʔawi ʔˈaɡəlɨɡɨlot mˈəsələfwam wˈɨt`etama mˈəhonwam ʔˈadɨnak`otɨn ʔˈatɨrɨfolatal |01
+LJSpeech-1.1/wavs/01_d501028.wav|jˈəkomiʃɨnu wˈɨsanena jˈəβetə kˈɨhɨnətu tˈək`awɨmo |01
+LJSpeech-1.1/wavs/01_d501029.wav|jˈɨhɨnɨnɨm bˈadɨmənɨna ʃˈɨraron bˈəməwɨrər ʔˈɨwɨn ʔˈarɨɡwal |01
+LJSpeech-1.1/wavs/01_d501030.wav|ɡˈazet`əɲotʃɨn mˈələjajətatʃəw bˈɨzuwotʃɨn ʔˈasazɨnwal |01
+LJSpeech-1.1/wavs/01_d501031.wav|bˈaləfəw sˈəɲo ʔˈɨlət dˈəɡɨmo bˈətelevɨʒɨn lˈela ʃˈɨlɨmat sˈiʃələm tˈəməlɨkətɨku |01
+LJSpeech-1.1/wavs/01_d501032.wav|ʔˈat`ək`alaj wˈətʃ`iw ʔˈasɨra sˈɨmɨnɨt ʃˈi dˈolar ʔˈɨnɨdəhonə lˈəmawək` tˈətʃɨlual |01
+LJSpeech-1.1/wavs/01_d501033.wav|lˈelotʃu bˈəmulu t`ˈenəɲotʃ nˈatʃəw |01
+LJSpeech-1.1/wavs/01_d501034.wav|mˈələsɨna ʔˈisajas ʔˈɨrɨs bˈəʔɨrɨs lˈəməɡələβaβət` ʔˈɨjəmokəru nˈəw |01
+LJSpeech-1.1/wavs/01_d501035.wav|jˈəʔajər hˈajɨlatʃɨn ʔˈawɨropɨlanotʃɨm ɡˈɨdadʒatʃəwɨn bˈətəɡəβiw fˈətsɨməw bˈəsəlam tˈəməlɨsəwal sˈil jˈəmənɨɡɨsɨt k`ˈal ʔˈak`əβaj tsˈɨfət bˈet mˈəɡɨlətʃ`a ʔˈasɨtawɨk`wal |01
+LJSpeech-1.1/wavs/01_d501036.wav|kˈəmwatʃotʃu ɡˈar jˈənəβəru hˈulət tˈat`ak`iwotʃ bˈəsəlam ʔˈɨdʒatʃəwɨn mˈəsɨt`ətatʃəwɨnɨm jˈəpolis mˈəɡɨlətʃ`aw ʔˈakɨlo ɡˈəlɨtswal |01
+LJSpeech-1.1/wavs/01_d501037.wav|tʃˈɨɡɨrotʃun dˈəɡɨmo mˈasɨwəɡəd nˈəβərə bˈatʃəw |01
+LJSpeech-1.1/wavs/01_d501038.wav|ʔˈaɡafariwotʃatʃəw bˈaʔadanum ʔˈak`wamatʃəw lˈənərɨsu hˈarɨtona mˈuβuto kˈəsət`ut dˈɨɡaf ʔˈajɨləjɨm |01
+LJSpeech-1.1/wavs/02_d502021.wav|jˈɨhene mˈələs nˈək`a ʔˈalə |02
+LJSpeech-1.1/wavs/02_d502022.wav|bˈəziç kˈɨlɨl lˈəβərɨkata zˈeɡwətʃɨm jˈəsɨra ʔˈɨdɨl jˈɨfət`ɨral jˈəmilu sˈinoru bˈətələj lˈəsomalijawɨjan ʔˈɨdɨlu sˈəfi ʔˈɨnɨdəhonə tˈət`ək`ɨswal |02
+LJSpeech-1.1/wavs/02_d502023.wav|dˈɨfɨrət bˈajɨhon bˈɨɲ sˈɨhɨtət nˈəw |02
+LJSpeech-1.1/wavs/02_d502024.wav|bˈəhaɡəratʃɨn jˈək`ɨrɨb zˈəmən tˈarik wˈɨsɨt` ʔˈarat ʔˈadis mˈɨʔɨraf kˈəfatʃ hˈunətotʃ mˈət`ɨk`əs jˈɨtʃalal |02
+LJSpeech-1.1/wavs/02_d502025.wav|jˈəβiraw ʔˈinɨdusɨtɨri ɡˈɨn jˈətakɨs k`ˈɨnəsa bˈidərəɡɨlətɨm mˈɨnɨm ʔˈajɨnət jˈəwaɡa lˈəwɨt` lˈədənɨβəɲotʃu ʔˈaladərəɡəm |02
+LJSpeech-1.1/wavs/02_d502026.wav|hˈɨwəhat ʔˈihɨʔadeɡ tˈadɨʃaləhu kˈəmalətuna k`ˈəwɨsu kˈəməfət`əru bˈəfit pˈolis bˈəfɨtɨx mˈinisɨter sˈɨr ʔˈɨnɨdə nˈəβər sˈitawək` fˈɨtɨx mˈinisɨtɨrum jˈəhɨwəhat sˈəw ʔˈɨnɨdalɨnəβəru jˈɨtawɨsal |02
+LJSpeech-1.1/wavs/02_d502027.wav|ʔˈahun lˈəmɨn dˈɨmɨtsatʃəw t`ˈəfa hˈulətu ʔˈaɡərotʃ bˈədʒəmərut t`ˈorɨnət jˈəβələt`ə jˈəsəɡaw jˈəʔamerika mˈənɨɡɨsɨt nˈəw |02
+LJSpeech-1.1/wavs/02_d502028.wav|hˈusen ʔˈajɨdid bˈəʔalitɨhad lˈaj ʔˈak`wam wˈəsədu sˈɨmɨmɨnətɨm ʔˈadərəɡu |02
+LJSpeech-1.1/wavs/02_d502029.wav|bˈəziç ʔˈɨnɨdətəsɨmamu lˈəman tˈɨsət` lˈəman sˈiβal lˈəzihɨma kˈasa ʔˈalə ʔˈajɨdəl ʔˈanɨde jˈəkoso ʃˈatʃ` lˈɨdʒ jˈəmil hˈasab tˈəsəma |02
+LJSpeech-1.1/wavs/02_d502030.wav|rˈonalɨdo mˈənaɡər jˈəfələɡəw ɡˈɨn hˈɨməmu mˈulu lˈəmulu lˈəmədan ɡˈize jˈəmifəlɨɡ ɡˈɨn jˈəmidɨn lˈəmalət nˈəβər |02
+LJSpeech-1.1/wavs/02_d502031.wav|bˈəʔasɨtəjajətu tˈɨsɨmamaləx tˈəβɨlo sˈit`əjək` ʔˈasəlɨt`aɲ hˈaɡwəs jˈɨx ʔˈajɨnət ʔˈaɡat`ami bˈəməlaw ʔˈaləm lˈaj sˈikəsət tˈəsɨtəwɨlual bˈəmalət mˈəlɨswal |02
+LJSpeech-1.1/wavs/02_d502032.wav|ʔˈanelɨka kˈəʃi mˈajɨkɨl ɡˈar bˈətədəɡaɡami tˈəɡənaɲɨto jˈaβakənatʃəw kwˈasotʃ jˈəmijasɨk`otʃ`u nˈatʃəw |02
+LJSpeech-1.1/wavs/02_d502033.wav|bˈədʒərɨmən jˈəmiɡəɲu wˈət`atotʃɨm lˈəβɨherawi bˈudɨn ʔˈɨdɨl sˈɨləmajɨsət`atʃəw zˈeɡɨnətatʃəwɨn ʔˈɨjələwət`u jˈɨɡəɲalu |02
+LJSpeech-1.1/wavs/02_d502034.wav|ʔˈato ʔˈaləmajəhu zˈəɡəjə bˈətsərə mˈusɨna kˈomiʃɨn kˈɨs lˈaj mˈəkatətatʃəwɨn kˈəɡazet`otʃ lˈaj kˈəmanɨβəβatʃəw wˈɨtʃ` jˈəfɨrɨd bˈet mˈət`ɨrija ʔˈɨnɨdalɨdərəsatʃɨw mˈənaɡəratʃəwɨm tˈət`ək`umwal |02
+LJSpeech-1.1/wavs/02_d502035.wav|kˈəʔitɨjop`ɨja ɡˈar bˈɨnɨk`əlak`əl bˈɨzu jˈəmiləwət` nˈəɡər jˈələm |02
+LJSpeech-1.1/wavs/02_d502036.wav|jˈəʔanɨɡɨlo ʔˈitɨjop`ɨjan mˈahɨβər ʔˈerɨtɨra sˈərawitwan ʔˈɨnɨdɨtasɨwət`a t`ˈəjək`ə |02
+LJSpeech-1.1/wavs/02_d502037.wav|ʔˈɨne rˈase jˈət bˈota hˈoɲe sˈɨrajen ʔˈɨnɨdəmɨsəra ʔˈalawɨk`ɨm mˈalətatʃəwɨn kˈəβiβisi bˈəmitəlaləfəw fˈokəs ʔˈon ʔˈafɨrika pˈɨroɡɨram lˈaj ʔˈasɨdəmɨt`wal |02
+LJSpeech-1.1/wavs/02_d502038.wav|jˈəhaɡər ʔˈasɨtədadər mˈinisɨtɨru lˈɨju rˈədat bˈəməhon kˈaɡələɡəlu bˈəhwala bˈətehɨranɨna bˈətelɨʔaviv jˈədʒərɨmən ʔˈemɨβasiwotʃ wˈɨsɨt` tˈəmədɨβəw ʔˈaɡəlɨɡɨləwal |02
+LJSpeech-1.1/wavs/03_d503021.wav|bˈəʔato mˈələs jˈətət`əraw jˈɨx jˈət`orɨdʒeneralotʃ sˈɨβɨsəβa ʔˈahunɨm ʔˈɨnɨdək`ət`ələ nˈəw tˈəβɨlual |03
+LJSpeech-1.1/wavs/03_d503022.wav|bˈalidoɡɨle jˈəʔitɨjop`ɨja t`ˈor tˈək`ot`at`ɨrotal jˈətəβaləw jˈəʔajɨropɨlan mˈarəfija jˈəmiɡəɲɨβət kˈətəma nˈəw |03
+LJSpeech-1.1/wavs/03_d503023.wav|ʃˈaʔɨβija ʔˈakəʃəfɨkwatʃəw jˈəmilatʃəw sˈɨmɨnɨtu jˈədərɨɡ jˈəzəmətʃa zˈurotʃ mˈəna hˈonəw jˈək`ərut bˈəwəjane tˈəwaɡiwotʃ mˈəsɨwaʔɨtɨnət ʔˈɨnɨdəhonə jˈɨnəɡəral |03
+LJSpeech-1.1/wavs/03_d503024.wav|bˈəʔerɨtɨra bˈəkul bˈətəməsasaj mˈəlɨku jˈətəwəsənu ʔˈalamawotʃ mˈənədəfatʃəwɨn ʔˈɨmun nˈəw |03
+LJSpeech-1.1/wavs/03_d503025.wav|jˈəʔalɨβəʃɨr mˈənɨɡɨsɨt kˈəziç bˈəhwala jˈəʔerɨtɨra lˈuʔalawinət jˈəmitsarərɨna jˈəβalə sˈɨlɨt`anatun sˈɨβɨʔɨna kˈəminəka tˈəɡɨβar mˈək`ot`əb ʔˈɨnɨdəminorɨβət ɡˈəlɨtsəwal |03
+LJSpeech-1.1/wavs/03_d503026.wav|jˈɨx sˈəw wˈɨha lˈɨmat ʔˈakaβaβi bˈəmiɡəɲəw mˈənorija bˈetu jˈətaʃəɡəβət sˈihon ʔˈɨrɨsum jˈədərəsəβət ʔˈajɨtawək` |03
+LJSpeech-1.1/wavs/03_d503027.wav|ʔˈɨɲam wˈəsɨfat jˈɨhonal ʔˈɨjalɨn bˈəhwala bˈəhwala nˈəw jˈɨx jˈəwət`alət |03
+LJSpeech-1.1/wavs/03_d503028.wav|kˈək`ulɨβi wˈədə hˈarər tˈəwəsɨdəw mˈətasəratʃəw kˈəmətawək`u bˈəsɨtək`ər jˈɨx zˈena ʔˈɨsɨkə tˈət`ənakərəβət ɡˈize dˈɨrəs mˈɨnɨm ʔˈajɨnət lˈəwɨt` ʔˈaləmənorun wˈɨsɨt` ʔˈawak`iwotʃu ɡˈəlɨtsəwal |03
+LJSpeech-1.1/wavs/03_d503029.wav|bˈəməhonum lˈelotʃ kˈɨlɨlotʃɨm kˈəziç bˈəməmar zˈeɡwətʃatʃəwɨn kˈəʔadəɡəɲa ʔˈɨtsotʃ lˈəməkəlakəl bˈəjəβəkulatʃəw hˈɨɡɨna dˈənɨb lˈijazəɡadʒu ʔˈɨnɨdəmiɡəβa mˈəɡɨfatɨna mˈəɡəfafat tˈəɡəβi jˈɨməsɨlal |03
+LJSpeech-1.1/wavs/03_d503030.wav|sˈɨləziç ʔˈasəlɨt`aɲu rˈasatʃəwɨn bˈɨtʃa ʔˈɨjadamət`u kˈəfɨlaɡwətatʃəw ʔˈalɨnək`anək` bˈɨləwal bˈəmalət ʔˈarɨsenal kˈətʃamɨpijənɨs lˈiɡ kˈəwət`a bˈəhwala jˈəʔɨnɨɡɨliz jˈəsɨporɨt ɡˈazet`əɲotʃ ʔˈɨjətsafu nˈəw |03
+LJSpeech-1.1/wavs/03_d503031.wav|ʔˈahunɨm bˈəjəkɨlɨlu ʔˈɨjətəzəwawəru pˈɨrodʒəkɨtun ʔˈɨjəɡəməɡəmu nˈatʃəw |03
+LJSpeech-1.1/wavs/03_d503032.wav|mˈəβɨrat hˈajɨl bˈəwɨsanew tˈət`ək`ami sˈajɨhon ʔˈɨnɨdəmajɨk`ər kˈəzena mˈɨnɨtʃ`otʃatʃɨn lˈəmərədat tʃˈɨlənal |03
+LJSpeech-1.1/wavs/03_d503033.wav|bˈəʔawɨropa mˈədɨrək lˈaj bˈət`ɨlo mˈaləf wˈanɨtʃ`aw lˈaj lˈərub fˈɨtsame mˈaləfun ʔˈarəɡaɡɨt`wal |03
+LJSpeech-1.1/wavs/03_d503034.wav|bˈəlajɨɲaw bˈər hˈedɨn sˈɨnɨt`əjɨk` mˈɨnɨm ʔˈanawɨk`ɨm hˈidu kˈəziç bˈɨləwɨnal |03
+LJSpeech-1.1/wavs/03_d503035.wav|bˈaləfəw k`ˈɨdame pˈɨrezɨdanɨt ʔˈisajas bˈətəɡəɲuβət jˈətəmarəkəwɨn ʔˈaβɨrari ʔˈerɨtɨra lˈəhɨzɨbwa bˈəmasajət hˈɨzɨb lˈəmasɨdəsət mˈukəra mˈadɨrəɡwan jˈətələjaju jˈəzena mˈɨnɨtʃ`otʃ ʔˈasawɨk`əwal |03
+LJSpeech-1.1/wavs/03_d503036.wav|ʃˈəmɨɡaj bˈudɨnu ʔˈɨnɨdəmisəβəsəb jˈasɨtawək`ut jˈəwək`ɨtu jˈəʔafɨrika ʔˈanɨdɨnət dˈɨrɨdʒɨt lˈik`əmənɨβərɨna jˈəβurɨkinafaso pˈɨrezɨdanɨt jˈəhonut bˈɨlez kˈamɨpa ʔˈore nˈatʃəw |03
+LJSpeech-1.1/wavs/03_d503037.wav|fˈana dˈimokɨrasi jˈətəsəɲəwɨna jˈəʔɨfojɨta ɡˈazet`ana mˈətsɨhet ʔˈasatami dˈɨrɨdʒɨt bˈəjɨfa tˈəzəɡɨto sˈəratəɲotʃ mˈəβətənatʃəw tˈawək`ə |03
+LJSpeech-1.1/wavs/03_d503038.wav|lˈəɡɨnɨzaβe jˈahɨl ʔˈanɨd hˈekɨtar mˈəto mˈetɨr bˈəməto mˈetɨr wˈəjɨnɨm ʔˈanɨd jˈəkwas mˈətʃ`awətʃa mˈeda jˈahɨlal |03
+LJSpeech-1.1/wavs/04_d504021.wav|bˈəɡuβaʔew lˈaj jˈənəβərut jˈəʔinəɡama pˈɨrezidanɨt ʔˈato kˈɨfɨle mˈulat ɡˈɨn tsˈɨdɨk`u k`ˈərɨto bˈəwəɡu bˈəkonənəɲ nˈəw jˈalut |04
+LJSpeech-1.1/wavs/04_d504022.wav|jˈəkenɨjaw pˈɨrezɨdanɨt kˈəʔitɨjop`ɨja bˈaləsɨlɨt`anat ɡˈar bˈəkenɨjana bˈəʔitɨjop`ɨja dˈɨnɨβər mˈojale ʔˈakaβaβi bˈətənəsaw ɡˈɨtʃ`ɨt ʔˈɨnɨdə mˈəkəru dˈipɨlomatik mˈɨnɨtʃ`otʃ t`ˈək`uməwal |04
+LJSpeech-1.1/wavs/04_d504023.wav|nˈəɡər ɡˈɨn ʔˈanɨd k`ˈən rˈasun bˈətʃalə hˈidətɨna mˈəlɨk lˈikənawən jˈəmitʃɨl jˈəmajɨk`ər dˈɨrɨɡit nˈəw |04
+LJSpeech-1.1/wavs/04_d504024.wav|ʔˈitɨjop`ɨja bˈəʔaləm k`ˈəj mˈəsɨk`əl fˈit lˈəfit bˈəɡɨlɨts lˈədəhɨnɨnətwa jˈəmijasəɡu ʔˈerɨtɨrawɨjanɨn lˈəmaβarər tˈəɡədalətʃ |04
+LJSpeech-1.1/wavs/04_d504025.wav|lˈɨʔuku kˈəʔanɨd wˈər bˈəhwala ʔˈadis ʔˈaβana ʔˈasɨməra jˈɨɡəβal tˈəβɨlo jˈɨt`əβək`al |04
+LJSpeech-1.1/wavs/04_d504026.wav|jˈəmwatʃ bˈetəsəβotʃ mˈərɨdow ʔˈɨsɨkə ʔˈahun jˈətədəβək`əβɨn ʔˈak`ɨm jˈəlatʃəwɨm mˈɨn jˈadərɨɡalu kˈəmil nˈɨk`ət jˈəmənətʃ`ə ʔˈɨnɨdəhonəm bˈəmamarər jˈɨnaɡəralu |04
+LJSpeech-1.1/wavs/04_d504027.wav|ʔˈahun ɡˈizew ʔˈajɨdələm jˈalaləɲ sˈəw jˈələm nˈəβər |04
+LJSpeech-1.1/wavs/04_d504028.wav|kˈəzihɨm lˈela hˈosɨpitalu ʔˈamɨsɨt pˈərɨsənɨt jˈətəɡwəda sˈihon mˈəɡəlɨɡəja mˈəsarijawotʃu bˈəmulu kˈət`ɨk`ɨm wˈɨtʃ`i mˈəhonatʃəwɨn jˈədɨrɨdʒɨtu hˈalafi kˈənorɨwej lˈəβiβisi ɡˈəlɨt`əwal |04
+LJSpeech-1.1/wavs/04_d504029.wav|tˈɨkurət lˈisət`əw ʔˈɨnɨdəmiɡəβa ʔˈɨjəɡələtsɨn ʔˈasɨfəlaɡiw mˈəlɨʔɨkɨt bˈək`ət`ɨta jˈəmimələkətatʃəwɨn hˈulu bˈəməwəjajət tˈətʃ`əmari mˈəlɨʔɨkɨt lˈəmasɨtəlaləf ʔˈɨnɨdəmɨnɨtʃɨl tˈəsɨfa ʔˈɨnadəɡalən |04
+LJSpeech-1.1/wavs/04_d504030.wav|ʔˈaləβələzija ɡˈɨn kˈəməriwotʃu ʔˈɨjərak`ə nˈəw |04
+LJSpeech-1.1/wavs/04_d504031.wav|kˈɨləβatʃɨn jˈətəməsərətəw bˈəʔanɨd ʃˈi zˈət`əɲ mˈəto zˈət`əna nˈəβər |04
+LJSpeech-1.1/wavs/04_d504032.wav|ʔˈɨsɨkahun jˈasɨməzəɡəβəw wˈɨt`etɨm jˈəmijaβərətata nˈəw |04
+LJSpeech-1.1/wavs/04_d504033.wav|jˈəβɨrazil ʃˈamɨpijona lˈɨk ʔˈɨnɨdə bˈəfitu jˈəʔitɨjop`ɨja ʃˈamɨpijona wˈɨdɨdɨr ʔˈajɨnət mˈənɨɡəd nˈəw jˈəmikətələw |04
+LJSpeech-1.1/wavs/04_d504034.wav|bˈəɡɨl tˈɨmɨhɨrɨt tˈək`wamat jˈəmi jˈasɨtəmɨru jˈəjunivərɨsɨti mˈəmɨhɨran mˈənɨɡɨsɨt dˈəməwəz kˈəmikəfɨlatʃəw sˈɨra wˈɨtʃ`i bˈəlela jˈətɨmɨhɨrɨt tˈək`wamat ʔˈɨnɨdajasɨtəmɨru jˈəmijaɡɨd ʔˈadis dˈənɨb ʔˈazəɡadʒɨtwal |04
+LJSpeech-1.1/wavs/04_d504035.wav|jˈək`ərwatɨn mˈənɨtɨja lˈɨdʒotʃ bˈətɨkaze tˈəmələkətətʃatʃəw ʔˈɨnəsunɨm ʔˈɨnɨdəmɨtɨk`əβɨr kˈəʔajɨnwa lˈaj kˈəminəβəβəw tˈəsɨfa mˈək`urət` mˈərədat jˈɨtʃalal |04
+LJSpeech-1.1/wavs/04_d504036.wav|lˈelaw jˈəɡɨmɨɡəmaw ʔˈɨrɨsə ɡˈudaj hˈono jˈək`ərəβəw ʔˈasərar zˈələl jˈəmiβaləw nˈəw |04
+LJSpeech-1.1/wavs/04_d504037.wav|ʔˈɨnɨdijawɨm kˈəlelaw ʔˈalɨtəmarəm kˈəmiβaləw jˈəhɨβɨrətəsəb kˈɨfɨl bˈanəsə mˈət`ən ʔˈɨrasun kˈətɨɡɨlu ʔˈarɨk`o nˈəw jˈəmiɡəɲəw |04
+LJSpeech-1.1/wavs/04_d504038.wav|bˈalɨtə lˈəmədə hˈunetam lˈəβɨzuwotʃu jˈənədadʒ bˈotewotʃ tˈəsənakɨlo bˈəjəɡəraʒuna bˈəjəβetu mˈəkolɨkolɨm wˈanaw mˈənɨsɨʔej ʔˈaw mˈəhonu bˈəsɨfat ʔˈɨjətənəɡərə nˈəw |04
+LJSpeech-1.1/wavs/05_d505021.wav|ʔˈitɨjop`ɨja wˈədəβun bˈənətsa jˈəmɨtɨt`ək`əmɨβət hˈuneta jˈɨmətʃatʃal tˈəβalə |05
+LJSpeech-1.1/wavs/05_d505022.wav|bˈədokɨtər tˈaje wˈəlɨdəsəmajat lˈaj jˈəmisəmaw wˈɨsane bˈədaɲaw ʔˈalə mˈəɡəɲət tˈərazəmə |05
+LJSpeech-1.1/wavs/05_d505023.wav|bˈədenɨvər kˈolorado ʔˈamerika bˈək`ɨrɨβu bˈətəkahedəw bˈəʔinɨdusɨtɨri ʔˈɨdɨɡət bˈəmət`ək`u jˈəsɨmɨnɨt ʔˈaɡərotʃ sˈɨβɨsəβa lˈaj jˈətəwəsənəwɨm kˈəziç wˈɨtʃ` ʔˈalɨnəβərəm |05
+LJSpeech-1.1/wavs/05_d505024.wav|jˈanɨn jˈəməsələ t`ˈɨjak`e ʔˈanɨsɨto bˈəmaʃofɨna bˈəmat`at`al mˈaləf kˈəβad nˈəw |05
+LJSpeech-1.1/wavs/05_d505025.wav|ʔˈɨnəziç kˈəβɨzuwotʃu jˈətsom dˈərədʒawotʃ t`ˈɨk`itotʃu sˈihonu bˈətʃ`əwatana jˈalək`um nˈəɡər lˈelitun mˈulu bˈəmamɨʃətɨna rˈəmədan bˈəməmɨt`atu jˈəmɨnɨtʃ`ənək`ɨna jˈəmikəβɨdən mˈəhon jˈələβətɨm |05
+LJSpeech-1.1/wavs/05_d505026.wav|pˈɨrezɨdanɨt ʔˈisajas ʔˈafəwərɨk`i mˈənɨɡɨsɨtatʃəw ʔˈihɨʔapanɨna ʔˈonəɡɨn jˈɨrədal bˈəmil lˈək`ərəβəlatʃəw t`ˈɨjak`e ʔˈihɨʔapanɨm hˈonə ʔˈonəɡɨn mˈənɨɡɨsɨtatʃəw ʔˈɨnɨdəmajɨrəda ɡˈəlɨtsəwal |05
+LJSpeech-1.1/wavs/05_d505027.wav|bˈetə kˈɨrɨsɨtijanitum hˈaɡəritum ʔˈanɨd tˈalak` sˈəw ʔˈat`u |05
+LJSpeech-1.1/wavs/05_d505028.wav|kˈəzihɨm lˈela bˈalɨtərəɡaɡət`ə mˈɨnɨtʃ` bˈək`ərəβə zˈena kˈəfərənɨsaj ɡˈaɡɨl jˈətəβalu hˈelikoɲətərotʃɨna lˈelotʃɨm tˈəwaɡi ʔˈawɨroɲəlanotʃ dʒˈiβuti mˈəɡɨβatatʃəw tˈawɨk`wal |05
+LJSpeech-1.1/wavs/05_d505029.wav|lˈəʔalax mˈəɡəzat mˈalət ʔˈɨnɨdihu bˈək`ən ʔˈamɨsɨte kˈəfitu mˈədəfat mˈalət ʔˈajɨdələmɨləx ɡˈɨɡatotʃuna tˈɨʔɨzazatu mˈɨn ɡˈizem tˈazaʒ hˈono mˈəɡəɲət mˈalət nˈəw ʔˈɨnɨdʒi |05
+LJSpeech-1.1/wavs/05_d505030.wav|lˈazijowotʃ ʔˈɨjajəlu bˈəməmɨt`at jˈətʃiliw sˈalas kwˈas jˈɨzo sˈiɡəβa bˈəmət`ələfu jˈətəsət`əwɨn pˈenalɨti rˈasu bˈəmasɨk`ot`ər lˈazijo sˈosɨt lˈəʔanɨd mˈəmɨrat dʒˈəmərə |05
+LJSpeech-1.1/wavs/05_d505031.wav|lˈazijona mˈilanɨs ʔˈɨnɨdet tˈəzənəɡu jˈɨhe jˈəʔɨɲa hˈasab nˈəw |05
+LJSpeech-1.1/wavs/05_d505032.wav|kˈəzihɨm bˈətətʃ`əmari wˈət`at tˈətʃ`əwatʃotʃɨn bˈəmasəβasəb lˈəwədəfitu lˈit`ənakəruβət jˈəmitʃɨluβətɨn mˈənɨɡəd ʔˈamətʃatʃɨtwal |05
+LJSpeech-1.1/wavs/05_d505033.wav|jˈɨhɨn ɡˈudaj ʔˈasɨməlɨkɨto bˈətəɡəməɡəmuβət wˈək`ɨt kˈəsəratəɲotʃu t`ˈɨjak`e k`ˈərɨβolatʃəw sˈiməlɨsu ɡˈənɨzəβu ʔˈɨnɨdisət`əɲ ʔˈɨne t`ˈɨjak`e ʔˈalak`ərəβɨkum bˈɨləwal |05
+LJSpeech-1.1/wavs/05_d505034.wav|dˈɨnɨβəratʃɨn ʔˈasəb dˈɨrəs nˈəw ʔˈɨɲa jˈəʔanɨdɨnət dˈək`əməzamurɨt nˈən |05
+LJSpeech-1.1/wavs/05_d505035.wav|jˈəmɨdɨr bˈaβur dˈɨrɨdʒɨt mˈənɨɡədəɲotʃɨn jˈəmaɡwaɡwaz ʔˈaɡəlɨɡɨlot kˈaləfəw hˈulət sˈamɨnɨt dʒˈəmɨro mˈək`warət`u tˈawək`ə |05
+LJSpeech-1.1/wavs/05_d505036.wav|mˈinisɨtɨrwa jˈəβiro wˈɨn jˈəmədɨhanit sˈɨrɨtʃ`ɨt hˈalafi mˈanəɡaɡəratʃəwɨn t`ˈək`ɨso ɡˈɨləsəβu hˈakim ʔˈaləməhonunɨna jˈəhɨkɨmɨna ʔˈɨwɨk`ət ʔˈɨnɨdəleləwɨm ʔˈasɨrədɨtwatʃəwal bˈəmalət ʔˈasɨfɨrwal |05
+LJSpeech-1.1/wavs/05_d505037.wav|sˈudanɨna ʔˈitɨjop`ɨja bˈədɨnɨβər ɡˈudajotʃ zˈurija tˈənəɡaɡəru |05
+LJSpeech-1.1/wavs/05_d505038.wav|ʔˈɨsum rˈasu tʃˈɨɡɨr ʔˈaləβət |05
+LJSpeech-1.1/wavs/06_d506021.wav|kˈəməɡarədʒa dʒˈərɨβa wˈənɨdʒəl tˈəfətsɨmwal jˈəmil nˈəɡər jˈələm |06
+LJSpeech-1.1/wavs/06_d506022.wav|lˈelotʃu dˈəɡɨmo bˈəʔaləm ʔˈak`əf hˈɨβɨrətəsəb zˈənɨd jˈətələjə mˈəlɨkɨna tˈək`əβajɨnətɨn lˈəmaɡɨɲət jˈətənəɡərə ʔˈɨnɨdəhonə jˈɨnaɡəralu |06
+LJSpeech-1.1/wavs/06_d506023.wav|hˈɨzɨβum ʔˈɨnɨdələmədəw ʔˈɨnɨdaj nˈəɡaɡər wˈədə tˈəɡɨβarawi wˈɨsanew ʔˈɨnɨda jˈazənəβɨl mˈənɨɡədun ʔˈat`ərɨnɨβət |06
+LJSpeech-1.1/wavs/06_d506024.wav|kˈəzija ʔˈɨsɨkə zˈare dˈɨrəs ʔˈato ʔˈaβɨrɨham jˈaluβətɨn tˈɨɡɨlɨna ʔˈɨjəkəfəlu jˈalutɨnɨm mˈəsɨwaʔɨtɨnət ʔˈawɨk`aləhu ʔˈadənɨk`aləhum |06
+LJSpeech-1.1/wavs/06_d506025.wav|jˈɨx bˈəʔɨnɨdiç ʔˈɨnɨdalə ʔˈadis ʔˈaβa wˈɨsɨt` jˈətʃ`əw wˈaɡa nˈɨro jˈɨɡəɲ ʔˈɨnɨdʒi bˈəlelotʃ mˈɨrɨtotʃ lˈaj jˈəwaɡa lˈəwɨt` ʔˈalɨtajəm |06
+LJSpeech-1.1/wavs/06_d506026.wav|tˈəfənak`ajotʃ wˈədə jˈəkɨlɨlatʃɨhu ɡˈɨβu tˈəβalu |06
+LJSpeech-1.1/wavs/06_d506027.wav|dʒˈɨβum wˈət`atwan tˈəkətatɨlo jˈɨβəlatal mˈalət nˈəw jˈɨsɨmatal |06
+LJSpeech-1.1/wavs/06_d506028.wav|bˈəʔahunum wˈək`ɨt hˈulətum wˈəɡənotʃ ʔˈalɨfo ʔˈalɨfo bˈəʔakaβaβiw jˈətəkus lˈɨwɨwɨt` ʔˈɨjadərəɡu mˈəhonu tˈawɨk`wal |06
+LJSpeech-1.1/wavs/06_d506029.wav|jˈəziç bˈanɨd tˈarik ʔˈɨnɨdəmi jˈasɨrəda wˈɨ kˈəhonə bˈəzəmənatʃəw ʔˈatʃa jˈalɨtəɡəɲə lˈatʃəw jˈərok bˈanɨd tˈəβɨləwal |06
+LJSpeech-1.1/wavs/06_d506030.wav|kˈɨləβotʃu ɡˈɨn bˈətətʃ`awətuβət wˈək`ɨt kˈətelevɨʒɨn bˈəjətʃ`əwataw sˈɨdɨsɨt mˈəto ʃˈi bˈɨr ɡˈəβi jˈaɡəɲalu |06
+LJSpeech-1.1/wavs/06_d506031.wav|fˈɨlaminɨɡwə bˈaləfəw k`ˈɨdame jˈasɨtənaɡə dˈəw bˈərijo mˈarakaɲa sˈɨtedijom wˈɨsɨt` ʔˈatɨletiko mˈinejɨron nˈəβər |06
+LJSpeech-1.1/wavs/06_d506032.wav|bˈəsɨponɨsər kˈətəɡəɲə ɡˈəβi nˈəw ʔˈɨnɨdʒi |06
+LJSpeech-1.1/wavs/06_d506033.wav|bˈəʔinɨtərɨnaʃɨnal ɡˈɨt`ɨmija bˈunana kˈənəma ʔˈasamɨnəw sˈi jˈaʃənɨfu ɡˈijorɨɡis bˈəvitalo tˈəʃənəfə |06
+LJSpeech-1.1/wavs/06_d506034.wav|wˈɨsɨt`awi ʔˈanɨdɨnətu dˈisipɨlinu jˈəsɨra zˈɨɡɨdʒu nˈətu wˈədəmi fˈəlɨɡəw dˈərədʒa mˈədɨrəs mˈətʃal ʔˈaləβət |06
+LJSpeech-1.1/wavs/06_d506035.wav|mˈanɨm zˈeɡa mˈanɨm dˈəm jˈɨnurəw lˈɨk ʔˈɨsu ʔˈɨnɨdaləw wˈəsaɲu ʔˈamələkakətu nˈəw |06
+LJSpeech-1.1/wavs/06_d506036.wav|jˈəʔerɨtɨra mˈaʔɨkəlawi bˈanɨd bˈonɨd bˈəməʃət` ʔˈikonomiwɨn lˈəmarəɡaɡat jˈəmijasɨtʃɨləwɨn ɡˈəβi lˈəma sˈəβasɨb ʔˈɨnɨk`ɨsɨk`ase mˈədʒəmərun bˈək`ɨrɨβu jˈəzəɡəβəw rˈojɨtər jˈətəsəɲəw jˈəzena ʔˈawɨtar nˈəw |06
+LJSpeech-1.1/wavs/06_d506037.wav|bˈəʔafar kˈəmijasɨfəlɨɡəw ʔˈɨhɨl ʔˈarɨβa sˈɨdɨsɨt kˈəməto bˈɨtʃa nˈəw jˈək`ərəβəw |06
+LJSpeech-1.1/wavs/06_d506038.wav|ʔˈanɨd ʔˈitɨjop`ɨjawi pˈɨrofesər dˈəɡɨmo rˈəɡa bˈɨlən sˈɨnas bˈəw t`ˈorɨnətun jˈasɨkətələw hˈulətum mˈəriwotʃ jˈətəkətəlut jˈəpolətika mˈəsɨmər nˈəw jˈɨlalu |06
+LJSpeech-1.1/wavs/07_d507021.wav|rˈɨʔɨsə ʔˈanɨk`ətsu bˈəmək`ət`əlɨm nˈətsa ɡˈazet`otʃ jˈərək`ək`ə mˈasɨfərarijana wˈəkəβam jˈɨkahedɨβatʃəwal |07
+LJSpeech-1.1/wavs/07_d507022.wav|ʔˈanɨd ʔˈanəsɨtəɲa ɡˈudaj lˈəmasɨfətsəm bˈət`am rˈədʒɨm k`ˈət`əro jˈəmisət` bˈəməhonu bˈalə ɡˈudajotʃɨna ɡˈudajotʃatʃəwɨn jˈəmikətatəlulatʃəw t`ˈəβək`awotʃ sˈimarəru k`ˈojɨtəwal |07
+LJSpeech-1.1/wavs/07_d507023.wav|ʔˈɨzihu lˈijadək`ɨk`atʃəw jˈəmifəlɨɡatʃəwɨn sˈəwotʃ kˈalɨhonə bˈək`ər lˈət`əjək`ə hˈulu pˈasɨporɨtɨm vˈizam jˈɨsət`al |07
+LJSpeech-1.1/wavs/07_d507024.wav|dˈɨro kˈəhɨzɨb jˈəmisəβəsəβəw ɡˈɨβɨr nˈəβər |07
+LJSpeech-1.1/wavs/07_d507025.wav|jˈəwələdəwɨn lˈɨdʒ lˈəmasɨtəmar tˈəsɨnotal |07
+LJSpeech-1.1/wavs/07_d507026.wav|bˈəziç ʔˈamət mˈətʃ`ərəʃa hˈamɨle wˈər wˈəjɨnɨm bˈəmik`ət`ɨləw ʔˈamət jˈəmədʒəmərija wˈərat ʔˈɨnədokɨtərɨtaje jˈəmətʃ`ərəʃa wˈɨsane jˈaɡəɲalu tˈəβɨlo tˈəɡəmɨtwal |07
+LJSpeech-1.1/wavs/07_d507027.wav|ʔˈaməzaɲu ʔˈɨrɨs bˈərasu sˈitʃ`ərarəs dʒˈoro dˈaβa lˈɨβəs bˈɨlo mˈajət jˈəβɨlɨx mˈəriwotʃ ʔˈasɨtəsasəb lˈihon ʔˈajɨtʃɨlɨm |07
+LJSpeech-1.1/wavs/07_d507028.wav|lˈət`ək`ɨləj mˈinɨsɨtɨr mˈələs zˈenawi jˈasɨtəlaləfutɨn dˈəβɨdaβe mˈulu k`ˈal kˈəziç k`ˈət`ɨlo ʔˈɨnak`ərɨβalən |07
+LJSpeech-1.1/wavs/07_d507029.wav|mˈahɨlawɨm hˈonə ɡˈaβɨtʃawɨm sˈɨmetwan jˈəmikorə kˈurat fˈɨt`ɨrət bˈatɨhonɨm ʔˈɨnɨdihu ʔˈɨjadənaɡərə wˈədə tʃ`ˈaka jˈɨzwat ɡˈəβa |07
+LJSpeech-1.1/wavs/07_d507030.wav|zˈarena nˈəɡə bˈəhaɡərotʃ jˈəwɨsɨt` wˈɨdɨdɨr bˈəsamɨnɨtu ʔˈaɡamaʃ lˈaj dˈəɡɨmo bˈəʔawɨropa tʃˈamɨpijənɨs lˈiɡ ʔˈɨnɨdihu bˈəɡuɡut jˈəmit`əβək`u tʃ`ˈəwatawotʃ jˈɨdərəɡalu |07
+LJSpeech-1.1/wavs/07_d507031.wav|ʔˈasəlɨt`aɲu bˈəʔɨrɨɡɨt`ɨm bˈɨherawi bˈudɨnun kˈəjazu wˈədiç kˈɨləβu ʔˈɨjətəʃənəfə nˈəw |07
+LJSpeech-1.1/wavs/07_d507032.wav|jˈəmimədəβəw ɡˈənɨzəb tˈəmwalɨto kˈalək`ə bˈəhwala jˈəmikətələwɨn tʃˈɨɡɨr kˈəɡɨmɨt wˈɨsɨt` bˈəmasɨɡəβat jˈətələjaju ɡˈəβi mˈasɨɡəɲa zˈədewotʃɨn mˈək`əjəsu ʔˈasɨfəlaɡi nˈəw |07
+LJSpeech-1.1/wavs/07_d507033.wav|jˈəʔaləm jˈəmɨɡɨb pˈɨroɡɨram bˈɨtʃawɨn wˈədə sˈəlasa ʃˈiton ʔˈɨhɨl mˈərɨdatu tˈəɡəlɨtswal |07
+LJSpeech-1.1/wavs/07_d507034.wav|zˈəɡəβaw kˈəziç bˈətətʃ`əmari bˈətadaɡi ʔˈaɡərotʃ jˈaləwɨn jˈədɨhɨnət mˈət`ən bˈətəmələkətə fˈɨnɨtʃ`otʃɨn jˈɨfa ʔˈadɨrɨɡwal |07
+LJSpeech-1.1/wavs/07_d507035.wav|jˈɨhɨnɨn bˈətɨkɨkɨl jˈəmijawɨk`ut ʔˈɨnəsu bˈɨtʃa nˈatʃəw |07
+LJSpeech-1.1/wavs/07_d507036.wav|ʃˈaʔɨβija ʔˈɨnəzihɨn ʔˈakaβaβiwotʃ lˈəmaɡɨɲət fˈɨlɨɡwə ʔˈaləmaɡɨɲətuna mˈat`atu dˈɨrɨb ʃˈɨnɨfət wˈɨrɨdət ʔˈaɡɨɲɨtotal lˈəmalət jˈɨtʃalal |07
+LJSpeech-1.1/wavs/07_d507037.wav|jˈɨhe bˈaləfut ɡˈizejat bˈɨtʃa sˈajɨhon ʔˈahunɨm ʔˈɨjək`ət`ələ jˈaləna jˈəmitaj ɡˈudaj nˈəw |07
+LJSpeech-1.1/wavs/07_d507038.wav|k`ˈəriwotʃu ʔˈasɨfətsamiw ʔˈakal bˈəhɨɡ kˈətəsət`əw sˈɨlɨt`an sˈaj zˈəl jˈəmijakənawɨnatʃəw tˈəɡɨβarotʃ jˈɨhonalu |07
+LJSpeech-1.1/wavs/08_d508021.wav|ʔˈato ʔˈaβatə kˈiʃo jˈalə mˈəkəsəs mˈəβɨtatʃəw mˈəɡəfəfun jˈəfederalu kˈəfɨtəɲa fˈɨrɨd bˈet ʔˈasɨtawək`ə |08
+LJSpeech-1.1/wavs/08_d508022.wav|bˈəlɨdʒɨnət zˈəmənatʃəw ɡˈize jˈəmut lˈɨdʒ hˈonəwɨm bˈaɡəɲut bˈɨlɨtʃ`a wˈədə ʔˈedənɨβɨra ʔˈɨnɨɡɨliz bˈəməlak jˈəmədʒəmərijaw tˈəmari nˈəβəru |08
+LJSpeech-1.1/wavs/08_d508023.wav|bˈəzihɨm lˈəʔaɡəratʃəwɨna lˈəʔafɨrika mˈɨn jˈahɨl jˈɨtʃ`ənək`u ʔˈɨnɨdə nˈəβər lˈəməɡənɨzəb tʃˈɨjaləhu |08
+LJSpeech-1.1/wavs/08_d508024.wav|t`ˈor sˈilakɨβət bˈəɡɨβɨtsotʃ ɡˈuja jˈɨdəβək`al |08
+LJSpeech-1.1/wavs/08_d508025.wav|jˈəʔasɨməraw ʔˈamɨβasadər lˈəʔerɨtɨraw rˈedɨjo jˈəsət`ut k`ˈal jˈədipɨlomasijawi tˈəlɨʔɨkoʔatʃəwɨn lˈəməfətsəm ʔˈɨnɨdʒi bˈətɨkɨkɨlɨm jˈəʔadis ʔˈaβəβaw ʔˈamɨβasadər jˈəsət`ut mˈəɡɨlətʃ`a kˈəʔɨwɨnət rˈɨk`o ʔˈajɨdələm |08
+LJSpeech-1.1/wavs/08_d508026.wav|ʔˈaɡəre jˈəmət`ahu ʔˈalɨməsələɲɨm ʔˈaparɨtajɨdɨn ʔˈasɨtawəsəɲ |08
+LJSpeech-1.1/wavs/08_d508027.wav|sˈərawitu jˈɨx sˈaj bˈək`aw ʔˈalək`otʃu lˈəwɨdɨk`ətu tˈət`əjak`i nˈatʃəw bˈəməβal mˈətaməsatʃəw kˈəfɨtəɲa wˈɨt`ɨrətɨn bˈət`oru wˈɨsɨt` jˈasəfənə mˈəhonum tˈəməlɨkɨtwal |08
+LJSpeech-1.1/wavs/08_d508028.wav|ʔˈamɨlak mˈəlɨʔakɨtɨn sˈifət`ɨr jˈəməlɨʔakɨt ʔˈalək`a hˈono jˈətəfət`ərəw ʔˈahun sˈat`ɨnaʔel jˈəmɨnɨləw kˈəjɨsi nˈəβər |08
+LJSpeech-1.1/wavs/08_d508029.wav|t`ˈənɨkara wˈɨ jˈunajɨtɨd ʔˈɨjətənək`anək`ə nˈəw |08
+LJSpeech-1.1/wavs/08_d508030.wav|lˈidɨs dˈəɡɨmo wˈɨdɨɡet sˈɨmiz pˈol rˈoβinɨsənɨna sˈɨtefən mˈakɨfil jˈətəβalu wˈət`atotʃɨn jˈɨzwal |08
+LJSpeech-1.1/wavs/08_d508031.wav|bˈudɨnu bˈəmat`ɨk`at lˈaj jˈətəmərəkozə fˈutɨβol nˈəw jˈəmitʃ`awətəw |08
+LJSpeech-1.1/wavs/08_d508032.wav|lˈəʔanɨtənəx jˈət`əjək`əwɨn ʔˈamwalɨtən wˈədə kˈɨləβu bˈɨnɨməlɨs wˈɨβə tˈətʃ`əwatʃotʃ mˈəkakəl lˈɨjunət jˈɨfət`ərɨβɨnal |08
+LJSpeech-1.1/wavs/08_d508033.wav|dʒˈɨβuti jˈɨhɨn lˈəmɨn ʔˈɨnɨdəfətsəmətʃ jˈədʒɨβuti jˈəwɨtʃ` ɡˈudaj mˈinisɨtər sˈinaɡəru lˈəhaɡəratʃɨn sˈəlamɨna mˈərəɡaɡat ʔˈɨrɨmɨdʒatʃɨn fˈɨtɨhawi nˈəw bˈɨləwal |08
+LJSpeech-1.1/wavs/08_d508034.wav|bˈəzihɨm ʔˈitɨjop`ɨjan jˈətəʃalətʃ hˈaɡər lˈəmadɨrəɡ bˈəmidərəɡəw t`ˈɨrət jˈəβəkulun ʔˈasɨtəwatsɨʔo jˈadərɨɡal bˈɨje ʔˈamɨnaləhu |08
+LJSpeech-1.1/wavs/08_d508035.wav|jˈəhadija lˈɨmat mˈahɨβər tˈəfəra mˈəke mˈɨkɨtɨlu dˈəsɨta dˈaɲe zˈət`əɲɨna sˈɨdɨsɨt ʔˈamət tˈəβəjɨnoβatʃəwal sˈil jˈɨʔaw jˈəzena zˈəɡəβa tʃ`ˈəmɨro ɡˈəlɨtswal |08
+LJSpeech-1.1/wavs/08_d508036.wav|mˈɨn ɡˈizem jˈəriporɨtər ʔˈɨna jˈəʔemɨsisi mˈahɨβərəsəb ʔˈaβalat lˈəpɨrodʒəkɨtotʃu sˈɨketamanət kˈəhajɨlena kˈəʔaɡarotʃu ɡwˈən nˈatʃəw |08
+LJSpeech-1.1/wavs/08_d508037.wav|ʔˈɨsɨkə ʔˈanɨd ʃˈi zˈət`əɲ mˈəto sˈɨlɨsa sˈɨdɨsɨt dˈɨrɨs bˈəʔitɨjop`ɨja jˈənəβərəw mˈənɨɡɨsɨtawi sˈɨrɨʔat jˈəsiso sˈɨrɨʔat bˈəməβal jˈəmitawɨk` ʔˈɨnɨdənəβər jˈɨtawəsal |08
+LJSpeech-1.1/wavs/08_d508038.wav|ʔˈɨnɨdə tˈəmariw ʔˈak`wam tˈɨmɨhɨrɨt lˈəmasɨdʒəmər jˈədəhɨnɨnət wˈasɨtɨna tˈəsət`ɨto hˈulunɨm tˈəmari jˈasatəfə ʔˈat`ək`alaj wˈɨjɨjɨt mˈədərəɡ ʔˈaləβət |08
+LJSpeech-1.1/wavs/09_d509021.wav|ʔˈonəɡ lˈəhulət tˈəkəfɨlo mˈəsɨmamat jˈəmajɨtʃɨlɨβət dˈərədʒa lˈaj mˈədɨrəsun jˈəʔamərar ʔˈaβalatu ɡˈələtsu |09
+LJSpeech-1.1/wavs/09_d509022.wav|bˈənəziç t`ˈəmamotʃ kˈɨfu ʔˈasaβiwotʃ mˈɨkɨnɨjat jˈəmɨnane hˈɨjɨwət jˈəmiɡəfuβət ʔˈaləm ʔˈɨsɨkə mˈəhon dˈərɨsalətʃ |09
+LJSpeech-1.1/wavs/09_d509023.wav|ʔˈɨnɨdə ɡˈəna ʔˈitɨjop`ɨjawi lˈəməhon mˈədəradər jˈəmərət`um ʔˈalu |09
+LJSpeech-1.1/wavs/09_d509024.wav|kˈolonel mˈənɨɡɨsɨtu jˈɨhɨnɨn ɡˈɨlət lˈəʔaβɨjotu bˈijawɨlut sˈilu ʔˈɨne ʔˈɨsɨkə mˈawɨk`əw bˈək`i mˈɨkɨnɨjat nˈəβəratʃəw |09
+LJSpeech-1.1/wavs/09_d509025.wav|lˈəʔɨnanɨtə nˈəɡərɨkwatʃɨhu ʔˈɨnɨdʒi ʔˈɨɡɨzijo bˈəlu ʔˈɨjalə hˈɨzɨβu sˈijasɨlək`ɨs mˈɨlas jˈəmijawət`a bˈahɨtawi ʔˈalə ʔˈalalɨkum |09
+LJSpeech-1.1/wavs/09_d509026.wav|nˈəɡərotʃɨn bˈət`ɨlɨk`ət mˈəmərɨmərɨna mˈasɨrədat jˈəzəwətɨr sˈɨrawa jˈəhonəw hˈajal bˈɨʔɨrəɲana bˈəsal ɡˈət`ami fˈɨrɨmaje ʔˈaləmu jˈəʔanɨdit sˈet lˈɨdʒ ʔˈɨnat nˈəβərətʃ |09
+LJSpeech-1.1/wavs/09_d509027.wav|ʔˈɨnɨdə bˈəfitu bˈəʔaɡəru lˈaj bˈajɨtəwarɨnətum k`ˈərɨtwal |09
+LJSpeech-1.1/wavs/09_d509028.wav|dˈəɡɨmom bˈaluanɨna lˈɨdʒɨwan kˈəʔadʒəb mˈəhal jˈəmɨtɨfəlɨɡ sˈet bˈaluan bˈɨtaɡəɲ dˈəs bˈɨluat lˈɨdʒɨwanɨm bˈɨtaɡəɲ ʔˈaɡəlaβɨt`a sˈɨma bˈədəsɨta tˈalək`ɨsalətʃ |09
+LJSpeech-1.1/wavs/09_d509029.wav|ʔˈɨnərɨsu kˈəlelu wˈaɡa jˈələɲɨm |09
+LJSpeech-1.1/wavs/09_d509030.wav|zˈare kˈəlejɨsɨtər ɡˈara kˈətətʃ`awətə bˈəhwala sˈamɨnɨt kˈətʃəlɨsi jˈəmijadərɨɡəw jˈəβudɨnu dˈərədʒa jˈəmijamələkɨt jˈɨhonal |09
+LJSpeech-1.1/wavs/09_d509031.wav|kˈɨləβu zˈənɨdɨro ʔˈadʒəmaməru t`ˈɨru nˈəw |09
+LJSpeech-1.1/wavs/09_d509032.wav|lˈəziç wˈɨsane kˈəkaf t`ˈəβək` jˈalə ʔˈɨrɨmɨdʒana k`ˈɨt`at jˈɨwəsənɨβɨnal jˈəmil fˈɨrɨtʃa ʔˈalə |09
+LJSpeech-1.1/wavs/09_d509033.wav|kˈəzijam bˈəʔanɨdanɨd ʔˈawɨropɨlanotʃ lˈaj jˈətəwəsənu bˈɨlɨʃɨtotʃ tˈəkəsɨtəwal jˈəmil zˈəɡəβa ʔˈɨnɨdək`ərəβə mˈanedʒɨmənɨtu ʔˈasɨra sˈɨmɨnɨtun tˈekɨniʃijanotʃ lˈijasənaβɨtwatʃəw ʔˈɨnɨdəβək`u tˈəzəɡɨbwal |09
+LJSpeech-1.1/wavs/09_d509034.wav|ɡˈɨnɨɲunətatʃɨn dˈəɡɨmo wˈədə mˈok`ə hˈuneta tˈəməlɨswal bˈɨləwal ʔˈanɨd kˈəfɨtəɲa jˈədʒɨβuti bˈaləsɨlɨt`an lˈəʔirin |09
+LJSpeech-1.1/wavs/09_d509035.wav|jˈəkɨlɨlu jˈəsɨra k`wˈanɨk`wa ʔˈoromɨɲa ʔˈɨnɨdihonɨm tˈəwəsɨnwal |09
+LJSpeech-1.1/wavs/09_d509036.wav|jˈəmən kˈəʔerɨtɨra ɡˈara bˈədəsetotʃ ɡˈɨtʃ`ɨt sˈɨlalat jˈət`əlatatʃɨn t`ˈəlat wˈədadʒatʃɨn nˈəw bˈəmil bˈɨnɨjɨzat hˈajal tˈɨhonənalətʃ bˈəmil tˈəsɨfa nˈəw |09
+LJSpeech-1.1/wavs/09_d509037.wav|mˈɨrɨtʃ`aw bˈətət`ənak`ək`ə bˈəsəlasa k`ˈənat wˈɨsɨt` ʔˈadisu jˈəkətəmaw mˈɨkɨr bˈet sˈɨrawɨn jˈɨdʒəmɨral |09
+LJSpeech-1.1/wavs/09_d509038.wav|ʔˈɨnəziç sˈəwotʃ tʃ`ˈərɨsəw dʒˈɨl ʔˈadərəɡun |09
+LJSpeech-1.1/wavs/10_d510021.wav|dˈɨnɨβər jˈəmakaləlu wˈɨsane bˈəɡələlɨtəɲa jˈədɨnɨβər kˈomiʃɨn ʔˈamakaɲɨnət bˈəmik`ət`ɨləw wˈər kˈəheɡ ʔˈɨnɨdəmiɡələts ʔˈaməlɨkɨtwal |10
+LJSpeech-1.1/wavs/10_d510022.wav|bˈəziç wˈɨɡija jˈəʔitɨjop`ɨja tˈəwaɡi dʒˈetotʃ ʔˈɨnɨdihum jˈəwɨɡija hˈelikopɨtərotʃ mˈəsatəfatʃəwɨnɨm mˈəɡɨlətʃ`aw ʔˈaməlɨkɨtwal |10
+LJSpeech-1.1/wavs/10_d510023.wav|bˈəziç bˈəhanɨtinɨɡɨtən jˈəsɨlɨt`anewotʃ sˈənɨt`ərəʒ mˈəsərət ʔˈitɨjop`ɨjatʃɨn jˈəjətɨɲaw sˈɨlɨt`ane kˈɨβəb ʔˈaβal ʔˈɨnɨdəhonətʃ mˈawək`u bˈalɨkəfa |10
+LJSpeech-1.1/wavs/10_d510024.wav|kˈəlaj sˈɨlətəɡələtsəw ʔˈadisu ʔˈajɨnət jˈəβɨher tʃ`ˈɨk`ona kˈɨsɨtətɨm ɡˈɨnɨzaβe jˈalatʃəw ʔˈajɨməsɨlum |10
+LJSpeech-1.1/wavs/10_d510025.wav|ʔˈɨnɨdiç jˈalə nˈəɡər ʔˈajɨwət`aɲɨm |10
+LJSpeech-1.1/wavs/10_d510026.wav|hˈulətu hˈajɨlotʃ bˈək`ɨrɨb rˈɨk`ət wˈɨsɨt` ʔˈɨnɨdəmiɡəɲum lˈəmasɨrədat jˈəmokərətʃɨw bˈəʃaʔɨβija wˈətadərotʃ mˈɨʃɨɡ wˈɨsɨt` bˈəməhon jˈəʔitɨjop`ɨja wˈətadərotʃ ʔˈɨnɨk`ɨsɨk`ase jˈɨtajal bˈəmalət nˈəw |10
+LJSpeech-1.1/wavs/10_d510027.wav|bˈəʔaləm lˈaj jˈalu jˈəjəʔaɡəru mˈərədʒawotʃ kˈaluatʃəw jˈəmərədʒa mˈɨnɨtʃ`otʃ wˈɨsɨt` ʔˈanɨdu jˈəpɨres wˈɨt`et nˈəw |10
+LJSpeech-1.1/wavs/10_d510028.wav|bˈəʔerɨtɨrana bˈətɨɡɨraj ɡˈudaj jˈək`ərəβəlatʃəwɨna jˈəsət`ut mˈəlɨs k`ˈət`ɨlo k`ˈərɨbwal |10
+LJSpeech-1.1/wavs/10_d510029.wav|bˈəmujaw lˈəβɨzu ɡˈize sˈərɨtʃaləhu |10
+LJSpeech-1.1/wavs/10_d510030.wav|bˈəziç lˈaj wˈiʔax tˈədəraβi ʔˈat`ɨk`i hˈono bˈəmətʃ`awət lˈaj bˈəməhonu ʔˈɨjətəmarərə nˈəw |10
+LJSpeech-1.1/wavs/10_d510031.wav|jˈəʔadis ʔˈaβəβa sˈɨtadijom tˈəməlɨkatʃ k`ˈera jˈəmil k`ˈɨtsɨl sˈɨm ʔˈawɨt`ɨtolɨhal |10
+LJSpeech-1.1/wavs/10_d510032.wav|kˈəʔak`ɨm bˈəlaj jˈəhonə tʃˈɨɡɨr bˈajɨnor nˈoro lˈəmasəlɨt`ən fˈɨk`adəɲa nˈəβərɨkuɲ |10
+LJSpeech-1.1/wavs/10_d510033.wav|bˈəmɨn ʔˈɨnɨdətasəru jˈəmijak`ut jˈəməzɨɡəb bˈet sˈəratəɲotʃ nˈatʃəw |10
+LJSpeech-1.1/wavs/10_d510034.wav|tˈɨlanɨt t`ˈəβək`otʃe mˈət`ɨtəw sˈɨnɨnəɡaɡər ʔˈɨnɨɡɨlizəɲa sˈɨlasɨɡəβan ʔˈɨne bˈəmɨsəmaw k`wˈanɨk`wa kˈalɨhonə ʔˈatɨnaɡərum ʔˈaləβəzijam tˈɨwət`alatʃɨhu bˈɨləw t`ˈəβək`otʃen ʔˈasɨfəraruwatʃəw |10
+LJSpeech-1.1/wavs/10_d510035.wav|bˈəlela bˈəkul sˈɨrɨk`otɨna mˈəsəl wˈənɨdʒəlotʃɨn mˈɨkɨnɨjat ʔˈadɨrɨɡwə bˈərɨkata jˈəmək`əle kˈətəma nˈəwariwotʃ bˈəmətafəs lˈaj mˈəhonatʃəw tˈawɨk`wal |10
+LJSpeech-1.1/wavs/10_d510037.wav|ʔˈawɨropɨlanu ʔˈɨk`atʃ`aɲ sˈihon bˈəβərəraw lˈaj sˈɨdɨsɨt jˈəʔajər mˈənɨɡəd sˈəratəɲotʃɨn ʔˈasafɨro nˈəβər |10
+LJSpeech-1.1/wavs/10_d510038.wav|kˈəzija wˈɨtʃ` jˈəmɨnɨləw ʔˈajɨnorənɨm |10
+LJSpeech-1.1/wavs/11_d511021.wav|jˈəsomalija mˈənɨɡɨsɨt hˈaɡəritun jˈəʔaʃəβariwotʃ mˈənaʔarija ʔˈɨjadərəɡat nˈəw tˈəβalə |11
+LJSpeech-1.1/wavs/11_d511022.wav|lˈəman ʔˈaβet mˈalət ʔˈɨnɨdəmitʃalɨm ɡˈɨra ɡˈəβɨtonal bˈəmalət nˈəɡadewotʃu bˈɨsotatʃəwɨn ɡˈəlɨtsəwal |11
+LJSpeech-1.1/wavs/11_d511023.wav|ɡˈudajun bˈək`ɨrɨb lˈəmɨnɨkətatələw sˈəwotʃ mˈɨnɨm ʔˈasɨdənɨɡatʃ` jˈɨzət jˈələwɨm |11
+LJSpeech-1.1/wavs/11_d511024.wav|jˈɨx sˈiminɨto bˈahɨr dˈar lˈajɨm jˈəmiʃət`əw bˈəsɨlɨsa ʔˈamɨsɨt bˈɨr nˈəw |11
+LJSpeech-1.1/wavs/11_d511025.wav|sˈəlam lˈəʔɨnanɨtə jˈɨhun ʔˈɨdɨmɨtəɲotʃe ʔˈɨne ʔˈaʃɨmurəɲaw lˈəʔɨnanɨtə sˈəlamɨna t`ˈenawɨn ʔˈɨməɲaləhu |11
+LJSpeech-1.1/wavs/11_d511026.wav|ʔˈitɨjop`ɨja sˈəlam fˈəlaɡi bˈəməmɨsəl ʔˈɨjadərəɡətʃ jˈalətʃɨwɨn dˈəβa lˈəmamɨkənɨna sˈosɨtəɲawɨn zˈur wˈərəra lˈəmədəmɨsəs zˈɨɡɨdʒu nˈən sˈilum tˈədəmɨt`əwal |11
+LJSpeech-1.1/wavs/11_d511027.wav|jˈɨhɨn mˈodaliti lˈəmasɨfətsəm hˈalafinət jˈətət`aləβatʃəw jˈəʔalɨdʒərijaw pˈɨrezidanɨtɨna ʔˈadisu jˈəʔaʔad wˈana tsˈəhafi nˈatʃəw |11
+LJSpeech-1.1/wavs/11_d511028.wav|wˈərɨk`ɨna bˈɨr bˈunana ʔˈahɨl ɡˈamoɡwəfa ʔˈalə bˈəmil ʃˈɨfan dˈəβɨdaβem ʔˈɨjətsafə jˈədɨβɨk` mˈahɨβər ʔˈak`wak`wamə |11
+LJSpeech-1.1/wavs/11_d511029.wav|sˈɨjum nˈəw jˈətsafəw bˈɨlo tsˈɨhufun ʔˈajɨtʃe jˈəʔɨrɨsu ʔˈaləməhonun sˈɨnəɡɨrəw ʔˈɨne jˈəmawɨk`əw nˈəɡər jˈələm nˈəw jˈaləɲ |11
+LJSpeech-1.1/wavs/11_d511030.wav|bˈudɨnu bˈəʔɨnɨɡɨliz kˈalut kˈɨləβotʃ bˈəʔakal bˈɨk`atu bˈəkul jˈətəwat`alətɨna dˈisɨpɨlinɨn mˈərɨho jˈadərəɡə ʔˈɨnɨdə nˈəβər jˈɨnəɡəral |11
+LJSpeech-1.1/wavs/11_d511031.wav|ʔˈahun bˈaləβət hˈuneta kˈək`ət`ələ tʃ`ˈɨraʃunu wˈɨdɨdɨru ʔˈɨnɨdajɨt`əfa jˈasəɡal |11
+LJSpeech-1.1/wavs/11_d511032.wav|bˈudɨnu bˈadərəɡatʃəw sˈosɨt tʃ`ˈəwatawotʃ wˈɨsɨt` hˈulətun ʔˈatʃa sˈiwət`a bˈəʔanɨdu tˈəʃənɨfwal |11
+LJSpeech-1.1/wavs/11_d511033.wav|jˈəʔedɨs bˈəʃɨtana jˈəʃaʔɨβija wˈərəra tsˈərə lˈɨmat nˈatʃəw |11
+LJSpeech-1.1/wavs/11_d511034.wav|ʔˈɨnɨdə dˈipɨlomatu kˈəhonə jˈəʃaʔɨβija bˈaləsɨlɨt`anat jˈəʔitɨjop`ɨja t`ˈor ʔˈasəβɨn lˈəməjaz k`ˈorɨt`wal bˈɨləw ʔˈɨrasatʃəwɨn ʔˈasamɨnəwal |11
+LJSpeech-1.1/wavs/11_d511035.wav|wˈədə tˈɨwɨlɨd mˈənɨdəratʃəw jˈəmikədutɨn mˈadən k`ˈərɨto lˈəsɨmɨnɨtəɲaw zˈur jˈəsawa sˈɨlɨt`əna tˈəməlɨmaj lˈəmaɡɨɲət mˈətʃəɡəru tˈəzəɡɨbwal |11
+LJSpeech-1.1/wavs/11_d511036.wav|jˈədɨrɨdʒɨtatʃɨn hˈɨɡ ʔˈasɨkəβari hˈajɨl ʔˈodit kˈomiʃɨn bˈənəsu lˈaj fˈɨrɨdun sˈijasarɨf dˈɨrowɨnɨm ʔˈɨjawək`u kˈudeta jˈadərəɡu bˈəməhonatʃəw lˈik`əβəlu ʔˈalɨfələɡum |11
+LJSpeech-1.1/wavs/11_d511037.wav|sˈɨləziç ɡˈudaj ʔˈanɨd bˈaləsɨlɨt`an sˈinaɡəru mˈənɨɡɨsɨt bˈəwɨsɨt` k`ˈɨrane wˈɨsɨt` nˈəw bˈəmalət ʔˈaɡat`amiwɨnɨna ʔˈɨdɨlun lˈəmət`ək`əm fˈəlɨɡəw nˈəβər bˈɨləwal |11
+LJSpeech-1.1/wavs/11_d511038.wav|ʔˈaləzija kˈəɡuβaʔewotʃatʃəw kˈəsɨβɨsəβawotʃatʃəwɨna kˈədisɨkuratʃəw lˈəhɨzɨβɨna lˈəʔaɡər jˈətərəfə nˈəɡər ʔˈalajənɨm |11
+LJSpeech-1.1/wavs/12_d512021.wav|jˈədɨnɨβər mˈakaləl hˈidətun bˈəʔafat`aɲ ɡˈɨβun ʔˈɨnɨdiməta ʔˈaləm ʔˈak`əfu hˈɨβərətəsəβun ʔˈasɨfəlaɡiwɨn ʔˈɨɡəza ʔˈɨnɨdijadərɨɡ t`ˈɨri jˈɨk`ərɨβal |12
+LJSpeech-1.1/wavs/12_d512022.wav|bˈətətʃ`əmarim jˈəβanɨk k`ˈɨrɨnɨtʃ`afotʃ bˈəleləβatʃəw ʔˈakaβaβiwotʃ jˈəβɨr lˈəwɨt`u jˈəmitəɡəβɨru sˈosɨt mˈəto jˈəmidərɨsu ɡˈizejawi jˈəmələwawətʃ`a t`ˈaβijawotʃ mˈəzəɡadʒətatʃəwɨn ʔˈato dˈuβalə ʔˈasɨrədɨtəwal |12
+LJSpeech-1.1/wavs/12_d512023.wav|jˈɨx dˈəɡɨmo jˈəʔanɨd ʔˈɨmɨnət tˈəkətajɨnətatʃəwɨn ʔˈɨnɨdʒi jˈəhɨzɨβu mˈət`ərija hˈono lˈijaɡələɡɨl jˈəmitʃɨl sˈɨjame ʔˈɨnɨdalɨhonə ɡˈɨlɨts nˈəw |12
+LJSpeech-1.1/wavs/12_d512024.wav|mˈədʒəmərija nˈəɡər jˈɨhɨnɨn hˈɨɡə mˈənɨɡɨsɨt mˈək`əβəl mˈalət jˈəwəjanen jˈəpolətika pˈɨroɡɨram mˈək`əβəl mˈalət jˈɨhonal |12
+LJSpeech-1.1/wavs/12_d512025.wav|jˈəʔonəɡ tˈat`ak`iwotʃ bˈəkenɨja wˈətadərotʃ tˈəkəβəβu |12
+LJSpeech-1.1/wavs/12_d512026.wav|bˈətətʃ`əmari ɡˈazet`əɲa tˈamɨrat zˈuma jˈəʔasɨra sˈɨdɨsɨt ʃˈi bˈɨr wˈas bˈəmat`atu lˈəkəfɨtəɲa ʔˈɨsɨrɨna sˈɨk`aj mˈədarəɡu jˈɨtawəsal |12
+LJSpeech-1.1/wavs/12_d512027.wav|bˈəlɨməna ɡˈizejatʃɨnɨn mˈat`ɨfat jˈələβɨnɨm jˈəmil wˈəre jˈəmijaraɡɨβu ʔˈɨnɨdalu jˈasɨtawək`əw ʔˈitəpodɨx jˈəhɨβɨrətu jˈətɨɡɨl sˈənəd jˈaləɡəβatʃəw nˈatʃəw bˈɨluatʃəwal |12
+LJSpeech-1.1/wavs/12_d512028.wav|t`ˈurətaw ʔˈɨnɨdikəβərɨlət jˈəmajɨfəlɨɡ mˈanɨm jˈələm |12
+LJSpeech-1.1/wavs/12_d512029.wav|mˈat`ɨk`atun jˈədʒəmərətʃɨw ʔˈitɨjop`ɨja nˈat |12
+LJSpeech-1.1/wavs/12_d512030.wav|ɡˈɨn jˈɨx hˈulu wˈɨʃət nˈəw |12
+LJSpeech-1.1/wavs/12_d512031.wav|bˈəzɨɡ sˈɨtadijom tʃ`ˈəwatawotʃ jˈəmikənawənut bˈudɨnun lˈəmək`ɨt`at hˈonə tˈəβɨlo bˈəfedereʃɨnu ʔˈalijam bˈəkonɨfedereʃɨnu wˈɨsanew sˈisət` nˈəw |12
+LJSpeech-1.1/wavs/12_d512032.wav|jˈəmɨna k`ˈərɨβəw hˈasab bˈəʔitɨjop`ɨja fˈutɨβol fˈedereʃɨn zˈənɨd tˈək`əβajɨnət jˈaɡəɲal bˈɨlən ʔˈɨnɨɡəmɨtalən |12
+LJSpeech-1.1/wavs/12_d512033.wav|k`ˈɨdus ɡˈijorɨɡis bˈəzənɨdɨro wˈɨdɨdɨr lˈaj t`ˈənɨkara tˈəfokakari lˈəməhon jˈəβanɨkotʃun ʔˈanɨtənəx fˈələk`ənɨna jˈəʔitɨjop`ɨja bˈuna tˈewodɨros bˈək`ələn ʔˈasɨkoβɨlɨlual |12
+LJSpeech-1.1/wavs/12_d512034.wav|bˈəʔɨsɨraʔel ʔˈirak` ʔˈiranɨn rˈusija rˈuwanɨda mˈalaʒɨja lˈiβija lˈaʔos sˈɨpen sˈorija wˈəzət ɡˈazet`əɲotʃ ʔˈɨnɨdə lˈɨb jˈəmənɨk`əsak`əsu ʔˈɨdɨl ʔˈɨnɨdəlelatʃəw dˈɨrɨdʒɨtu zˈəɡɨbwal |12
+LJSpeech-1.1/wavs/12_d512035.wav|bˈəwək`ɨtu jˈət`əlat sˈərawit jˈətʃ`anu jˈəmiɡəɲuβatʃəwɨn kˈəsəlasa bˈəlaj jˈət`əlat mˈəkinawotʃɨn ʔˈaɡajɨtəwal |12
+LJSpeech-1.1/wavs/12_d512036.wav|jˈɨhɨnɨn bˈətəmələkətə kˈəwɨtʃ` ɡˈudaj mˈinisɨter mˈaβɨrarija lˈəmaɡɨɲət jˈadərəɡəw t`ˈɨrət ʔˈalɨtəsakam |12
+LJSpeech-1.1/wavs/12_d512037.wav|ɡˈɨn ʔˈɨnəsu ʔˈafənɨɡɨt`əw bˈajɨwət`u lˈɨjunətu mˈət`ɨβəb jˈɨtʃɨl nˈəβər |12
+LJSpeech-1.1/wavs/12_d512038.wav|bˈətələj kˈəʔihadeɡ bˈaləsɨlɨt`anotʃ ɡˈar ʔˈaβɨrəw sˈisəruna sˈijaseru bˈɨzu ʔˈamət k`ˈojɨtəwal |12
+LJSpeech-1.1/wavs/13_d513021.wav|ʔˈahunɨm bˈihon bˈaləfut ʔˈasɨrɨt ʔˈamətat ʔˈɨnɨdadərəɡətʃɨw hˈulu bˈəsomalija sˈəlam ʔˈɨnɨdisəfɨn tˈɨsəralətʃ bˈɨləwal |13
+LJSpeech-1.1/wavs/13_d513022.wav|lˈəʔaɡəratʃɨn pˈolətika jˈəʔɨnɨdʒəra lˈɨdʒ hˈonənal jˈəmilu wˈəɡənotʃ bˈɨrət mˈanɨsatatʃəwɨn ʔˈɨjənəɡərun nˈəw |13
+LJSpeech-1.1/wavs/13_d513023.wav|bˈəsosɨtəɲaw dˈərədʒa dˈəɡɨmo ʔˈamɨβaɡənənun sˈɨrɨʔat bˈəsɨmu jˈəmit`əra bˈəməhonum ʔˈaβɨzaɲaw ʔˈitɨjop`ɨjawi jˈakəβɨrəwal |13
+LJSpeech-1.1/wavs/13_d513024.wav|zˈare bˈərɨkata tʃˈɨɡɨrotʃ kˈəfitatʃɨn tˈədək`ɨnəwal |13
+LJSpeech-1.1/wavs/13_d513025.wav|bˈək`a ʔˈɨnɨdə fˈərədəβɨɲ ʔˈɨne ʔˈɨfəlɨɡaləhu jˈɨlal zˈəβəɲaw jˈəʔahunun bˈaləsɨlɨt`an wˈəjɨnɨm ɡˈumɨtu tˈəɡadalaj |13
+LJSpeech-1.1/wavs/13_d513026.wav|jˈəʃex ʔˈalamudin hˈaβɨt bˈəsənɨt`ərəʒu lˈaj jˈətəmələkətəw bˈɨtʃa ʔˈɨnɨdalɨhonəna jˈɨx zˈɨrɨzɨr bˈətəɡəɲə mˈərədʒa lˈaj bˈɨtʃa tˈəməsɨrɨto jˈətət`ənakərə mˈəhonun lˈəmərədat tˈətʃɨlual |13
+LJSpeech-1.1/wavs/13_d513027.wav|ʃˈatʃ`ɨm ɡˈəʒim kˈəziç kˈətəfək`ədəw bˈota bˈək`ər kˈəlela zˈənɨd sˈɨtɨɡəza jˈətəɡəɲəx sˈəw bˈəkəβɨtɨx tˈɨk`ət`aləx |13
+LJSpeech-1.1/wavs/13_d513028.wav|mˈənɨɡɨsɨt jˈəmələsatʃəw jˈəβetə kˈɨhɨnət hˈɨnɨtsawotʃ kˈəʔaβa p`ˈawɨlos ʔˈɨdʒ ʔˈɨnɨdəmajɨwət`u tˈəɡələtsə |13
+LJSpeech-1.1/wavs/13_d513029.wav|wˈɨt`etu jˈət`əməməβətɨn lˈivərɨpul jˈək`ədɨmow zˈɨnawɨn lˈəmasɨmələs ʔˈɨnɨdəmit`əru jˈɨnaɡəralu |13
+LJSpeech-1.1/wavs/13_d513030.wav|tˈekɨniʃanu ʔˈasɨton vˈilan bˈəɡənɨzəb mˈəɡudat ʔˈajaʃam |13
+LJSpeech-1.1/wavs/13_d513031.wav|ʔˈɨziç lˈaj ɡˈuri mˈijo k`ˈəri hˈulət tʃ`ˈəwata ʔˈalə wˈɨ |13
+LJSpeech-1.1/wavs/13_d513032.wav|kˈəʔahun wˈədija tˈəməlɨkatʃun wˈədə mˈeda lˈəməmələs mˈɨnɨm ʔˈajɨnət mˈəfɨtɨhe lˈijaβədʒulət ʔˈajɨtʃɨlum |13
+LJSpeech-1.1/wavs/13_d513033.wav|bˈəβɨzat ɡˈɨn bˈəjəmənɨɡədu dˈar bˈəjəβərənɨdaw lˈajɨm lˈəmadər bˈəməkəlɨkəlatʃəw mˈaj hˈab hˈab jˈətəβalə jˈəkətəmaw k`ˈoʃaʃa mˈat`ərak`əmija bˈota jˈəmijadɨru mˈəhonun ɡˈəlɨt`əwal |13
+LJSpeech-1.1/wavs/13_d513034.wav|jˈəmənɨɡɨsɨt ɡˈazet`əɲaw ʔˈihɨʔadeɡɨn bˈəzərəɲɨnət kˈəsəsə |13
+LJSpeech-1.1/wavs/13_d513035.wav|rˈitʃarɨd bˈuʃɨr wˈɨjɨjɨtu ɡˈənɨβi ʔˈɨnɨdə nˈəβərə bˈiɡəlɨtsum zˈɨrɨzɨr ɡˈudajotʃɨn kˈəmasɨrədat tˈək`ot`ɨβəwal |13
+LJSpeech-1.1/wavs/13_d513036.wav|pˈɨrezɨdanɨt kˈamɨpawore kˈəʔɨsatʃəw ɡˈar wˈədə ʔˈitɨjop`ɨja nˈa ʔˈerɨtɨra ʔˈɨnɨdimət`u tˈəmat`ɨnəwatʃəw nˈəβər |13
+LJSpeech-1.1/wavs/13_d513037.wav|jˈətsət`ɨtaw mˈɨkɨr bˈet mˈasasəβija lˈakə |13
+LJSpeech-1.1/wavs/13_d513038.wav|ʔˈamɨsɨtəɲaw ɡˈɨβɨtsawi sˈihonu dˈaɡɨm lˈəməmərət` ʔˈɨnɨdəmajɨfəlɨɡu tˈawɨk`wal |13
+LJSpeech-1.1/wavs/14_d514021.wav|lˈidərəɡ lˈətasəβəw lˈəwɨt` t`ˈɨnatɨna zˈɨɡɨdʒɨtun ʔˈɨjətəɡəβadədə nˈəw bˈɨləwal |14
+LJSpeech-1.1/wavs/14_d514022.wav|dˈənɨβe mˈənɨɡul bˈəʔawəzaɡaβiwa jˈəβadɨmə mˈənɨdər ʔˈakaβaβi ʔˈarat mˈəto mˈetɨr jˈahɨl lˈəʔerɨtɨra wˈədə tˈəwəsənəw ɡˈɨzat ɡˈəβa bˈɨla jˈəmɨtɨɡəɲ nˈat |14
+LJSpeech-1.1/wavs/14_d514023.wav|sˈɨləzihɨm jˈəβet sˈɨrawɨn sˈajɨsəra jˈətɨmɨhɨrɨt ɡˈize jˈədərəsəβət tˈəmari mˈəsɨlual |14
+LJSpeech-1.1/wavs/14_d514024.wav|sˈɨlə t`ˈorɨnətu mˈənaɡər bˈəʔɨnəsu sˈɨləmijamɨr ɡˈudajun lˈəʔɨnəsu mˈətəw bˈəfək`ədɨku |14
+LJSpeech-1.1/wavs/14_d514025.wav|jˈəʔitɨjop`ɨja hˈulət tˈəwaɡi dʒˈətotʃ bˈəʔasɨra hˈulət bˈonɨb jˈəʔasəβɨn ʔˈajər t`ˈaβija mˈəmɨtatatʃəw tˈərəɡaɡət`ə |14
+LJSpeech-1.1/wavs/14_d514026.wav|jˈəβahɨr bˈər bˈinorən jˈɨt`ək`ɨmənal |14
+LJSpeech-1.1/wavs/14_d514027.wav|bˈəzihu sˈɨβɨsəβa lˈaj jˈəkenɨjana jˈəruwanɨda mˈinisɨtɨrotʃ jˈalɨtəɡəɲu sˈihon jˈəhulətum mˈənɨɡɨsɨtat tˈəwəkajotʃ ɡˈɨn bˈəsɨβɨsəβaw lˈaj mˈəɡəɲətatʃəw tˈawɨk`wal |14
+LJSpeech-1.1/wavs/14_d514028.wav|jˈɨhɨn ʔˈɨnɨdə ʔˈasɨfəlaɡinətu bˈəʔakaβaβiw mˈujawɨna bˈɨk`atu jˈəlelatʃəw sˈəwotʃ wˈəjɨm bˈəmifələɡəw mˈət`ən bˈəmajɨɡəɲuβət wˈək`ɨt jˈəwɨtʃ` zˈeɡwətʃ jˈəmisatəfɨβət ʔˈɨdɨl jˈɨnoral |14
+LJSpeech-1.1/wavs/14_d514029.wav|kˈəʔadis ʔˈaβa wˈədə dʒˈɨma bˈəmiwəsɨdəw mˈənɨɡəd hˈamɨsa ʔˈamɨsɨt kˈilo mˈetɨr bˈəmɨtɨɡəɲəw bˈətədʒi kˈətəma ʔˈakaβaβi bˈɨzu sˈəwotʃ mˈotəwal tˈəβɨlual |14
+LJSpeech-1.1/wavs/14_d514030.wav|ɡˈɨn bˈət`am t`ˈɨru jˈɨhonal jˈəmil hˈasab ʔˈalɨnəβərəɲɨm |14
+LJSpeech-1.1/wavs/14_d514031.wav|hˈulatʃɨnɨm kˈəsɨhɨtətotʃatʃɨn ʔˈɨnɨdɨnɨmar jˈadərɨɡənal |14
+LJSpeech-1.1/wavs/14_d514032.wav|bˈuna ɡˈəβəja ʔˈadəɡəɲa jˈəmiləw zˈematʃəw bˈətələj mˈətawək`ijatʃəw hˈonwal |14
+LJSpeech-1.1/wavs/14_d514033.wav|lˈətʃɨɡɨru bˈəɡwə mˈɨlaʃ mˈaɡɨɲət jˈəmitʃaləw kˈəkaf zˈənɨd nˈəw |14
+LJSpeech-1.1/wavs/14_d514034.wav|bˈəziç rˈəɡəd ʔˈaj ʔˈem ʔˈef ʔˈɨk`ɨdu jˈəmisət`əw bˈɨdɨr bˈədɨrɨdʒɨtu tˈɨʔɨzaz ʔˈɨsɨkalɨtəfətsəmə dˈɨrəs jˈənətsa ɡˈəβəjawɨn mˈərɨx mˈaraməd ʔˈajɨtʃɨlɨm |14
+LJSpeech-1.1/wavs/14_d514035.wav|ʔˈamɨβasadər bˈadɨr bˈəhulət ʔˈaɡərotʃ jˈalu jˈənɨɡɨd sˈəwotʃ jˈəβələt`ə lˈəməsɨrat ʔˈɨnɨditʃɨlu ʔˈaɡat`amiwotʃ mˈət`ək`əm ʔˈɨnɨdəmitʃɨlum ʔˈasɨmɨrəwɨβətal |14
+LJSpeech-1.1/wavs/14_d514036.wav|bˈəhɨɡ mˈədɨrək jˈətədərəɡəw tˈɨɡɨl fˈɨtɨx tˈəɡəɲəβətɨm ʔˈalɨtəɡəɲəβətɨm wˈətʃ`i jˈəmidərəɡɨβət nˈəw |14
+LJSpeech-1.1/wavs/14_d514037.wav|kˈəʃaʔɨβija ʔˈamɨlɨt`əw jˈəmən jˈəɡəβu ʔˈitɨjop`ɨjawɨjan wˈədə hˈaɡəratʃəw ɡˈəβu |14
+LJSpeech-1.1/wavs/14_d514038.wav|bˈək`ədada jˈəmiɡəβa nˈɨtsux ʔˈajər tˈaɡəɲalətʃɨna |14
+LJSpeech-1.1/wavs/15_d515021.wav|lˈəʔikonomiw ʔˈɨdɨɡət mˈətʃ`əmər mˈasaja bˈəɡɨβɨrɨnaw zˈərɨf ɡˈəβəja ʔˈat`a ʔˈɨnɨdʒi mˈɨrɨt tʃ`ˈəmɨrwal |15
+LJSpeech-1.1/wavs/15_d515022.wav|ʔˈarɨtisɨt sˈɨləʃiç bˈəpolətika wˈɨsɨt` tˈəsatɨfo jˈalatʃəw ɡˈɨləsəβotʃ bˈəhalafinət mˈək`əmət` ʔˈɨnɨdəleləβatʃəwɨm t`ˈək`umwal |15
+LJSpeech-1.1/wavs/15_d515023.wav|bˈətələj bˈədəβub bˈəkul bˈalaβatotʃ kˈəfɨtəɲa hˈukət ʔˈɨjəfət`əru nˈəβər |15
+LJSpeech-1.1/wavs/15_d515024.wav|bˈəziç ɡˈɨnɨβar jˈəras ʔˈanəsaʃɨnətu bˈəsudan sˈərawit ʔˈɨdʒ ʔˈɨnɨdəhonə lˈəmanɨm ɡˈɨlɨts nˈəw |15
+LJSpeech-1.1/wavs/15_d515025.wav|jˈəʔitɨjop`ɨja mˈənɨɡɨsɨt dˈəβub ʔˈafɨrika kˈoronel mˈənɨɡɨsɨtun ʔˈasalɨfa ʔˈɨnɨdɨtɨsət`at t`ˈəjək`ə |15
+LJSpeech-1.1/wavs/15_d515026.wav|bˈəmɨkɨr bˈetu wˈənɨβər ʔˈanəsɨtəɲa k`ˈut`ɨr jˈalatʃəw tˈək`awamiwotʃ jˈəpolətika pˈarɨtiwotʃ bˈəɡɨmɨɡəmaw tˈəsatafi ʔˈalə mˈəhonatʃəw k`ˈɨreta ʔˈɨnɨdasadərəβatʃəw kˈəparɨtiwotʃu ʔˈaβalat lˈəmawək` tˈətʃɨlual |15
+LJSpeech-1.1/wavs/15_d515027.wav|bˈəzihɨm mˈəɡɨβat ʔˈatɨtʃɨlɨm sˈiβal jˈəriporɨtər ɡˈazet`a wˈana ʔˈazəɡadʒ jˈaləmɨnɨm t`ˈɨjak`e tˈəfətɨʃəw lˈiɡəβu mˈətʃalatʃəw t`ˈək`umwal |15
+LJSpeech-1.1/wavs/15_d515028.wav|kˈəzija bˈətəɲatʃɨβət t`ˈəβɨsɨk`a kˈəʔalɨɡa ɡˈar ʔˈat`aβɨk`a bˈəməjaz ʔˈanɨɡətwan bˈəβila mˈək`urət` tˈɨdʒəmɨralətʃ |15
+LJSpeech-1.1/wavs/15_d515029.wav|jˈɨhɨnɨn jˈəʔitɨjop`ɨja wˈətadərotʃ ʔˈɨrɨmɨdʒa jˈəsumale lˈanɨd tˈət`əri ʔˈɨwɨnət sˈilu ʔˈɨnɨdarəɡaɡət`ut jˈəβiβisi rˈedɨjo jˈəharɨɡesa wˈɨzəɡaβi bˈasaləfəw jˈəsɨlɨk zˈena lˈaj ɡˈəlɨtswal |15
+LJSpeech-1.1/wavs/15_d515030.wav|kˈəkwas hwˈala sˈirot`u jˈəmisɨtəwalut bˈəfitɨm ʔˈahunɨm hˈaja hˈulət tˈətʃ`awatʃotʃ nˈatʃəw |15
+LJSpeech-1.1/wavs/15_d515031.wav|ʔˈɨnɨdə tˈəmələkətɨnəw ʔˈasəlɨt`aɲ tˈəsɨfaje ʔˈɨsɨkə ʔˈɨrəfɨt kˈəmək`əmətʃ`aw ʔˈalɨtənəsam nˈəβər |15
+LJSpeech-1.1/wavs/15_d515032.wav|bˈəziç sˈəmon nˈəw kˈəkwas ɡˈar jˈətəjajazə lˈɨmɨmɨd mˈəsɨrat jˈədʒəmərɨnəw |15
+LJSpeech-1.1/wavs/15_d515033.wav|kˈəziç bˈəfit jˈɨhɨn ʔˈajɨnət ʔˈɨdɨl ʔˈaɡɨɲɨtəw kˈətəɡwazut mˈəkakəl ʔˈanɨdanɨdotʃu bˈətɨmɨhɨrɨtatʃəw bˈəməɡɨfat jˈəmədʒəmərija dˈiɡɨrijatʃəwɨn ʔˈaɡɨɲɨtəwal |15
+LJSpeech-1.1/wavs/15_d515034.wav|ʔˈitɨjop`ɨjawijan dʒˈəɡɨnotʃ mˈəhonatʃɨn lˈɨnasajatʃəw jˈɨɡəβanal |15
+LJSpeech-1.1/wavs/15_d515035.wav|mˈəfɨtɨhe jˈəmidərəɡɨlət kˈəhonə jˈəʃaʔɨβija ʔˈɨdʒotʃ wˈəj mˈəsəβɨsəb ʔˈalijam mˈək`orət` ʔˈaləβatʃəw |15
+LJSpeech-1.1/wavs/15_d515036.wav|jˈətɨɡɨraj hˈɨzɨb dˈɨrɨdʒɨt ʔˈɨjə ɡwˈədana ʔˈɨjak`osələ ʔˈɨnɨdʒi ʔˈaladanəwɨm |15
+LJSpeech-1.1/wavs/15_d515037.wav|pˈutɨlanɨd jˈəmɨtɨɡəɲəw ɡˈalakaje ʔˈɨsɨki dˈərɨsu dˈɨrəs jˈəʔitɨjop`ɨja mˈəkəlakəja hˈajɨl ʔˈɨnɨdadʒəβatʃəw tˈawɨk`wal |15
+LJSpeech-1.1/wavs/15_d515038.wav|jˈɨhun ʔˈɨnɨdʒi jˈɨx ʔˈaβaβal ʔˈɨnɨdə sˈɨhɨtət ʔˈɨnɨdal tˈək`ot`ərə tˈənɨtsəβa rˈɨk`wal |15
+LJSpeech-1.1/wavs/16_d516021.wav|jˈəʔajɨnəsɨwɨran jˈəβɨral ɡˈazet`ana jˈəɡulɨx hˈɨtɨmət mˈədʒəmər zˈare bˈəhilɨtən hˈotel jˈɨfa ʔˈɨnɨdəmihon jˈəʔitɨjo nˈiwɨs jˈəβɨral ɡˈazet`a wˈana ʔˈazəɡadʒ ɡˈələtsu |16
+LJSpeech-1.1/wavs/16_d516022.wav|mˈɨkɨr bˈetu kˈəziç k`ˈədəm jˈək`ərəβələtɨn jˈəʔoditər rˈiporɨt mˈəsərət ʔˈadɨrɨɡwə mˈɨn ʔˈɨrɨmɨdʒa wˈəsədə bˈəmalət lˈəʔafə ɡˈuβaʔew t`ˈɨjak`e k`ˈərɨbwal |16
+LJSpeech-1.1/wavs/16_d516023.wav|wˈədə ʔˈasɨməra kˈəɡəsəɡəsɨn kˈətowɨnɨm ʔˈaləm ʔˈak`əf mˈaʔɨk`əb jˈɨt`alɨβatʃəw jˈəmil wˈɨsane jˈɨsət`ɨβɨnal |16
+LJSpeech-1.1/wavs/16_d516024.wav|kˈɨlasɨtər bˈomɨb bˈətɨɡɨraj nˈəwariwotʃ lˈaj ʔˈɨnɨdətəwərəwərə jˈəsəmahut ʔˈɨziç ʔˈamerika jˈəmitatəmu ɡˈazet`otʃɨna rˈadijowotʃ bˈəsəfiw sˈizəɡɨβu nˈəw |16
+LJSpeech-1.1/wavs/16_d516025.wav|dʒˈeneralu ʔˈajajɨzəwɨm bˈətɨnanɨtu ʔˈajər t`ˈɨk`at bˈəʔerɨporɨt ʔˈakaβaβi jˈəmiɡəɲ ʔˈanɨd ɡˈɨzuf jˈət`or mˈəsarija mˈəɡazən mˈəɡajətunɨm ʔˈaβɨrarɨtəwal |16
+LJSpeech-1.1/wavs/16_d516026.wav|jˈətɨranɨsu ɡˈɨb t`ˈəβak`i kˈətəməlɨkatʃ ʔˈadɨnak`otɨn tˈətʃɨrotal |16
+LJSpeech-1.1/wavs/16_d516027.wav|ʔˈɨnəɲihɨn bˈəməlaw jˈəʔitɨjop`ɨja hˈɨzɨb sˈɨm sˈəmaʔɨt jˈəhonutɨn ʔˈarɨβəɲa tˈəɡadɨloʔatʃəwɨn lˈəmasanəs jˈətak`ədə sˈera nˈəw bˈəmil k`ˈɨretawɨn ɡˈəlɨt`wal |16
+LJSpeech-1.1/wavs/16_d516028.wav|jˈəʔisiʔe sˈekuritu hˈalafi jˈətəzaβa zˈena tˈəlalɨfwal ʔˈalu |16
+LJSpeech-1.1/wavs/16_d516029.wav|ʔˈanɨdem ɡˈɨn tˈək`əβajɨnət lˈijaɡəɲ ʔˈalɨtʃaləm |16
+LJSpeech-1.1/wavs/16_d516030.wav|ʔˈɨwɨnətawɨnɨm bˈəʔalax sˈɨm ʔˈarəɡaɡɨt`ɨlɨɲ |16
+LJSpeech-1.1/wavs/16_d516031.wav|bˈəβɨherawi lˈiɡu kˈəkətəma wˈədə kˈətəma mˈəzəwawəru tˈətʃ`əmari wˈətʃ`i jˈasɨkətɨlɨβɨnal |16
+LJSpeech-1.1/wavs/16_d516032.wav|jˈəhulɨɡize jˈəjɨx jˈɨmwalalɨn t`ˈɨjak`e dˈokɨtər mˈəkonɨnɨna jˈəβudɨn mˈəriw nˈazɨret bˈənəβərut ɡˈize ʔˈalɨtajəm |16
+LJSpeech-1.1/wavs/16_d516033.wav|vˈijori lˈəʔatɨletiko bˈəsɨpen lˈiɡana bˈəmahɨβərəsəβu wˈanɨtʃ`a lˈisɨt wˈɨsɨt` tˈəməzɨɡɨbwal |16
+LJSpeech-1.1/wavs/16_d516034.wav|ʔˈɨnɨdija wˈɨm bˈɨzuwotʃ ʔˈerɨtɨrawɨjan ʃˈaʔɨβija bˈəʔitɨjop`ɨja lˈaj lˈəkəfətəw wˈərəram ʔˈɨjətət`ərat`əru mˈəmɨt`atatʃəwɨn sˈəmonun kˈəʔasɨməra jˈəmiwət`u wˈərewotʃ jˈasɨrədalu |16
+LJSpeech-1.1/wavs/16_d516035.wav|ɡˈɨn zˈeɡwətʃatʃɨnɨn ʔˈɨnɨdisət`un bˈɨnɨt`əjɨk`ɨm lˈisət`un ʔˈalɨtʃalum bˈəmalət lˈəviʔoʔewa zˈəɡaβi ɡˈəlɨtsəwal |16
+LJSpeech-1.1/wavs/16_d516036.wav|jˈəməsɨkərəm ʔˈanɨdun t`ˈɨk`at k`ˈədɨməw kˈawəɡəzut ʔˈaɡərotʃ ʔˈanɨdwa jˈənəβərətʃɨw sˈudan bˈəzəɡəβaw jˈaləməkatətuwam t`ˈɨjak`e jˈəmijasɨnəsa lˈihon ʔˈɨnɨdəmitʃɨl ʔˈɨnəzihu ʔˈasɨtəjajət sˈətʃ`iwotʃ t`ˈək`uməwal |16
+LJSpeech-1.1/wavs/16_d516037.wav|ʔˈarat kˈilona ʔˈamɨsɨt kˈilo fˈakulitiwotʃɨn k`ˈaɲɨtəw ʃˈɨk`ɨb bˈəməwɨt`at bˈəsɨdɨsɨt kˈilo jˈunivərɨsɨti ʔˈalɨfəw kˈəwət`u bˈəhwala zˈorəw jˈɨmələsalu |16
+LJSpeech-1.1/wavs/16_d516038.wav|nˈəɡər ɡˈɨn jˈəʔerɨtɨran wˈərəra mˈək`ət`əlɨm hˈonə jˈəməretatʃəw ɡˈɨmaʃ wˈədə ʔˈerɨtɨra mˈəkaləlɨna jˈəhɨzɨβatʃəw lˈəhulət mˈəkəfəl jˈəmiwat`ɨlatʃəw ʔˈajɨhonɨm |16
+LJSpeech-1.1/wavs/17_d517021.wav|t`ˈorɨnətu ʔˈɨnɨdəɡəna lˈik`əsək`əs jˈɨtʃɨlal |17
+LJSpeech-1.1/wavs/17_d517022.wav|bˈəməhonum jˈəʔitɨjop`ɨja mˈənɨɡɨsɨt ʔˈirob jˈəʔitɨjop`ɨja ɡˈɨzat hˈuna ʔˈɨnɨdɨtɨk`ət`ɨl ʔˈɨrɨmɨdʒawotʃɨn mˈəwɨsəd ʔˈɨnɨdaləβətɨna jˈədɨnɨβər kˈomiʃɨnum jˈasaləfəwɨn wˈɨsane bˈədɨɡami ʔˈɨnɨdijat`enəw t`ˈəjɨk`əwal |17
+LJSpeech-1.1/wavs/17_d517023.wav|ʔˈɨɲiç wˈəɡənotʃatʃɨn dˈəɡɨmo ʔˈafɨrɨsəw jˈəmiɡəzu hˈonu |17
+LJSpeech-1.1/wavs/17_d517024.wav|zˈafotʃ tˈɨlɨlɨk` dˈɨnɨɡajotʃ wˈəjɨm wˈənɨz kˈalə jˈəʔitɨjop`ɨja dˈɨnɨβər nˈəw jˈɨβalal sˈilu sˈəmɨtʃatʃəwaləhu |17
+LJSpeech-1.1/wavs/17_d517025.wav|ʔˈitɨjop`ɨja lˈuʔalawinətwan lˈəmasɨkəβər mˈəβɨtum hˈajɨlum ʔˈalat |17
+LJSpeech-1.1/wavs/17_d517026.wav|bˈəsəmonu jˈədɨnɨβər wˈɨzɨɡɨb zˈurija jˈətət`ənakərəw zˈəɡəβa k`ˈət`ɨlo k`ˈərɨbwal |17
+LJSpeech-1.1/wavs/17_d517027.wav|ɡˈɨβɨts bˈəʔaβaj wˈɨha lˈaj jˈəkota t`ˈɨjak`e ʔˈak`ərəβətʃ |17
+LJSpeech-1.1/wavs/17_d517028.wav|jˈəʔitɨjop`ɨja bˈaləsɨlɨt`anotʃ jˈəzal ʔˈamɨβəsa kˈətəma kˈɨfuɲa bˈəʔerɨtɨrawijan kˈəβad mˈəsariwotʃ mˈədəβɨdəbwan ʔˈamələkətu |17
+LJSpeech-1.1/wavs/17_d517029.wav|ɡˈədʒəraw tˈəjɨzo mˈɨsɨkɨrotʃ k`ˈərɨβəw jˈəfɨrɨd hˈidətun mˈakənawən sˈitʃɨlu fˈajɨlun zˈəɡɨtəw ʔˈɨnɨdimələs tˈədərɨɡwal |17
+LJSpeech-1.1/wavs/17_d517030.wav|mˈɨnɨm jˈəmitsətsɨtəɲ nˈəɡər jˈələm |17
+LJSpeech-1.1/wavs/17_d517031.wav|bˈəziç mˈɨkɨnɨjat wˈəsaɲ jˈəhonutɨn tˈətʃ`awatʃotʃɨn ʔˈɨjat`an nˈəw |17
+LJSpeech-1.1/wavs/17_d517032.wav|tʃ`ˈəwataw bˈəʔaɡwaɡinətu bˈit`ək`əsɨm jˈərəβa ʔˈɨnɨk`ɨsɨk`ase sˈajɨtajɨβət lˈifətsəm tʃˈɨlual |17
+LJSpeech-1.1/wavs/17_d517033.wav|nˈəɡər ɡˈɨn tʃˈelɨsi lˈəʔawɨropa sˈupər kˈap kˈətʃamɨpijənɨs lˈiɡ ʔˈaʃənafi kˈərijal mˈadɨrid ɡˈar bˈaləβət tʃ`ˈəwata mˈɨkɨnɨjat wˈədə lˈela k`ˈən tˈəzəwawɨrwal |17
+LJSpeech-1.1/wavs/17_d517034.wav|ʔˈitɨjop`ɨja t`ˈorɨnətun bˈədɨl lˈəməwət`at wˈəsaɲuna bˈɨtʃəɲaw ɡˈizewa ʔˈahun nˈəw |17
+LJSpeech-1.1/wavs/17_d517035.wav|bˈɨherawi jˈəmɨrɨtʃ`a bˈorɨd bˈətədəɡaɡami mˈasɨt`ənɨk`ək`ija bˈijasɨtəlalɨfɨm lˈisaka ʔˈaləmətʃalunɨna ʔˈɨnɨdəwɨm bˈəʔakaβaβiw kˈəmɨrɨtʃ`a ɡˈar bˈətəjajazə kˈəfɨtəɲa tʃˈɨɡɨr ʔˈɨnɨdajɨkəsət sˈɨɡatun nˈəw jˈəɡələtsəw |17
+LJSpeech-1.1/wavs/17_d517036.wav|lˈəziç dˈəɡɨmo mˈənɨɡɨsɨt bˈəʔamətʃatʃələt jˈəβɨdɨr ʔˈaɡəlɨɡɨlot mˈət`ək`əm jˈɨɡəβawal |17
+LJSpeech-1.1/wavs/17_d517037.wav|bˈətətʃ`əmari mˈənɨɡɨsɨtatɨna jˈəsəβɨʔawi mˈəβɨt tˈəmwaɡatʃ dˈɨrɨdʒɨtotʃ jˈəsudan mˈənɨɡɨsɨt jˈəʔasəratʃəwɨn ʔˈoromowotʃ ʔˈɨnɨdifəta tʃ`ˈana ʔˈɨnɨdijadərɨɡ t`ˈəjɨk`wal |17
+LJSpeech-1.1/wavs/17_d517038.wav|ʔˈɨnɨdijawɨm dˈɨrɨɡitu ʔˈitɨjop`ɨja bˈəʔerɨtɨra lˈaj mˈulu wˈərəra lˈəmadɨrəɡ ʔˈɨnɨdə mˈɨkɨnɨjat jˈəmɨtɨt`ək`əmɨβət nˈəw sˈilu kˈonɨnəwal |17
+LJSpeech-1.1/wavs/18_d518021.wav|bˈəʔɨrɨɡɨt` bˈəʔanɨdanɨd mˈɨhuran t`ˈɨru hˈasaβotʃ tˈəsənɨzɨrəwal bˈɨləwal |18
+LJSpeech-1.1/wavs/18_d518022.wav|bˈəʔahunu wˈək`ɨt ʔˈaβɨjatə kˈɨrɨsɨtɨjanatu jˈətəzəɡuβət mˈɨkɨnɨjat mˈɨn ʔˈɨnɨdəhonə ʔˈɨnɨdinəɡəratʃəw ʔˈanɨdanɨd ʔˈaləm ʔˈak`əf jˈəwənɨɡel ʔˈaɡəlɨɡɨlot dˈɨrɨdʒɨtotʃ mˈənɨɡɨsɨtɨn ʔˈɨjət`əjək`u mˈəhonum tˈawɨk`wal |18
+LJSpeech-1.1/wavs/18_d518023.wav|jˈalasəlasəl nˈəw ɡˈudaj bˈəʔamɨβaɡənənotʃɨna bˈət`ɨɡaβəɲotʃ t`ˈos bˈəmik`ət`at`ələw ʔˈɨsat jˈəminədɨdəw jˈəziç zˈəmən jˈəhaɡəratʃɨn tʃ`ˈɨk`un mˈəhonun nˈəw |18
+LJSpeech-1.1/wavs/18_d518024.wav|zˈare ʔˈamerika tˈək`ot`ɨto jˈəʔafɨrika mˈənɨɡɨsɨtat bˈəʔasɨtarak`inət tˈəsəjɨməw ɡˈizejawi jˈətəkus mˈak`om sˈɨmɨmɨnət lˈaj mˈədɨrəs mˈəfɨtɨhe ʔˈajɨhon mˈɨ |18
+LJSpeech-1.1/wavs/18_d518025.wav|nˈətsa ʔˈamələkakətotʃɨn lˈəmaraməd ɡˈəna dʒˈəmariwotʃ hˈonən bˈɨnɨɡəɲɨm bˈəzəmənawiw ʔˈaləm jˈalən hˈulu jˈəʔinɨforɨmeʃɨnɨn ʔˈasɨfəlaɡinət ʔˈat`ək`ak`əmɨn bˈəmiɡəβa ʔˈɨnawɨk`alən |18
+LJSpeech-1.1/wavs/18_d518026.wav|kˈəʔitɨʔop`ɨja nˈəhase ʔˈasɨra hˈulət k`ˈən ʔˈanɨd ʃˈi zˈət`əɲ mˈəto zˈət`əna ʔˈanɨd wˈət`a |18
+LJSpeech-1.1/wavs/18_d518027.wav|jˈəʔɨrəfɨtatʃəwɨnɨm ɡˈize jˈəhazənunɨm sˈɨnəsɨrɨʔat lˈəmawədʒ jˈəβetə mˈənɨɡɨsɨtu mˈədɨf hˈaja ʔˈamɨsɨt ɡˈize dˈɨmɨtsun ʔˈasəma |18
+LJSpeech-1.1/wavs/18_d518028.wav|bˈetə ʔˈɨsɨraʔelotʃɨn ʔˈat`ək`alalə mˈəwɨsəd ʔˈɨsɨraʔel ʔˈɨjat`ənatʃ nˈəw |18
+LJSpeech-1.1/wavs/18_d518029.wav|bˈəhadʒɨna ʔˈumɨra mˈusɨlimotʃ hˈajɨmanotawi ɡˈɨdetatʃəwɨn lˈəməfətsəm bˈəziç tʃˈɨɡɨr ʔˈaβəsa wˈɨsɨt` ɡˈəβɨtəwal |18
+LJSpeech-1.1/wavs/18_d518030.wav|bˈəhaɡəratʃɨn ɡˈɨn jˈərəβa mˈeda ʔˈɨnɨkwan jˈələnɨm |18
+LJSpeech-1.1/wavs/18_d518031.wav|bˈəʔat`ək`alaj bˈəʔɨnena bˈəwanaw tsˈəhafiw mˈəkakəl ʔˈalə mˈəɡɨβaβat sˈikəsət bˈəməhalatʃɨn t`ˈalɨk`a jˈəmiɡəβa wˈəɡən bˈalə mˈənoru tʃˈɨɡɨru lˈiβaβas tʃˈɨlual |18
+LJSpeech-1.1/wavs/18_d518032.wav|ʔˈɨna bˈəhwala nˈəw sˈɨra ʔˈɨjətəfət`ərə lˈət jˈəmət`aw |18
+LJSpeech-1.1/wavs/18_d518033.wav|dˈɨrɨdʒɨtu bˈəmilan lˈənɨdənəna nˈiwɨjorɨk kˈətəmotʃ tsˈɨfət bˈetotʃ sˈinorut kˈəziç lˈela jˈət`alɨjan ʔˈɨɡɨr kwˈas lˈiɡɨn jˈɨk`ot`at`əral |18
+LJSpeech-1.1/wavs/18_d518034.wav|lˈək`ɨsatʃəwɨna ɡˈɨrɨɡɨru sˈiβərɨd lˈək`ən wˈət`an jˈɨx nˈəw ʔˈɨwɨnətaw ʔˈɨnɨdʒi zˈəɡɨjət bˈɨlən jˈəwət`a nˈəw bˈəsɨβɨsəβaw mˈək`ət`ən fˈəlɨɡən ʔˈajɨdələm |18
+LJSpeech-1.1/wavs/18_d518035.wav|ʔˈerɨtɨra nˈɨβɨrətotʃu jˈəʔitɨjop`ɨja ʔˈalə mˈəhonatʃəwɨn ʔˈarəɡaɡɨt`a lˈəsaʔudi kˈəkasa kˈɨfɨja ɡˈar ʔˈɨnɨdəmɨt mˈəlɨs ɡˈəlɨt`alətʃ |18
+LJSpeech-1.1/wavs/18_d518036.wav|k`ˈədəm sˈil mˈinisɨtɨrotʃɨna dʒˈeneralotʃ ʔˈamɨsɨt mˈəto mˈetɨr kˈare bˈota bˈənətsa mˈəwɨsədatʃəw jˈɨtawək`al |18
+LJSpeech-1.1/wavs/18_d518037.wav|ʔˈajajɨzom bˈəmɨsɨrak` mˈəmɨhɨran mˈasəlɨt`əɲa kˈoledʒ sˈəβat jˈəʔoromɨja tˈəmariwotʃ kˈətɨmɨhɨrɨt ɡˈəβətatʃəw mˈəβarəratʃəwɨnɨm ʔˈawɨɡɨzəwal |18
+LJSpeech-1.1/wavs/18_d518038.wav|ʔˈɨnɨdə ʔˈofiselawiw mˈəɡɨlətʃ`a kˈəhonə lˈiβijana ʔˈerɨtɨra bˈəʔikonomina bˈəβahɨl ɡˈudajotʃ lˈaj kˈəɡara sˈɨmɨmɨnət lˈaj dˈərɨsəwal |18
+LJSpeech-1.1/wavs/19_d519021.wav|jˈəʔakaβaβi t`ˈɨβək`a bˈudɨnotʃɨna tˈəməd dˈiditin bˈəmək`awəmatʃəwɨna mˈənɨɡɨsɨtɨm dˈiditin tʃˈəl bˈəmalətu sˈaβija sˈəwotʃ bˈəwəβa sˈijalɨk`u tˈɨlɨk` wˈənɨdʒəl nˈəw bˈəmalət wˈək`ɨsəwal |19
+LJSpeech-1.1/wavs/19_d519022.wav|k`ˈɨdus mˈətsɨhaf dˈɨhotʃɨn mˈənak`ɨna mˈəzənɨɡat ʔˈɨnɨdəmajɨɡəβan jˈəmijasɨt`ənək`ɨk`ən ʔˈɨnɨdiç sˈil nˈəw |19
+LJSpeech-1.1/wavs/19_d519023.wav|mˈəsɨkoβotʃɨn bˈəmasələf bˈɨtʃa ʔˈisajɨjas ʔˈitɨjop`ɨjan lˈəmanɨβərɨkək jˈɨtʃɨlalu |19
+LJSpeech-1.1/wavs/19_d519024.wav|sˈəwɨjew bˈəlɨdʒɨnətu sˈudan bˈəsɨdətəɲɨnət jˈənorə nˈəw |19
+LJSpeech-1.1/wavs/19_d519025.wav|fˈɨjəl kˈəmədɨrəswa k`ˈɨt`əl mˈəβət`əswa |19
+LJSpeech-1.1/wavs/19_d519026.wav|bˈəziç ʔˈasɨtakəw sˈɨdətəɲaw ʔˈɨmɨβi jˈaləwɨn mˈəwatʃ`o bˈəɡɨd ʔˈɨnɨdijawat`a lˈəmadɨrəɡ bˈəwananət jˈətəwət`ənə sˈajɨhon ʔˈɨnɨdalɨk`ərəm ɡˈɨmɨtatʃəwɨn jˈəmijasarɨfu wˈəɡənotʃ ʔˈalu |19
+LJSpeech-1.1/wavs/19_d519027.wav|pˈɨrezɨdanɨtu bˈəzihu nˈɨɡɨɡɨratʃəw ʔˈitɨjop`ɨja jˈədʒɨβuti jˈəhɨjɨwət mˈəsɨmər bˈɨtʃa sˈatɨhon jˈəwədəβu sˈəmanija kˈəməto bˈɨtʃəɲa tˈət`ək`ami mˈəhonwanɨm tʃ`ˈəmɨrəw ʔˈasɨrədɨtəwal |19
+LJSpeech-1.1/wavs/19_d519028.wav|kˈahun jˈətəʃalə jˈənɨsɨha ɡˈize ʔˈɨdɨl jˈəlatʃəwɨm jˈalut ʔˈɨɲiç ʔˈaβat mˈətsɨhaf k`ˈɨdusawi tˈarik bˈəmət`ɨk`əs nˈəw jˈətənətənut |19
+LJSpeech-1.1/wavs/19_d519029.wav|lˈəzeɡwətʃatʃəw jˈətədəladələ nˈuro fˈət`ɨrəw kˈətələjaju hˈaɡərotʃ jˈəmət`u sˈɨdətəɲotʃɨn jˈasɨtənaɡɨdalu bˈəmalət bˈəlɨju ʔˈajɨn ʔˈɨnɨmələkətatʃəw jˈɨhonal |19
+LJSpeech-1.1/wavs/19_d519030.wav|bˈəsɨmɨnɨtəɲaw dˈək`ik`a lˈaj ʔˈanɨd jˈəɡɨremijo tˈətʃ`awatʃ kˈəpenaliti wˈɨtʃ`i tˈəmətɨto k`ˈɨt`at tˈəɡəɲɨto k`ˈɨt`atum tˈəməto bˈəɡɨraw k`wˈami bˈɨrət tˈəməlɨswal |19
+LJSpeech-1.1/wavs/19_d519031.wav|bˈəməlaw hˈaɡəritu jˈətəzərəɡa pˈɨrodʒəkɨt ʔˈalə |19
+LJSpeech-1.1/wavs/19_d519032.wav|lˈelaw jˈəmeda ɡˈudaj nˈəw |19
+LJSpeech-1.1/wavs/19_d519033.wav|hˈaman bˈəβərɨɡər lˈajɨm ʔˈɨnɨdihu fˈawɨl bˈəməsɨratu bˈəhulət bˈitʃ`a kˈəmeda tˈəwəɡɨdwal |19
+LJSpeech-1.1/wavs/19_d519034.wav|t`ˈəβək`otʃatʃəw jˈəɡize k`ˈət`ərowɨn bˈət`ɨβɨk` tˈək`awəmu bˈətələj ʔˈato bˈitəw bˈəlaj bˈəʔɨlɨx kˈətənaɡərut wˈɨsɨt` ʔˈanɨkwar ʔˈanɨkwarun kˈəziç bˈətatʃ ʔˈak`ɨrɨβənəwal |19
+LJSpeech-1.1/wavs/19_d519035.wav|kˈɨlinɨtən bˈəʔitɨjo ʔˈerɨtɨra ɡˈudaj bˈəɡɨl ʔˈɨnɨdiɡəβu tˈət`əjək`ə |19
+LJSpeech-1.1/wavs/19_d519036.wav|hˈulatʃɨnɨm ʔˈɨnɨdətəməɲə nˈəw mˈulu bˈəmulu mˈədəmɨsəs ʔˈɨnɨkwan bˈajɨdərɨsɨβətɨm sˈərawitu bˈət`am kˈəβad ɡˈudatɨna ʔˈasafari ʃˈɨnɨfət dˈərɨsoβətal |19
+LJSpeech-1.1/wavs/19_d519037.wav|k`ˈədəm sˈil jˈət`ək`əsɨkwatʃəw hˈɨməmu jˈətsəna bˈatʃəw wˈədə ʔˈarat mˈəto jˈəmit`əɡu tˈəmariwotʃ kˈəlelotʃ tˈələjɨtəw jˈəmitəɲuβət sˈɨfɨra tˈəzəɡadʒɨtolatʃəwal |19
+LJSpeech-1.1/wavs/19_d519038.wav|kˈəβetəsəβatʃɨn mˈəkakəl bˈəʔɨrɨʃa tˈəɡɨβar lˈaj jˈalɨtəsəmaratʃɨw ʔˈɨnatatʃɨn bˈɨtʃa nˈəβərətʃ |19
+LJSpeech-1.1/wavs/20_d520021.wav|bˈədɨnɨɡət jˈəʔanɨtɨrakɨs bˈakɨterija bˈəʔakaβaβiw sˈɨləmərətʃ`ətu pˈolikɨs kˈəʔanɨd kˈəʔalɨtawək`ə sˈəw jˈəsɨlɨk t`ˈɨri jˈɨdərɨsəwal |20
+LJSpeech-1.1/wavs/20_d520022.wav|kˈədɨnɨβər ɡˈɨtʃ`ɨtu mˈaɡɨsɨt zˈərɨfə bˈɨzu t`ˈɨl fˈɨlɨf pˈolətikawi hˈɨsaβewotʃ ʔˈɨjətəsɨtənaɡədu nˈatʃəw |20
+LJSpeech-1.1/wavs/20_d520023.wav|sˈɨləhonəm jˈəʔahunu dˈɨɡaf bˈəjək`ənu ʔˈɨjətəʃərəʃərə bˈəməhed bˈət`orɨnətu lˈaj ʔˈalutawi wˈɨt`et ʔˈɨnɨdajɨnorəw ʔˈɨfəraləhu |20
+LJSpeech-1.1/wavs/20_d520024.wav|jˈəmilut bˈəʔatʃ`ɨru dˈərədʒə dˈeresa kˈəlɨdʒɨnət ʔˈɨsɨkə ʔˈɨwɨk`ət bˈək`aɲ tˈakətəɲ sˈajɨlu lˈəʔitɨjop`ɨja sˈiləfu hˈɨjɨwətatʃəw jˈaləfə ʔˈarɨβəɲa nˈatʃəw jˈəmil ʔˈajɨnət nˈəw |20
+LJSpeech-1.1/wavs/20_d520025.wav|ɡˈuβaʔew bˈəʔerɨtɨrana bˈəʔitɨjop`ɨja ɡˈudaj tˈəwəjajɨto jˈəʔerɨtɨra mˈənɨɡɨsɨt wˈərəran tˈək`awɨmwal |20
+LJSpeech-1.1/wavs/20_d520026.wav|kˈəzijam lˈənəɡadewotʃ ʔˈanɨd t`ˈərɨmus bˈira jˈəmijak`ərɨβuβət wˈaɡa hˈulət bˈɨr kˈəhaja sˈanɨtim ɡˈədəma mˈəhonun jˈɨnaɡəralu |20
+LJSpeech-1.1/wavs/20_d520027.wav|jˈəʔakaβaβiw kˈəfɨtəɲa bˈalaβat mˈalakɨʃa wˈəri ʔˈɨnɨda tˈawək`ut jˈəʔawɨropɨlan mˈarəfijaw kˈəβad ʔˈawɨropɨlan mˈasarəf jˈɨtʃɨlal tˈəβɨlual |20
+LJSpeech-1.1/wavs/20_d520028.wav|bˈəlela bˈəkul hˈulətu ʔˈerɨtɨrana ʔˈitɨjop`ɨja jˈəɡəzwatʃəw ʔˈawɨroɲəlanotʃ kˈəʔanɨdu wˈana kˈətəma wˈədə lˈelaw jˈəməβɨrər ʔˈak`ɨm ʔˈɨnɨdalatʃəw bˈəzihu zˈəɡəβa tˈərəɡaɡɨt`wal |20
+LJSpeech-1.1/wavs/20_d520029.wav|hˈadʒi mˈəhaməd wˈəle mˈəlɨʔɨkɨt ʔˈasɨtəlaləfu |20
+LJSpeech-1.1/wavs/20_d520030.wav|lˈəzihɨm jˈɨməsɨlal bˈanəsut nˈət`ɨb lˈaj bˈɨzum wˈɨrəfa ʔˈalɨβəzaβatʃəwɨm |20
+LJSpeech-1.1/wavs/20_d520031.wav|bˈək`ɨdame jˈətədərəɡut ɡˈɨt`ɨmijawotʃ lˈətəməlɨkatʃu k`ˈut`ɨr zˈɨk`ɨtəɲa mˈəhon mˈɨkɨnɨjat hˈonwal |20
+LJSpeech-1.1/wavs/20_d520032.wav|kˈəzijam jˈəkɨlɨlu kˈomiʃɨn dʒˈanɨmeda bˈiro sˈɨləsət`ən wˈədəzijaw hˈedɨn |20
+LJSpeech-1.1/wavs/20_d520033.wav|nˈəɡər ɡˈɨn tˈətʃ`awatʃun jˈəmifəlɨɡəw kˈɨləβu ʔˈɨnɨdʒi ʔˈasəlɨt`aɲ ɡˈulet ʔˈalɨnəβərəm |20
+LJSpeech-1.1/wavs/20_d520034.wav|bˈətɨɡɨraj hˈɨzɨb sˈɨm jˈətək`wak`waməw ʔˈefərɨt ʔˈadis jˈəteleviʒɨn t`ˈaβija lˈikəfɨt mˈəhonun lˈəɡazet`awa zˈena dˈes kˈɨβə ʔˈinɨtərɨnet jˈədərəsəw zˈəɡəβa ʔˈamələkətə |20
+LJSpeech-1.1/wavs/20_d520035.wav|kˈəzihɨm lˈela jˈəteleviʒɨnwa ɡˈazet`əɲa ʔˈɨnɨɡɨdazər nˈəɡa ʔˈɨɡɨrwan ʔˈopɨrasijun jˈəhonətʃ sˈihon ʔˈahun kˈəʔopɨrasijonu bˈəhwala bˈədəhɨna hˈuneta tˈɨɡəɲalətʃ sˈil t`ˈək`umwal |20
+LJSpeech-1.1/wavs/20_d520036.wav|zˈətajɨm zˈəɡaβi ʔˈɨnɨdəzəɡəβəw tˈɨlɨk`u jˈəmɨɡɨb mˈaməlaləs tˈəɡɨβar wˈədə dˈinan jˈətədərəɡəw kˈəhamɨsa k`ˈənat bˈəfit nˈəβər |20
+LJSpeech-1.1/wavs/20_d520037.wav|wˈədə kˈətəma bˈəmimət`u ʔˈɨnɨɡɨdotʃ lˈaj dˈɨnɨɡat`en jˈɨfət`ɨral bˈəmil tʃˈɨɡɨru bˈaləβət tˈafɨno ʔˈɨnɨdijaz tˈədərɨɡwal |20
+LJSpeech-1.1/wavs/20_d520038.wav|zˈarem jˈɨx tsˈɨhuf ʔˈɨsɨkə tˈətsafəβət dˈɨrəs kˈəʔanɨd ʃˈi zˈət`əɲ mˈəto ʔˈarɨβa ʔˈamətə mˈɨhɨrət dʒˈəmɨro bˈəzihu kˈətəma bˈəmənor lˈaj jˈɨɡəɲalu |20
